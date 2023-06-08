@@ -1,0 +1,2902 @@
+TaxonomyLevel,TaxonomyValue,InstitutionId,InstitutionName,DegreeInstitutionId,DegreeInstitutionName,Total,Men,Women
+Field,Physics,82,Georgia Tech,251,UC Berkeley,4,3,1
+Field,Physics,82,Georgia Tech,300,University of Michigan,1,1,0
+Field,Physics,82,Georgia Tech,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,82,Georgia Tech,263,CU Boulder,1,0,0
+Field,Physics,82,Georgia Tech,87,Harvard,2,1,0
+Field,Physics,82,Georgia Tech,280,University of Illinois Urbana-Champaign,3,3,0
+Field,Physics,300,University of Michigan,329,University of Rochester,1,1,0
+Field,Physics,82,Georgia Tech,326,UPenn,4,3,1
+Field,Physics,82,Georgia Tech,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,82,Georgia Tech,123,MIT,1,1,0
+Field,Physics,82,Georgia Tech,198,Stanford,4,4,0
+Field,Physics,82,Georgia Tech,31,Caltech,1,1,0
+Field,Physics,82,Georgia Tech,167,Princeton,2,1,1
+Field,Physics,82,Georgia Tech,153,Northwestern,1,1,0
+Field,Physics,82,Georgia Tech,102,Johns Hopkins,1,1,0
+Field,Physics,82,Georgia Tech,261,University of Chicago,2,0,2
+Field,Physics,82,Georgia Tech,51,Cornell,1,1,0
+Field,Physics,82,Georgia Tech,229,UT Austin,2,2,0
+Field,Physics,229,UT Austin,229,UT Austin,6,4,2
+Field,Physics,82,Georgia Tech,163,Penn State,1,0,1
+Field,Physics,82,Georgia Tech,150,Northeastern,1,1,0
+Field,Physics,82,Georgia Tech,172,Rice,1,1,0
+Field,Physics,251,UC Berkeley,51,Cornell,2,2,0
+Field,Physics,251,UC Berkeley,251,UC Berkeley,14,13,1
+Field,Physics,251,UC Berkeley,198,Stanford,7,6,1
+Field,Physics,123,MIT,368,Yale,2,2,0
+Field,Physics,251,UC Berkeley,167,Princeton,3,3,0
+Field,Physics,102,Johns Hopkins,198,Stanford,3,2,0
+Field,Physics,87,Harvard,167,Princeton,4,4,0
+Field,Physics,251,UC Berkeley,132,Michigan State,1,0,1
+Field,Physics,251,UC Berkeley,87,Harvard,5,5,0
+Field,Physics,251,UC Berkeley,123,MIT,6,5,0
+Field,Physics,251,UC Berkeley,300,University of Michigan,1,1,0
+Field,Physics,251,UC Berkeley,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,251,UC Berkeley,347,University of Wisconsin-Madison,3,2,0
+Field,Physics,251,UC Berkeley,346,UW,1,0,0
+Field,Physics,251,UC Berkeley,31,Caltech,3,2,1
+Field,Physics,256,UC San Diego,251,UC Berkeley,5,3,2
+Field,Physics,251,UC Berkeley,102,Johns Hopkins,1,0,0
+Field,Physics,251,UC Berkeley,261,University of Chicago,1,1,0
+Field,Physics,251,UC Berkeley,345,University of Virginia,1,0,0
+Field,Physics,251,UC Berkeley,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,251,UC Berkeley,254,UCLA,1,1,0
+Field,Physics,251,UC Berkeley,368,Yale,1,1,0
+Field,Physics,251,UC Berkeley,49,Columbia,1,0,0
+Field,Physics,251,UC Berkeley,28,Brown,1,1,0
+Field,Physics,251,UC Berkeley,293,UMass Amherst,1,1,0
+Field,Physics,87,Harvard,87,Harvard,13,12,1
+Field,Physics,335,University of Southern California,167,Princeton,2,1,1
+Field,Physics,49,Columbia,31,Caltech,1,1,0
+Field,Physics,49,Columbia,167,Princeton,2,1,0
+Field,Physics,49,Columbia,251,UC Berkeley,3,3,0
+Field,Physics,49,Columbia,123,MIT,4,3,1
+Field,Physics,49,Columbia,156,Ohio State University,1,1,0
+Field,Physics,49,Columbia,146,NYU,1,0,1
+Field,Physics,49,Columbia,289,University of Maryland College Park,1,1,0
+Field,Physics,49,Columbia,261,University of Chicago,1,0,0
+Field,Physics,49,Columbia,51,Cornell,1,1,0
+Field,Physics,49,Columbia,205,SUNY Stony Brook,1,1,0
+Field,Physics,49,Columbia,87,Harvard,4,3,1
+Field,Physics,49,Columbia,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,49,Columbia,368,Yale,1,1,0
+Field,Physics,49,Columbia,49,Columbia,3,3,0
+Field,Physics,156,Ohio State University,329,University of Rochester,1,1,0
+Field,Physics,60,Duke,31,Caltech,4,1,3
+Field,Physics,60,Duke,168,Purdue,1,1,0
+Field,Physics,60,Duke,326,UPenn,1,1,0
+Field,Physics,60,Duke,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,60,Duke,230,UT Dallas,1,1,0
+Field,Physics,60,Duke,123,MIT,2,2,0
+Field,Physics,60,Duke,167,Princeton,2,2,0
+Field,Physics,60,Duke,102,Johns Hopkins,2,2,0
+Field,Physics,60,Duke,289,University of Maryland College Park,1,1,0
+Field,Physics,60,Duke,261,University of Chicago,1,1,0
+Field,Physics,60,Duke,51,Cornell,1,1,0
+Field,Physics,60,Duke,87,Harvard,4,2,1
+Field,Physics,92,Illinois Tech,87,Harvard,1,1,0
+Field,Physics,60,Duke,49,Columbia,1,1,0
+Field,Physics,60,Duke,60,Duke,3,2,0
+Field,Physics,96,Indiana University Bloomington,251,UC Berkeley,3,2,1
+Field,Physics,96,Indiana University Bloomington,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,96,Indiana University Bloomington,326,UPenn,1,1,0
+Field,Physics,96,Indiana University Bloomington,347,University of Wisconsin-Madison,2,1,1
+Field,Physics,96,Indiana University Bloomington,346,UW,1,1,0
+Field,Physics,96,Indiana University Bloomington,198,Stanford,4,4,0
+Field,Physics,96,Indiana University Bloomington,31,Caltech,3,2,1
+Field,Physics,96,Indiana University Bloomington,167,Princeton,2,1,1
+Field,Physics,96,Indiana University Bloomington,153,Northwestern,1,1,0
+Field,Physics,96,Indiana University Bloomington,156,Ohio State University,2,2,0
+Field,Physics,215,Texas A&M,156,Ohio State University,2,1,1
+Field,Physics,96,Indiana University Bloomington,102,Johns Hopkins,1,1,0
+Field,Physics,96,Indiana University Bloomington,289,University of Maryland College Park,1,1,0
+Field,Physics,96,Indiana University Bloomington,358,Washington University St. Louis,1,1,0
+Field,Physics,96,Indiana University Bloomington,261,University of Chicago,3,3,0
+Field,Physics,96,Indiana University Bloomington,51,Cornell,1,1,0
+Field,Physics,96,Indiana University Bloomington,205,SUNY Stony Brook,2,2,0
+Field,Physics,96,Indiana University Bloomington,229,UT Austin,1,1,0
+Field,Physics,96,Indiana University Bloomington,96,Indiana University Bloomington,2,2,0
+Field,Physics,96,Indiana University Bloomington,172,Rice,1,1,0
+Field,Physics,96,Indiana University Bloomington,87,Harvard,3,3,0
+Field,Physics,96,Indiana University Bloomington,254,UCLA,1,1,0
+Field,Physics,96,Indiana University Bloomington,226,University of Tennessee,1,1,0
+Field,Physics,96,Indiana University Bloomington,368,Yale,3,1,1
+Field,Physics,96,Indiana University Bloomington,24,Boston University,1,1,0
+Field,Physics,96,Indiana University Bloomington,274,University of Georgia,1,1,0
+Field,Physics,96,Indiana University Bloomington,293,UMass Amherst,1,0,1
+Field,Physics,96,Indiana University Bloomington,259,UC Santa Cruz,1,0,1
+Field,Physics,163,Penn State,251,UC Berkeley,5,5,0
+Field,Physics,163,Penn State,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,163,Penn State,168,Purdue,1,1,0
+Field,Physics,163,Penn State,326,UPenn,1,1,0
+Field,Physics,163,Penn State,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,132,Michigan State,347,University of Wisconsin-Madison,8,4,2
+Field,Physics,163,Penn State,346,UW,1,0,1
+Field,Physics,163,Penn State,198,Stanford,2,2,0
+Field,Physics,222,Texas Tech,31,Caltech,1,1,0
+Field,Physics,163,Penn State,167,Princeton,3,3,0
+Field,Physics,163,Penn State,102,Johns Hopkins,1,1,0
+Field,Physics,163,Penn State,261,University of Chicago,4,4,0
+Field,Physics,163,Penn State,51,Cornell,3,2,1
+Field,Physics,163,Penn State,205,SUNY Stony Brook,2,0,1
+Field,Physics,163,Penn State,263,CU Boulder,2,2,0
+Field,Physics,163,Penn State,256,UC San Diego,1,1,0
+Field,Physics,163,Penn State,87,Harvard,1,1,0
+Field,Physics,163,Penn State,301,University of Minnesota Twin Cities,2,1,0
+Field,Physics,163,Penn State,368,Yale,2,2,0
+Field,Physics,163,Penn State,163,Penn State,6,4,0
+Field,Physics,163,Penn State,323,University of Notre Dame,1,0,1
+Field,Physics,163,Penn State,49,Columbia,1,0,1
+Field,Physics,51,Cornell,49,Columbia,1,0,0
+Field,Physics,163,Penn State,60,Duke,1,1,0
+Field,Physics,163,Penn State,28,Brown,1,1,0
+Field,Physics,163,Penn State,109,LSU,1,1,0
+Field,Physics,163,Penn State,105,Lehigh,1,0,0
+Field,Physics,168,Purdue,261,University of Chicago,5,5,0
+Field,Physics,327,University of Pittsburgh,49,Columbia,1,1,0
+Field,Physics,15,Auburn,368,Yale,1,1,0
+Field,Physics,168,Purdue,28,Brown,1,0,0
+Field,Physics,168,Purdue,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,168,Purdue,326,UPenn,1,1,0
+Field,Physics,168,Purdue,347,University of Wisconsin-Madison,2,1,0
+Field,Physics,168,Purdue,123,MIT,1,1,0
+Field,Physics,168,Purdue,198,Stanford,3,2,0
+Field,Physics,168,Purdue,31,Caltech,2,1,0
+Field,Physics,168,Purdue,167,Princeton,1,1,0
+Field,Physics,168,Purdue,73,Florida State,1,1,0
+Field,Physics,168,Purdue,156,Ohio State University,2,0,1
+Field,Physics,168,Purdue,146,NYU,1,1,0
+Field,Physics,168,Purdue,251,UC Berkeley,3,1,1
+Field,Physics,168,Purdue,102,Johns Hopkins,1,0,0
+Field,Physics,168,Purdue,358,Washington University St. Louis,1,1,0
+Field,Physics,168,Purdue,51,Cornell,2,2,0
+Field,Physics,168,Purdue,205,SUNY Stony Brook,1,1,0
+Field,Physics,168,Purdue,300,University of Michigan,2,2,0
+Field,Physics,168,Purdue,229,UT Austin,2,1,0
+Field,Physics,168,Purdue,87,Harvard,3,1,0
+Field,Physics,168,Purdue,254,UCLA,1,0,1
+Field,Physics,168,Purdue,368,Yale,1,1,0
+Field,Physics,168,Purdue,24,Boston University,3,2,1
+Field,Physics,168,Purdue,163,Penn State,1,1,0
+Field,Physics,168,Purdue,247,University of Arizona,1,1,0
+Field,Physics,168,Purdue,49,Columbia,4,4,0
+Field,Physics,168,Purdue,60,Duke,1,0,0
+Field,Physics,168,Purdue,55,Dartmouth,1,1,0
+Field,Physics,168,Purdue,35,Case Western Reserve,1,1,0
+Field,Physics,168,Purdue,210,Syracuse,2,1,1
+Field,Physics,300,University of Michigan,261,University of Chicago,4,4,0
+Field,Physics,300,University of Michigan,280,University of Illinois Urbana-Champaign,3,3,0
+Field,Physics,300,University of Michigan,123,MIT,3,3,0
+Field,Physics,300,University of Michigan,346,UW,1,1,0
+Field,Physics,31,Caltech,346,UW,1,0,1
+Field,Physics,300,University of Michigan,198,Stanford,3,2,0
+Field,Physics,300,University of Michigan,167,Princeton,4,4,0
+Field,Physics,300,University of Michigan,251,UC Berkeley,5,5,0
+Field,Physics,300,University of Michigan,289,University of Maryland College Park,1,1,0
+Field,Physics,229,UT Austin,261,University of Chicago,1,0,1
+Field,Physics,300,University of Michigan,51,Cornell,2,1,0
+Field,Physics,300,University of Michigan,205,SUNY Stony Brook,3,3,0
+Field,Physics,300,University of Michigan,258,UC Santa Barbara,2,0,2
+Field,Physics,300,University of Michigan,300,University of Michigan,5,5,0
+Field,Physics,300,University of Michigan,87,Harvard,1,1,0
+Field,Physics,300,University of Michigan,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,300,University of Michigan,368,Yale,3,3,0
+Field,Physics,300,University of Michigan,49,Columbia,2,0,1
+Field,Physics,289,University of Maryland College Park,256,UC San Diego,2,2,0
+Field,Physics,247,University of Arizona,31,Caltech,4,2,0
+Field,Physics,247,University of Arizona,167,Princeton,4,4,0
+Field,Physics,247,University of Arizona,168,Purdue,2,0,1
+Field,Physics,247,University of Arizona,247,University of Arizona,27,20,0
+Field,Physics,247,University of Arizona,123,MIT,5,4,1
+Field,Physics,247,University of Arizona,198,Stanford,5,5,0
+Field,Physics,247,University of Arizona,229,UT Austin,2,1,0
+Field,Physics,247,University of Arizona,51,Cornell,4,4,0
+Field,Physics,247,University of Arizona,346,UW,1,1,0
+Field,Physics,247,University of Arizona,153,Northwestern,1,1,0
+Field,Physics,247,University of Arizona,99,Iowa State,1,0,0
+Field,Physics,247,University of Arizona,146,NYU,2,1,1
+Field,Physics,247,University of Arizona,251,UC Berkeley,1,1,0
+Field,Physics,247,University of Arizona,237,Tufts,1,1,0
+Field,Physics,247,University of Arizona,261,University of Chicago,1,1,0
+Field,Physics,247,University of Arizona,258,UC Santa Barbara,1,1,0
+Field,Physics,247,University of Arizona,300,University of Michigan,1,1,0
+Field,Physics,247,University of Arizona,172,Rice,1,1,0
+Field,Physics,247,University of Arizona,87,Harvard,1,1,0
+Field,Physics,247,University of Arizona,301,University of Minnesota Twin Cities,1,0,1
+Field,Physics,247,University of Arizona,253,UC Irvine,1,1,0
+Field,Physics,247,University of Arizona,311,"University of Nevada, Las Vegas",1,1,0
+Field,Physics,247,University of Arizona,270,University of Delaware,1,1,0
+Field,Physics,247,University of Arizona,259,UC Santa Cruz,1,1,0
+Field,Physics,247,University of Arizona,96,Indiana University Bloomington,1,1,0
+Field,Physics,247,University of Arizona,343,University of Utah,1,0,0
+Field,Physics,247,University of Arizona,326,UPenn,2,1,0
+Field,Physics,247,University of Arizona,215,Texas A&M,1,1,0
+Field,Physics,247,University of Arizona,345,University of Virginia,1,0,0
+Field,Physics,247,University of Arizona,192,Southern Illinois University Carbondale,1,1,0
+Field,Physics,247,University of Arizona,368,Yale,1,0,0
+Field,Physics,247,University of Arizona,210,Syracuse,1,1,0
+Field,Physics,247,University of Arizona,329,University of Rochester,2,2,0
+Field,Physics,247,University of Arizona,325,University of Oregon,1,1,0
+Field,Physics,247,University of Arizona,351,Vanderbilt,1,1,0
+Field,Physics,247,University of Arizona,314,University of New Mexico,1,1,0
+Field,Physics,215,Texas A&M,346,UW,2,2,0
+Field,Physics,273,University of Florida,31,Caltech,2,1,1
+Field,Physics,358,Washington University St. Louis,168,Purdue,1,1,0
+Field,Physics,358,Washington University St. Louis,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,358,Washington University St. Louis,123,MIT,2,2,0
+Field,Physics,358,Washington University St. Louis,31,Caltech,3,2,0
+Field,Physics,358,Washington University St. Louis,167,Princeton,1,1,0
+Field,Physics,358,Washington University St. Louis,99,Iowa State,1,0,0
+Field,Physics,358,Washington University St. Louis,251,UC Berkeley,3,2,0
+Field,Physics,358,Washington University St. Louis,289,University of Maryland College Park,1,0,0
+Field,Physics,358,Washington University St. Louis,358,Washington University St. Louis,8,7,1
+Field,Physics,358,Washington University St. Louis,261,University of Chicago,1,1,0
+Field,Physics,358,Washington University St. Louis,51,Cornell,1,1,0
+Field,Physics,358,Washington University St. Louis,87,Harvard,6,6,0
+Field,Physics,358,Washington University St. Louis,35,Case Western Reserve,2,1,1
+Field,Physics,358,Washington University St. Louis,254,UCLA,1,1,0
+Field,Physics,358,Washington University St. Louis,48,Colorado State,1,0,0
+Field,Physics,358,Washington University St. Louis,49,Columbia,1,1,0
+Field,Physics,358,Washington University St. Louis,82,Georgia Tech,1,1,0
+Field,Physics,358,Washington University St. Louis,28,Brown,1,1,0
+Field,Physics,358,Washington University St. Louis,159,Old Dominion,2,0,2
+Field,Physics,146,NYU,167,Princeton,7,6,1
+Field,Physics,146,NYU,51,Cornell,1,1,0
+Field,Physics,146,NYU,49,Columbia,2,2,0
+Field,Physics,146,NYU,326,UPenn,1,1,0
+Field,Physics,270,University of Delaware,326,UPenn,2,1,1
+Field,Physics,146,NYU,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,146,NYU,123,MIT,1,0,0
+Field,Physics,146,NYU,346,UW,1,1,0
+Field,Physics,146,NYU,198,Stanford,3,3,0
+Field,Physics,146,NYU,31,Caltech,3,2,0
+Field,Physics,146,NYU,156,Ohio State University,1,1,0
+Field,Physics,146,NYU,251,UC Berkeley,3,3,0
+Field,Physics,146,NYU,289,University of Maryland College Park,2,1,0
+Field,Physics,146,NYU,261,University of Chicago,1,1,0
+Field,Physics,146,NYU,258,UC Santa Barbara,1,0,1
+Field,Physics,146,NYU,300,University of Michigan,1,1,0
+Field,Physics,146,NYU,256,UC San Diego,1,1,0
+Field,Physics,146,NYU,96,Indiana University Bloomington,1,0,1
+Field,Physics,146,NYU,87,Harvard,4,3,1
+Field,Physics,146,NYU,368,Yale,1,0,0
+Field,Physics,146,NYU,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,146,NYU,105,Lehigh,1,1,0
+Field,Physics,146,NYU,259,UC Santa Cruz,2,2,0
+Field,Physics,254,UCLA,31,Caltech,7,4,3
+Field,Physics,254,UCLA,335,University of Southern California,1,1,0
+Field,Physics,254,UCLA,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,254,UCLA,347,University of Wisconsin-Madison,3,3,0
+Field,Physics,254,UCLA,123,MIT,3,3,0
+Field,Physics,254,UCLA,198,Stanford,2,2,0
+Field,Physics,254,UCLA,167,Princeton,4,4,0
+Field,Physics,254,UCLA,153,Northwestern,1,1,0
+Field,Physics,254,UCLA,99,Iowa State,2,1,1
+Field,Physics,254,UCLA,251,UC Berkeley,7,6,1
+Field,Physics,123,MIT,251,UC Berkeley,9,7,1
+Field,Physics,254,UCLA,261,University of Chicago,4,4,0
+Field,Physics,254,UCLA,205,SUNY Stony Brook,2,2,0
+Field,Physics,254,UCLA,263,CU Boulder,1,1,0
+Field,Physics,254,UCLA,256,UC San Diego,3,2,0
+Field,Physics,254,UCLA,87,Harvard,6,5,1
+Field,Physics,254,UCLA,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,254,UCLA,35,Case Western Reserve,1,1,0
+Field,Physics,254,UCLA,254,UCLA,4,4,0
+Field,Physics,254,UCLA,368,Yale,1,1,0
+Field,Physics,254,UCLA,49,Columbia,1,1,0
+Field,Physics,254,UCLA,200,Stevens Institute of Technology,1,1,0
+Field,Physics,83,Georgia State,343,University of Utah,1,1,0
+Field,Physics,83,Georgia State,156,Ohio State University,2,1,1
+Field,Physics,83,Georgia State,251,UC Berkeley,1,1,0
+Field,Physics,83,Georgia State,289,University of Maryland College Park,2,1,1
+Field,Physics,83,Georgia State,51,Cornell,1,1,0
+Field,Physics,83,Georgia State,205,SUNY Stony Brook,1,0,1
+Field,Physics,83,Georgia State,263,CU Boulder,1,0,1
+Field,Physics,274,University of Georgia,281,University of Iowa,2,1,0
+Field,Physics,83,Georgia State,345,University of Virginia,1,1,0
+Field,Physics,83,Georgia State,229,UT Austin,1,0,1
+Field,Physics,83,Georgia State,273,University of Florida,1,0,0
+Field,Physics,83,Georgia State,254,UCLA,1,1,0
+Field,Physics,245,University of Alabama in Huntsville,254,UCLA,1,1,0
+Field,Physics,83,Georgia State,226,University of Tennessee,1,0,0
+Field,Physics,83,Georgia State,247,University of Arizona,1,1,0
+Field,Physics,83,Georgia State,49,Columbia,1,1,0
+Field,Physics,83,Georgia State,327,University of Pittsburgh,1,0,0
+Field,Physics,83,Georgia State,282,University of Kansas,1,0,0
+Field,Physics,83,Georgia State,277,University of Houston,1,1,0
+Field,Physics,83,Georgia State,312,"University of Nevada, Reno",1,1,0
+Field,Physics,205,SUNY Stony Brook,261,University of Chicago,4,3,0
+Field,Physics,256,UC San Diego,229,UT Austin,1,1,0
+Field,Physics,150,Northeastern,87,Harvard,3,3,0
+Field,Physics,229,UT Austin,251,UC Berkeley,2,2,0
+Field,Physics,229,UT Austin,168,Purdue,1,1,0
+Field,Physics,229,UT Austin,326,UPenn,1,1,0
+Field,Physics,229,UT Austin,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,229,UT Austin,252,UC Davis,1,1,0
+Field,Physics,229,UT Austin,123,MIT,4,4,0
+Field,Physics,229,UT Austin,346,UW,2,2,0
+Field,Physics,229,UT Austin,198,Stanford,3,2,0
+Field,Physics,229,UT Austin,31,Caltech,2,1,0
+Field,Physics,229,UT Austin,167,Princeton,3,3,0
+Field,Physics,229,UT Austin,153,Northwestern,1,1,0
+Field,Physics,229,UT Austin,102,Johns Hopkins,1,1,0
+Field,Physics,229,UT Austin,289,University of Maryland College Park,4,3,0
+Field,Physics,229,UT Austin,51,Cornell,2,2,0
+Field,Physics,229,UT Austin,258,UC Santa Barbara,1,1,0
+Field,Physics,229,UT Austin,300,University of Michigan,2,1,1
+Field,Physics,229,UT Austin,256,UC San Diego,1,1,0
+Field,Physics,229,UT Austin,96,Indiana University Bloomington,1,1,0
+Field,Physics,229,UT Austin,87,Harvard,5,4,1
+Field,Physics,229,UT Austin,254,UCLA,2,2,0
+Field,Physics,229,UT Austin,329,University of Rochester,3,3,0
+Field,Physics,229,UT Austin,274,University of Georgia,1,1,0
+Field,Physics,229,UT Austin,12,Arizona State,1,1,0
+Field,Physics,229,UT Austin,271,University of Denver,1,0,1
+Field,Physics,270,University of Delaware,259,UC Santa Cruz,1,0,1
+Field,Physics,280,University of Illinois Urbana-Champaign,251,UC Berkeley,9,8,0
+Field,Physics,280,University of Illinois Urbana-Champaign,254,UCLA,3,2,1
+Field,Physics,280,University of Illinois Urbana-Champaign,123,MIT,6,4,1
+Field,Physics,280,University of Illinois Urbana-Champaign,280,University of Illinois Urbana-Champaign,3,2,0
+Field,Physics,280,University of Illinois Urbana-Champaign,326,UPenn,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,198,Stanford,5,4,1
+Field,Physics,280,University of Illinois Urbana-Champaign,167,Princeton,2,2,0
+Field,Physics,280,University of Illinois Urbana-Champaign,156,Ohio State University,2,2,0
+Field,Physics,280,University of Illinois Urbana-Champaign,148,North Carolina State,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,289,University of Maryland College Park,2,1,1
+Field,Physics,280,University of Illinois Urbana-Champaign,261,University of Chicago,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,51,Cornell,4,3,1
+Field,Physics,273,University of Florida,51,Cornell,4,3,1
+Field,Physics,280,University of Illinois Urbana-Champaign,205,SUNY Stony Brook,2,1,1
+Field,Physics,280,University of Illinois Urbana-Champaign,263,CU Boulder,3,2,1
+Field,Physics,280,University of Illinois Urbana-Champaign,258,UC Santa Barbara,1,0,1
+Field,Physics,255,UC Riverside,256,UC San Diego,2,2,0
+Field,Physics,280,University of Illinois Urbana-Champaign,229,UT Austin,2,2,0
+Field,Physics,280,University of Illinois Urbana-Champaign,87,Harvard,4,3,1
+Field,Physics,256,UC San Diego,87,Harvard,10,4,3
+Field,Physics,293,UMass Amherst,87,Harvard,4,1,2
+Field,Physics,280,University of Illinois Urbana-Champaign,368,Yale,2,2,0
+Field,Physics,280,University of Illinois Urbana-Champaign,24,Boston University,1,0,1
+Field,Physics,280,University of Illinois Urbana-Champaign,325,University of Oregon,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,327,University of Pittsburgh,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,293,UMass Amherst,1,1,0
+Field,Physics,280,University of Illinois Urbana-Champaign,31,Caltech,1,1,0
+Field,Physics,198,Stanford,31,Caltech,2,2,0
+Field,Physics,263,CU Boulder,198,Stanford,4,4,0
+Field,Physics,263,CU Boulder,87,Harvard,6,4,0
+Field,Physics,263,CU Boulder,212,Temple,1,0,0
+Field,Physics,263,CU Boulder,247,University of Arizona,1,1,0
+Field,Physics,263,CU Boulder,167,Princeton,6,6,0
+Field,Physics,263,CU Boulder,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,263,CU Boulder,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,263,CU Boulder,123,MIT,7,7,0
+Field,Physics,263,CU Boulder,346,UW,1,1,0
+Field,Physics,263,CU Boulder,31,Caltech,1,1,0
+Field,Physics,263,CU Boulder,146,NYU,1,1,0
+Field,Physics,263,CU Boulder,251,UC Berkeley,6,4,2
+Field,Physics,263,CU Boulder,289,University of Maryland College Park,1,0,1
+Field,Physics,263,CU Boulder,261,University of Chicago,3,1,2
+Field,Physics,263,CU Boulder,51,Cornell,4,4,0
+Field,Physics,263,CU Boulder,263,CU Boulder,6,3,2
+Field,Physics,263,CU Boulder,258,UC Santa Barbara,3,3,0
+Field,Physics,263,CU Boulder,300,University of Michigan,1,1,0
+Field,Physics,263,CU Boulder,256,UC San Diego,1,1,0
+Field,Physics,263,CU Boulder,254,UCLA,1,1,0
+Field,Physics,263,CU Boulder,368,Yale,2,2,0
+Field,Physics,263,CU Boulder,24,Boston University,1,1,0
+Field,Physics,263,CU Boulder,49,Columbia,1,1,0
+Field,Physics,263,CU Boulder,104,Kent State,1,1,0
+Field,Physics,263,CU Boulder,314,University of New Mexico,1,1,0
+Field,Physics,205,SUNY Stony Brook,87,Harvard,3,2,1
+Field,Physics,31,Caltech,87,Harvard,8,7,1
+Field,Physics,102,Johns Hopkins,261,University of Chicago,4,4,0
+Field,Physics,156,Ohio State University,167,Princeton,4,2,2
+Field,Physics,273,University of Florida,229,UT Austin,1,1,0
+Field,Physics,31,Caltech,123,MIT,4,2,1
+Field,Physics,31,Caltech,198,Stanford,1,1,0
+Field,Physics,31,Caltech,31,Caltech,3,3,0
+Field,Physics,31,Caltech,167,Princeton,6,5,0
+Field,Physics,31,Caltech,251,UC Berkeley,2,2,0
+Field,Physics,31,Caltech,102,Johns Hopkins,1,1,0
+Field,Physics,31,Caltech,358,Washington University St. Louis,1,1,0
+Field,Physics,31,Caltech,261,University of Chicago,3,3,0
+Field,Physics,31,Caltech,51,Cornell,3,3,0
+Field,Physics,31,Caltech,258,UC Santa Barbara,1,1,0
+Field,Physics,31,Caltech,329,University of Rochester,1,0,0
+Field,Physics,31,Caltech,49,Columbia,1,1,0
+Field,Physics,46,William & Mary,167,Princeton,2,2,0
+Field,Physics,99,Iowa State,261,University of Chicago,3,3,0
+Field,Physics,99,Iowa State,326,UPenn,2,1,0
+Field,Physics,99,Iowa State,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,99,Iowa State,168,Purdue,2,1,0
+Field,Physics,99,Iowa State,347,University of Wisconsin-Madison,1,0,0
+Field,Physics,99,Iowa State,123,MIT,1,1,0
+Field,Physics,99,Iowa State,198,Stanford,1,0,1
+Field,Physics,99,Iowa State,153,Northwestern,1,1,0
+Field,Physics,99,Iowa State,251,UC Berkeley,2,2,0
+Field,Physics,99,Iowa State,237,Tufts,1,1,0
+Field,Physics,99,Iowa State,304,University of Missouri,1,1,0
+Field,Physics,99,Iowa State,289,University of Maryland College Park,2,1,0
+Field,Physics,99,Iowa State,205,SUNY Stony Brook,2,2,0
+Field,Physics,99,Iowa State,256,UC San Diego,2,1,0
+Field,Physics,99,Iowa State,345,University of Virginia,1,1,0
+Field,Physics,99,Iowa State,229,UT Austin,1,1,0
+Field,Physics,99,Iowa State,172,Rice,1,1,0
+Field,Physics,99,Iowa State,132,Michigan State,1,1,0
+Field,Physics,99,Iowa State,254,UCLA,1,1,0
+Field,Physics,99,Iowa State,368,Yale,4,4,0
+Field,Physics,99,Iowa State,24,Boston University,1,1,0
+Field,Physics,99,Iowa State,177,Rutgers - New Brunswick,1,0,1
+Field,Physics,99,Iowa State,49,Columbia,1,0,0
+Field,Physics,46,William & Mary,49,Columbia,2,2,0
+Field,Physics,99,Iowa State,279,University of Illinois Chicago,1,1,0
+Field,Physics,215,Texas A&M,205,SUNY Stony Brook,3,2,0
+Field,Physics,215,Texas A&M,167,Princeton,4,3,1
+Field,Physics,215,Texas A&M,368,Yale,2,2,0
+Field,Physics,215,Texas A&M,261,University of Chicago,3,3,0
+Field,Physics,215,Texas A&M,293,UMass Amherst,1,1,0
+Field,Physics,215,Texas A&M,280,University of Illinois Urbana-Champaign,3,3,0
+Field,Physics,215,Texas A&M,123,MIT,1,1,0
+Field,Physics,215,Texas A&M,198,Stanford,3,3,0
+Field,Physics,215,Texas A&M,31,Caltech,1,1,0
+Field,Physics,215,Texas A&M,153,Northwestern,1,1,0
+Field,Physics,215,Texas A&M,251,UC Berkeley,1,1,0
+Field,Physics,215,Texas A&M,102,Johns Hopkins,1,1,0
+Field,Physics,215,Texas A&M,289,University of Maryland College Park,1,0,0
+Field,Physics,215,Texas A&M,51,Cornell,1,1,0
+Field,Physics,215,Texas A&M,215,Texas A&M,4,4,0
+Field,Physics,215,Texas A&M,300,University of Michigan,1,1,0
+Field,Physics,215,Texas A&M,256,UC San Diego,1,1,0
+Field,Physics,215,Texas A&M,229,UT Austin,2,2,0
+Field,Physics,215,Texas A&M,96,Indiana University Bloomington,1,1,0
+Field,Physics,215,Texas A&M,172,Rice,2,2,0
+Field,Physics,215,Texas A&M,132,Michigan State,2,1,1
+Field,Physics,215,Texas A&M,87,Harvard,3,3,0
+Field,Physics,215,Texas A&M,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,215,Texas A&M,273,University of Florida,1,1,0
+Field,Physics,215,Texas A&M,35,Case Western Reserve,1,1,0
+Field,Physics,215,Texas A&M,226,University of Tennessee,1,0,1
+Field,Physics,215,Texas A&M,329,University of Rochester,2,2,0
+Field,Physics,215,Texas A&M,253,UC Irvine,2,1,1
+Field,Physics,215,Texas A&M,276,University of Hawaii,1,1,0
+Field,Physics,215,Texas A&M,158,Oklahoma State,1,1,0
+Field,Physics,215,Texas A&M,259,UC Santa Cruz,3,2,0
+Field,Physics,304,University of Missouri,172,Rice,1,1,0
+Field,Physics,316,UNC,28,Brown,1,1,0
+Field,Physics,354,Virginia Tech,251,UC Berkeley,2,1,0
+Field,Physics,354,Virginia Tech,82,Georgia Tech,1,1,0
+Field,Physics,354,Virginia Tech,326,UPenn,1,1,0
+Field,Physics,354,Virginia Tech,252,UC Davis,1,1,0
+Field,Physics,354,Virginia Tech,123,MIT,1,1,0
+Field,Physics,354,Virginia Tech,31,Caltech,1,1,0
+Field,Physics,354,Virginia Tech,167,Princeton,5,4,0
+Field,Physics,354,Virginia Tech,102,Johns Hopkins,1,0,0
+Field,Physics,354,Virginia Tech,289,University of Maryland College Park,1,1,0
+Field,Physics,354,Virginia Tech,51,Cornell,1,1,0
+Field,Physics,354,Virginia Tech,263,CU Boulder,1,1,0
+Field,Physics,354,Virginia Tech,256,UC San Diego,2,1,1
+Field,Physics,354,Virginia Tech,229,UT Austin,1,1,0
+Field,Physics,354,Virginia Tech,96,Indiana University Bloomington,1,0,1
+Field,Physics,354,Virginia Tech,254,UCLA,1,1,0
+Field,Physics,354,Virginia Tech,368,Yale,1,0,0
+Field,Physics,354,Virginia Tech,24,Boston University,1,1,0
+Field,Physics,354,Virginia Tech,163,Penn State,1,1,0
+Field,Physics,354,Virginia Tech,210,Syracuse,1,0,1
+Field,Physics,354,Virginia Tech,202,University at Albany (SUNY),1,0,0
+Field,Physics,354,Virginia Tech,36,Catholic University of America,1,0,1
+Field,Physics,354,Virginia Tech,26,Brandeis,1,1,0
+Field,Physics,354,Virginia Tech,324,University of Oklahoma,1,0,1
+Field,Physics,12,Arizona State,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,12,Arizona State,198,Stanford,2,2,0
+Field,Physics,12,Arizona State,261,University of Chicago,1,1,0
+Field,Physics,12,Arizona State,51,Cornell,2,1,1
+Field,Physics,12,Arizona State,258,UC Santa Barbara,1,1,0
+Field,Physics,12,Arizona State,254,UCLA,1,1,0
+Field,Physics,12,Arizona State,12,Arizona State,5,3,1
+Field,Physics,12,Arizona State,163,Penn State,2,2,0
+Field,Physics,12,Arizona State,167,Princeton,2,2,0
+Field,Physics,12,Arizona State,48,Colorado State,1,1,0
+Field,Physics,12,Arizona State,123,MIT,3,2,0
+Field,Physics,12,Arizona State,368,Yale,1,1,0
+Field,Physics,12,Arizona State,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,12,Arizona State,168,Purdue,1,1,0
+Field,Physics,12,Arizona State,31,Caltech,1,1,0
+Field,Physics,12,Arizona State,156,Ohio State University,1,1,0
+Field,Physics,12,Arizona State,251,UC Berkeley,1,1,0
+Field,Physics,12,Arizona State,102,Johns Hopkins,1,0,0
+Field,Physics,12,Arizona State,237,Tufts,1,1,0
+Field,Physics,12,Arizona State,358,Washington University St. Louis,1,1,0
+Field,Physics,12,Arizona State,300,University of Michigan,1,0,1
+Field,Physics,12,Arizona State,172,Rice,1,1,0
+Field,Physics,12,Arizona State,329,University of Rochester,1,1,0
+Field,Physics,12,Arizona State,49,Columbia,1,1,0
+Field,Physics,12,Arizona State,157,Ohio University,1,1,0
+Field,Physics,12,Arizona State,28,Brown,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,153,Northwestern,2,1,1
+Field,Physics,308,University of Nebraska-Lincoln,308,University of Nebraska-Lincoln,6,5,0
+Field,Physics,308,University of Nebraska-Lincoln,300,University of Michigan,1,0,0
+Field,Physics,308,University of Nebraska-Lincoln,324,University of Oklahoma,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,347,University of Wisconsin-Madison,1,0,0
+Field,Physics,308,University of Nebraska-Lincoln,31,Caltech,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,102,Johns Hopkins,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,261,University of Chicago,2,2,0
+Field,Physics,308,University of Nebraska-Lincoln,51,Cornell,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,256,UC San Diego,1,1,0
+Field,Physics,36,Catholic University of America,256,UC San Diego,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,229,UT Austin,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,132,Michigan State,2,1,1
+Field,Physics,308,University of Nebraska-Lincoln,254,UCLA,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,368,Yale,1,0,1
+Field,Physics,308,University of Nebraska-Lincoln,82,Georgia Tech,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,282,University of Kansas,1,1,0
+Field,Physics,308,University of Nebraska-Lincoln,335,University of Southern California,1,1,0
+Field,Physics,105,Lehigh,156,Ohio State University,1,1,0
+Field,Physics,105,Lehigh,49,Columbia,2,2,0
+Field,Physics,105,Lehigh,326,UPenn,2,2,0
+Field,Physics,105,Lehigh,252,UC Davis,1,0,1
+Field,Physics,105,Lehigh,123,MIT,2,2,0
+Field,Physics,105,Lehigh,346,UW,1,0,1
+Field,Physics,105,Lehigh,198,Stanford,1,1,0
+Field,Physics,105,Lehigh,343,University of Utah,1,1,0
+Field,Physics,105,Lehigh,263,CU Boulder,1,1,0
+Field,Physics,105,Lehigh,300,University of Michigan,1,0,0
+Field,Physics,105,Lehigh,229,UT Austin,1,1,0
+Field,Physics,105,Lehigh,172,Rice,1,0,0
+Field,Physics,105,Lehigh,254,UCLA,1,0,0
+Field,Physics,105,Lehigh,267,UConn,1,1,0
+Field,Physics,105,Lehigh,368,Yale,1,1,0
+Field,Physics,105,Lehigh,83,Georgia State,1,0,1
+Field,Physics,105,Lehigh,329,University of Rochester,1,1,0
+Field,Physics,105,Lehigh,109,LSU,1,0,0
+Field,Physics,132,Michigan State,251,UC Berkeley,5,4,0
+Field,Physics,132,Michigan State,87,Harvard,3,2,1
+Field,Physics,132,Michigan State,205,SUNY Stony Brook,4,2,0
+Field,Physics,132,Michigan State,281,University of Iowa,1,1,0
+Field,Physics,132,Michigan State,346,UW,2,1,0
+Field,Physics,132,Michigan State,300,University of Michigan,3,1,0
+Field,Physics,132,Michigan State,280,University of Illinois Urbana-Champaign,3,3,0
+Field,Physics,132,Michigan State,123,MIT,4,4,0
+Field,Physics,132,Michigan State,167,Princeton,2,2,0
+Field,Physics,132,Michigan State,153,Northwestern,1,1,0
+Field,Physics,132,Michigan State,73,Florida State,1,1,0
+Field,Physics,132,Michigan State,102,Johns Hopkins,1,1,0
+Field,Physics,132,Michigan State,261,University of Chicago,1,1,0
+Field,Physics,132,Michigan State,51,Cornell,2,1,1
+Field,Physics,132,Michigan State,362,West Virginia,1,0,1
+Field,Physics,132,Michigan State,263,CU Boulder,2,1,1
+Field,Physics,132,Michigan State,345,University of Virginia,1,1,0
+Field,Physics,132,Michigan State,229,UT Austin,4,3,1
+Field,Physics,132,Michigan State,96,Indiana University Bloomington,1,0,0
+Field,Physics,132,Michigan State,132,Michigan State,4,3,1
+Field,Physics,323,University of Notre Dame,87,Harvard,3,3,0
+Field,Physics,132,Michigan State,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,347,University of Wisconsin-Madison,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,132,Michigan State,368,Yale,2,2,0
+Field,Physics,132,Michigan State,329,University of Rochester,3,2,1
+Field,Physics,132,Michigan State,247,University of Arizona,1,1,0
+Field,Physics,132,Michigan State,49,Columbia,2,1,0
+Field,Physics,132,Michigan State,82,Georgia Tech,1,1,0
+Field,Physics,132,Michigan State,255,UC Riverside,1,0,0
+Field,Physics,132,Michigan State,351,Vanderbilt,1,1,0
+Field,Physics,132,Michigan State,34,Carnegie Mellon,1,1,0
+Field,Physics,132,Michigan State,259,UC Santa Cruz,3,3,0
+Field,Physics,132,Michigan State,359,Wayne State,1,1,0
+Field,Physics,79,George Mason,205,SUNY Stony Brook,1,1,0
+Field,Physics,79,George Mason,215,Texas A&M,1,1,0
+Field,Physics,79,George Mason,36,Catholic University of America,1,1,0
+Field,Physics,79,George Mason,168,Purdue,1,1,0
+Field,Physics,79,George Mason,326,UPenn,1,1,0
+Field,Physics,79,George Mason,123,MIT,1,1,0
+Field,Physics,79,George Mason,198,Stanford,1,1,0
+Field,Physics,79,George Mason,31,Caltech,2,2,0
+Field,Physics,79,George Mason,167,Princeton,2,1,1
+Field,Physics,79,George Mason,153,Northwestern,1,0,0
+Field,Physics,79,George Mason,80,George Washington,1,0,0
+Field,Physics,79,George Mason,289,University of Maryland College Park,7,4,1
+Field,Physics,79,George Mason,261,University of Chicago,1,1,0
+Field,Physics,79,George Mason,51,Cornell,1,0,1
+Field,Physics,79,George Mason,263,CU Boulder,1,1,0
+Field,Physics,79,George Mason,281,University of Iowa,1,1,0
+Field,Physics,79,George Mason,229,UT Austin,1,1,0
+Field,Physics,79,George Mason,96,Indiana University Bloomington,1,0,0
+Field,Physics,79,George Mason,79,George Mason,7,4,1
+Field,Physics,79,George Mason,132,Michigan State,2,1,0
+Field,Physics,79,George Mason,87,Harvard,1,1,0
+Field,Physics,79,George Mason,254,UCLA,2,2,0
+Field,Physics,79,George Mason,226,University of Tennessee,1,0,0
+Field,Physics,79,George Mason,83,Georgia State,1,1,0
+Field,Physics,79,George Mason,329,University of Rochester,2,1,0
+Field,Physics,79,George Mason,49,Columbia,3,1,1
+Field,Physics,79,George Mason,327,University of Pittsburgh,2,2,0
+Field,Physics,79,George Mason,282,University of Kansas,1,0,0
+Field,Physics,79,George Mason,293,UMass Amherst,1,0,1
+Field,Physics,79,George Mason,8,American,1,1,0
+Field,Physics,79,George Mason,46,William & Mary,1,1,0
+Field,Physics,137,Montana State,87,Harvard,3,3,0
+Field,Physics,137,Montana State,313,University of New Hampshire,1,1,0
+Field,Physics,137,Montana State,49,Columbia,1,0,1
+Field,Physics,137,Montana State,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,137,Montana State,123,MIT,1,1,0
+Field,Physics,137,Montana State,198,Stanford,1,1,0
+Field,Physics,137,Montana State,153,Northwestern,1,1,0
+Field,Physics,137,Montana State,343,University of Utah,1,1,0
+Field,Physics,137,Montana State,99,Iowa State,1,1,0
+Field,Physics,137,Montana State,251,UC Berkeley,1,1,0
+Field,Physics,137,Montana State,289,University of Maryland College Park,2,1,1
+Field,Physics,137,Montana State,51,Cornell,1,0,1
+Field,Physics,137,Montana State,263,CU Boulder,1,1,0
+Field,Physics,137,Montana State,256,UC San Diego,1,1,0
+Field,Physics,137,Montana State,345,University of Virginia,2,1,1
+Field,Physics,137,Montana State,368,Yale,1,1,0
+Field,Physics,137,Montana State,238,Tulane,1,0,0
+Field,Physics,137,Montana State,270,University of Delaware,1,1,0
+Field,Physics,137,Montana State,137,Montana State,1,0,1
+Field,Physics,204,University at Buffalo (SUNY),270,University of Delaware,1,1,0
+Field,Physics,102,Johns Hopkins,123,MIT,2,2,0
+Field,Physics,102,Johns Hopkins,346,UW,2,2,0
+Field,Physics,102,Johns Hopkins,167,Princeton,4,3,1
+Field,Physics,102,Johns Hopkins,251,UC Berkeley,3,2,1
+Field,Physics,102,Johns Hopkins,289,University of Maryland College Park,1,1,0
+Field,Physics,102,Johns Hopkins,263,CU Boulder,1,1,0
+Field,Physics,102,Johns Hopkins,258,UC Santa Barbara,1,1,0
+Field,Physics,102,Johns Hopkins,300,University of Michigan,1,1,0
+Field,Physics,102,Johns Hopkins,256,UC San Diego,1,0,0
+Field,Physics,102,Johns Hopkins,87,Harvard,3,3,0
+Field,Physics,102,Johns Hopkins,301,University of Minnesota Twin Cities,2,1,1
+Field,Physics,102,Johns Hopkins,368,Yale,1,0,0
+Field,Physics,102,Johns Hopkins,247,University of Arizona,1,1,0
+Field,Physics,102,Johns Hopkins,49,Columbia,2,2,0
+Field,Physics,102,Johns Hopkins,34,Carnegie Mellon,1,1,0
+Field,Physics,102,Johns Hopkins,259,UC Santa Cruz,1,1,0
+Field,Physics,343,University of Utah,251,UC Berkeley,3,3,0
+Field,Physics,273,University of Florida,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,273,University of Florida,326,UPenn,1,1,0
+Field,Physics,273,University of Florida,198,Stanford,3,3,0
+Field,Physics,273,University of Florida,167,Princeton,5,3,0
+Field,Physics,273,University of Florida,153,Northwestern,4,3,1
+Field,Physics,273,University of Florida,251,UC Berkeley,2,2,0
+Field,Physics,273,University of Florida,261,University of Chicago,2,1,0
+Field,Physics,273,University of Florida,256,UC San Diego,2,2,0
+Field,Physics,273,University of Florida,87,Harvard,3,2,1
+Field,Physics,273,University of Florida,267,UConn,1,1,0
+Field,Physics,273,University of Florida,368,Yale,1,1,0
+Field,Physics,273,University of Florida,210,Syracuse,1,1,0
+Field,Physics,273,University of Florida,313,University of New Hampshire,1,1,0
+Field,Physics,335,University of Southern California,31,Caltech,3,1,1
+Field,Physics,274,University of Georgia,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,273,University of Florida,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,273,University of Florida,123,MIT,2,2,0
+Field,Physics,73,Florida State,123,MIT,1,1,0
+Field,Physics,273,University of Florida,212,Temple,1,1,0
+Field,Physics,273,University of Florida,102,Johns Hopkins,4,3,1
+Field,Physics,273,University of Florida,358,Washington University St. Louis,1,1,0
+Field,Physics,273,University of Florida,300,University of Michigan,1,0,1
+Field,Physics,273,University of Florida,254,UCLA,1,1,0
+Field,Physics,273,University of Florida,49,Columbia,2,1,0
+Field,Physics,273,University of Florida,26,Brandeis,1,0,1
+Field,Physics,255,UC Riverside,205,SUNY Stony Brook,1,1,0
+Field,Physics,70,Florida Atlantic,368,Yale,1,0,0
+Field,Physics,70,Florida Atlantic,247,University of Arizona,1,0,1
+Field,Physics,226,University of Tennessee,205,SUNY Stony Brook,2,2,0
+Field,Physics,172,Rice,304,University of Missouri,1,0,0
+Field,Physics,123,MIT,123,MIT,33,27,4
+Field,Physics,226,University of Tennessee,28,Brown,1,1,0
+Field,Physics,226,University of Tennessee,87,Harvard,4,4,0
+Field,Physics,226,University of Tennessee,226,University of Tennessee,3,1,0
+Field,Physics,226,University of Tennessee,324,University of Oklahoma,1,1,0
+Field,Physics,226,University of Tennessee,252,UC Davis,1,1,0
+Field,Physics,226,University of Tennessee,123,MIT,1,1,0
+Field,Physics,226,University of Tennessee,31,Caltech,1,1,0
+Field,Physics,226,University of Tennessee,156,Ohio State University,1,1,0
+Field,Physics,226,University of Tennessee,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,226,University of Tennessee,251,UC Berkeley,2,0,0
+Field,Physics,226,University of Tennessee,289,University of Maryland College Park,1,1,0
+Field,Physics,226,University of Tennessee,345,University of Virginia,1,0,1
+Field,Physics,226,University of Tennessee,229,UT Austin,2,1,0
+Field,Physics,226,University of Tennessee,368,Yale,3,2,1
+Field,Physics,226,University of Tennessee,163,Penn State,1,0,0
+Field,Physics,226,University of Tennessee,177,Rutgers - New Brunswick,2,2,0
+Field,Physics,226,University of Tennessee,60,Duke,1,1,0
+Field,Physics,226,University of Tennessee,325,University of Oregon,2,1,1
+Field,Physics,226,University of Tennessee,351,Vanderbilt,2,1,1
+Field,Physics,226,University of Tennessee,293,UMass Amherst,1,1,0
+Field,Physics,226,University of Tennessee,359,Wayne State,1,0,1
+Field,Physics,226,University of Tennessee,143,New Mexico State,1,0,1
+Field,Physics,226,University of Tennessee,44,Clemson,1,1,0
+Field,Physics,226,University of Tennessee,250,University of Arkansas,1,0,0
+Field,Physics,267,UConn,49,Columbia,2,1,0
+Field,Physics,267,UConn,354,Virginia Tech,1,1,0
+Field,Physics,267,UConn,326,UPenn,1,1,0
+Field,Physics,267,UConn,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,267,UConn,123,MIT,4,3,0
+Field,Physics,267,UConn,198,Stanford,1,1,0
+Field,Physics,267,UConn,304,University of Missouri,1,1,0
+Field,Physics,267,UConn,51,Cornell,3,2,1
+Field,Physics,267,UConn,205,SUNY Stony Brook,2,2,0
+Field,Physics,267,UConn,263,CU Boulder,1,0,1
+Field,Physics,267,UConn,345,University of Virginia,1,0,1
+Field,Physics,267,UConn,87,Harvard,3,3,0
+Field,Physics,267,UConn,368,Yale,1,0,1
+Field,Physics,267,UConn,163,Penn State,1,1,0
+Field,Physics,267,UConn,247,University of Arizona,3,3,0
+Field,Physics,267,UConn,276,University of Hawaii,1,1,0
+Field,Physics,267,UConn,279,University of Illinois Chicago,1,1,0
+Field,Physics,267,UConn,259,UC Santa Cruz,1,1,0
+Field,Physics,148,North Carolina State,254,UCLA,2,2,0
+Field,Physics,148,North Carolina State,148,North Carolina State,3,2,0
+Field,Physics,148,North Carolina State,204,University at Buffalo (SUNY),1,1,0
+Field,Physics,148,North Carolina State,132,Michigan State,1,1,0
+Field,Physics,148,North Carolina State,73,Florida State,2,2,0
+Field,Physics,148,North Carolina State,263,CU Boulder,1,1,0
+Field,Physics,148,North Carolina State,325,University of Oregon,2,1,1
+Field,Physics,148,North Carolina State,326,UPenn,2,2,0
+Field,Physics,148,North Carolina State,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,148,North Carolina State,123,MIT,2,2,0
+Field,Physics,148,North Carolina State,346,UW,3,2,1
+Field,Physics,148,North Carolina State,198,Stanford,2,1,1
+Field,Physics,148,North Carolina State,167,Princeton,1,0,1
+Field,Physics,148,North Carolina State,156,Ohio State University,1,1,0
+Field,Physics,148,North Carolina State,212,Temple,1,1,0
+Field,Physics,148,North Carolina State,251,UC Berkeley,1,1,0
+Field,Physics,148,North Carolina State,289,University of Maryland College Park,1,1,0
+Field,Physics,148,North Carolina State,261,University of Chicago,2,2,0
+Field,Physics,148,North Carolina State,51,Cornell,2,1,1
+Field,Physics,148,North Carolina State,205,SUNY Stony Brook,1,1,0
+Field,Physics,148,North Carolina State,281,University of Iowa,1,1,0
+Field,Physics,148,North Carolina State,300,University of Michigan,1,0,0
+Field,Physics,148,North Carolina State,256,UC San Diego,1,0,1
+Field,Physics,148,North Carolina State,229,UT Austin,1,1,0
+Field,Physics,148,North Carolina State,96,Indiana University Bloomington,1,1,0
+Field,Physics,148,North Carolina State,87,Harvard,1,1,0
+Field,Physics,148,North Carolina State,273,University of Florida,1,1,0
+Field,Physics,148,North Carolina State,316,UNC,2,1,0
+Field,Physics,148,North Carolina State,12,Arizona State,2,1,1
+Field,Physics,148,North Carolina State,60,Duke,2,2,0
+Field,Physics,148,North Carolina State,36,Catholic University of America,1,1,0
+Field,Physics,148,North Carolina State,28,Brown,1,1,0
+Field,Physics,148,North Carolina State,44,Clemson,1,1,0
+Field,Physics,109,LSU,358,Washington University St. Louis,1,1,0
+Field,Physics,109,LSU,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,109,LSU,326,UPenn,1,1,0
+Field,Physics,109,LSU,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,109,LSU,123,MIT,3,3,0
+Field,Physics,109,LSU,198,Stanford,1,0,1
+Field,Physics,109,LSU,73,Florida State,1,1,0
+Field,Physics,109,LSU,99,Iowa State,1,1,0
+Field,Physics,109,LSU,156,Ohio State University,1,0,0
+Field,Physics,109,LSU,289,University of Maryland College Park,1,1,0
+Field,Physics,109,LSU,261,University of Chicago,4,2,0
+Field,Physics,109,LSU,51,Cornell,2,2,0
+Field,Physics,109,LSU,263,CU Boulder,1,1,0
+Field,Physics,109,LSU,258,UC Santa Barbara,1,1,0
+Field,Physics,109,LSU,215,Texas A&M,2,1,0
+Field,Physics,109,LSU,229,UT Austin,1,1,0
+Field,Physics,109,LSU,172,Rice,1,1,0
+Field,Physics,109,LSU,226,University of Tennessee,1,0,0
+Field,Physics,109,LSU,368,Yale,2,1,1
+Field,Physics,109,LSU,210,Syracuse,2,0,1
+Field,Physics,109,LSU,323,University of Notre Dame,1,1,0
+Field,Physics,109,LSU,83,Georgia State,1,0,1
+Field,Physics,109,LSU,177,Rutgers - New Brunswick,2,1,1
+Field,Physics,109,LSU,329,University of Rochester,1,1,0
+Field,Physics,109,LSU,247,University of Arizona,1,1,0
+Field,Physics,109,LSU,316,UNC,1,1,0
+Field,Physics,109,LSU,327,University of Pittsburgh,1,1,0
+Field,Physics,109,LSU,28,Brown,1,1,0
+Field,Physics,109,LSU,335,University of Southern California,1,1,0
+Field,Physics,109,LSU,238,Tulane,1,1,0
+Field,Physics,109,LSU,109,LSU,3,2,1
+Field,Physics,109,LSU,34,Carnegie Mellon,1,0,0
+Field,Physics,109,LSU,259,UC Santa Cruz,1,1,0
+Field,Physics,210,Syracuse,258,UC Santa Barbara,3,1,2
+Field,Physics,205,SUNY Stony Brook,210,Syracuse,1,1,0
+Field,Physics,293,UMass Amherst,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,293,UMass Amherst,326,UPenn,1,1,0
+Field,Physics,293,UMass Amherst,123,MIT,4,4,0
+Field,Physics,293,UMass Amherst,198,Stanford,3,3,0
+Field,Physics,293,UMass Amherst,167,Princeton,2,1,1
+Field,Physics,293,UMass Amherst,237,Tufts,1,1,0
+Field,Physics,293,UMass Amherst,261,University of Chicago,1,1,0
+Field,Physics,293,UMass Amherst,51,Cornell,2,1,0
+Field,Physics,293,UMass Amherst,205,SUNY Stony Brook,1,1,0
+Field,Physics,293,UMass Amherst,263,CU Boulder,1,1,0
+Field,Physics,293,UMass Amherst,258,UC Santa Barbara,1,0,1
+Field,Physics,293,UMass Amherst,96,Indiana University Bloomington,1,0,0
+Field,Physics,293,UMass Amherst,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,293,UMass Amherst,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,293,UMass Amherst,49,Columbia,1,0,0
+Field,Physics,293,UMass Amherst,293,UMass Amherst,1,1,0
+Field,Physics,293,UMass Amherst,104,Kent State,1,0,0
+Field,Physics,311,"University of Nevada, Las Vegas",252,UC Davis,2,1,1
+Field,Physics,311,"University of Nevada, Las Vegas",280,University of Illinois Urbana-Champaign,1,0,0
+Field,Physics,311,"University of Nevada, Las Vegas",123,MIT,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",358,Washington University St. Louis,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",205,SUNY Stony Brook,2,2,0
+Field,Physics,311,"University of Nevada, Las Vegas",263,CU Boulder,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",300,University of Michigan,2,1,1
+Field,Physics,311,"University of Nevada, Las Vegas",87,Harvard,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",301,University of Minnesota Twin Cities,1,0,0
+Field,Physics,311,"University of Nevada, Las Vegas",49,Columbia,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",12,Arizona State,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",60,Duke,1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",204,University at Buffalo (SUNY),1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",312,"University of Nevada, Reno",1,1,0
+Field,Physics,311,"University of Nevada, Las Vegas",346,UW,1,1,0
+Field,Physics,81,Georgetown,102,Johns Hopkins,1,1,0
+Field,Physics,368,Yale,167,Princeton,1,1,0
+Field,Physics,252,UC Davis,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,252,UC Davis,326,UPenn,2,2,0
+Field,Physics,252,UC Davis,347,University of Wisconsin-Madison,1,0,0
+Field,Physics,252,UC Davis,123,MIT,1,1,0
+Field,Physics,252,UC Davis,198,Stanford,3,1,2
+Field,Physics,252,UC Davis,31,Caltech,2,2,0
+Field,Physics,252,UC Davis,167,Princeton,4,3,1
+Field,Physics,252,UC Davis,251,UC Berkeley,7,4,2
+Field,Physics,252,UC Davis,261,University of Chicago,4,3,0
+Field,Physics,252,UC Davis,51,Cornell,2,2,0
+Field,Physics,252,UC Davis,205,SUNY Stony Brook,2,2,0
+Field,Physics,252,UC Davis,258,UC Santa Barbara,2,1,1
+Field,Physics,252,UC Davis,229,UT Austin,1,1,0
+Field,Physics,252,UC Davis,132,Michigan State,1,1,0
+Field,Physics,252,UC Davis,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,252,UC Davis,368,Yale,1,1,0
+Field,Physics,252,UC Davis,24,Boston University,1,1,0
+Field,Physics,252,UC Davis,329,University of Rochester,1,1,0
+Field,Physics,252,UC Davis,247,University of Arizona,1,1,0
+Field,Physics,252,UC Davis,327,University of Pittsburgh,1,1,0
+Field,Physics,252,UC Davis,276,University of Hawaii,1,1,0
+Field,Physics,252,UC Davis,259,UC Santa Cruz,1,1,0
+Field,Physics,252,UC Davis,146,NYU,1,1,0
+Field,Physics,252,UC Davis,289,University of Maryland College Park,1,1,0
+Field,Physics,252,UC Davis,256,UC San Diego,1,1,0
+Field,Physics,150,Northeastern,167,Princeton,1,1,0
+Field,Physics,172,Rice,31,Caltech,3,2,0
+Field,Physics,172,Rice,198,Stanford,4,3,0
+Field,Physics,172,Rice,281,University of Iowa,1,0,1
+Field,Physics,172,Rice,204,University at Buffalo (SUNY),1,1,0
+Field,Physics,172,Rice,51,Cornell,4,3,0
+Field,Physics,172,Rice,251,UC Berkeley,3,2,0
+Field,Physics,256,UC San Diego,31,Caltech,6,6,0
+Field,Physics,172,Rice,172,Rice,5,4,1
+Field,Physics,172,Rice,87,Harvard,2,1,0
+Field,Physics,172,Rice,350,Utah State,1,1,0
+Field,Physics,172,Rice,280,University of Illinois Urbana-Champaign,1,0,1
+Field,Physics,172,Rice,326,UPenn,1,1,0
+Field,Physics,172,Rice,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,172,Rice,123,MIT,3,2,0
+Field,Physics,172,Rice,167,Princeton,1,1,0
+Field,Physics,172,Rice,358,Washington University St. Louis,1,1,0
+Field,Physics,172,Rice,261,University of Chicago,2,2,0
+Field,Physics,172,Rice,258,UC Santa Barbara,1,1,0
+Field,Physics,172,Rice,96,Indiana University Bloomington,1,0,1
+Field,Physics,172,Rice,329,University of Rochester,1,0,0
+Field,Physics,172,Rice,247,University of Arizona,1,1,0
+Field,Physics,48,Colorado State,198,Stanford,3,1,0
+Field,Physics,48,Colorado State,168,Purdue,1,1,0
+Field,Physics,48,Colorado State,123,MIT,2,2,0
+Field,Physics,48,Colorado State,346,UW,1,1,0
+Field,Physics,48,Colorado State,31,Caltech,1,1,0
+Field,Physics,48,Colorado State,167,Princeton,1,1,0
+Field,Physics,48,Colorado State,156,Ohio State University,1,1,0
+Field,Physics,48,Colorado State,171,Rensselaer Polytechnic Institute,1,0,1
+Field,Physics,48,Colorado State,289,University of Maryland College Park,1,1,0
+Field,Physics,48,Colorado State,358,Washington University St. Louis,1,1,0
+Field,Physics,48,Colorado State,261,University of Chicago,1,1,0
+Field,Physics,48,Colorado State,51,Cornell,5,5,0
+Field,Physics,48,Colorado State,263,CU Boulder,2,1,0
+Field,Physics,48,Colorado State,87,Harvard,1,1,0
+Field,Physics,48,Colorado State,226,University of Tennessee,1,0,0
+Field,Physics,48,Colorado State,48,Colorado State,1,1,0
+Field,Physics,48,Colorado State,253,UC Irvine,1,1,0
+Field,Physics,368,Yale,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,368,Yale,251,UC Berkeley,3,2,0
+Field,Physics,368,Yale,258,UC Santa Barbara,1,1,0
+Field,Physics,368,Yale,87,Harvard,1,1,0
+Field,Physics,368,Yale,123,MIT,1,1,0
+Field,Physics,368,Yale,346,UW,3,2,1
+Field,Physics,368,Yale,198,Stanford,1,0,0
+Field,Physics,368,Yale,31,Caltech,2,2,0
+Field,Physics,261,University of Chicago,251,UC Berkeley,2,2,0
+Field,Physics,368,Yale,102,Johns Hopkins,1,0,0
+Field,Physics,368,Yale,289,University of Maryland College Park,1,0,0
+Field,Physics,368,Yale,51,Cornell,2,2,0
+Field,Physics,368,Yale,205,SUNY Stony Brook,1,1,0
+Field,Physics,368,Yale,368,Yale,2,2,0
+Field,Physics,368,Yale,329,University of Rochester,2,1,1
+Field,Physics,368,Yale,49,Columbia,2,0,2
+Field,Physics,59,Drexel,161,Oregon State,1,1,0
+Field,Physics,59,Drexel,12,Arizona State,1,1,0
+Field,Physics,276,University of Hawaii,276,University of Hawaii,4,2,1
+Field,Physics,59,Drexel,280,University of Illinois Urbana-Champaign,1,0,0
+Field,Physics,59,Drexel,326,UPenn,2,1,0
+Field,Physics,59,Drexel,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,59,Drexel,123,MIT,1,1,0
+Field,Physics,59,Drexel,346,UW,1,1,0
+Field,Physics,59,Drexel,198,Stanford,2,1,1
+Field,Physics,59,Drexel,31,Caltech,1,1,0
+Field,Physics,59,Drexel,167,Princeton,2,2,0
+Field,Physics,59,Drexel,251,UC Berkeley,1,0,1
+Field,Physics,59,Drexel,289,University of Maryland College Park,1,0,0
+Field,Physics,59,Drexel,261,University of Chicago,2,1,0
+Field,Physics,59,Drexel,192,Southern Illinois University Carbondale,1,0,0
+Field,Physics,59,Drexel,87,Harvard,2,2,0
+Field,Physics,59,Drexel,368,Yale,1,1,0
+Field,Physics,59,Drexel,27,Brigham Young,1,0,0
+Field,Physics,59,Drexel,59,Drexel,1,1,0
+Field,Physics,44,Clemson,280,University of Illinois Urbana-Champaign,1,0,1
+Field,Physics,44,Clemson,168,Purdue,1,0,1
+Field,Physics,44,Clemson,123,MIT,1,1,0
+Field,Physics,44,Clemson,346,UW,1,1,0
+Field,Physics,44,Clemson,198,Stanford,1,0,0
+Field,Physics,44,Clemson,31,Caltech,1,1,0
+Field,Physics,44,Clemson,73,Florida State,1,1,0
+Field,Physics,44,Clemson,146,NYU,1,1,0
+Field,Physics,44,Clemson,289,University of Maryland College Park,1,1,0
+Field,Physics,44,Clemson,261,University of Chicago,1,1,0
+Field,Physics,44,Clemson,51,Cornell,2,2,0
+Field,Physics,44,Clemson,281,University of Iowa,1,1,0
+Field,Physics,44,Clemson,256,UC San Diego,2,0,1
+Field,Physics,44,Clemson,172,Rice,1,1,0
+Field,Physics,44,Clemson,254,UCLA,2,1,0
+Field,Physics,44,Clemson,226,University of Tennessee,2,0,0
+Field,Physics,44,Clemson,24,Boston University,1,0,0
+Field,Physics,44,Clemson,323,University of Notre Dame,1,1,0
+Field,Physics,44,Clemson,82,Georgia Tech,1,1,0
+Field,Physics,44,Clemson,283,University of Kentucky,1,1,0
+Field,Physics,44,Clemson,276,University of Hawaii,1,1,0
+Field,Physics,44,Clemson,277,University of Houston,1,1,0
+Field,Physics,44,Clemson,259,UC Santa Cruz,1,1,0
+Field,Physics,44,Clemson,44,Clemson,3,1,1
+Field,Physics,238,Tulane,345,University of Virginia,1,1,0
+Field,Physics,212,Temple,198,Stanford,2,2,0
+Field,Physics,90,Howard,300,University of Michigan,1,0,0
+Field,Physics,171,Rensselaer Polytechnic Institute,354,Virginia Tech,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,347,University of Wisconsin-Madison,2,0,0
+Field,Physics,171,Rensselaer Polytechnic Institute,123,MIT,1,0,1
+Field,Physics,171,Rensselaer Polytechnic Institute,167,Princeton,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,148,North Carolina State,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,146,NYU,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,251,UC Berkeley,3,1,1
+Field,Physics,171,Rensselaer Polytechnic Institute,261,University of Chicago,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,300,University of Michigan,1,0,0
+Field,Physics,171,Rensselaer Polytechnic Institute,87,Harvard,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,254,UCLA,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,49,Columbia,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,316,UNC,1,1,0
+Field,Physics,171,Rensselaer Polytechnic Institute,36,Catholic University of America,1,1,0
+Field,Physics,326,UPenn,51,Cornell,3,2,1
+Field,Physics,326,UPenn,87,Harvard,10,7,2
+Field,Physics,326,UPenn,167,Princeton,3,3,0
+Field,Physics,326,UPenn,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,326,UPenn,123,MIT,7,5,1
+Field,Physics,326,UPenn,198,Stanford,1,1,0
+Field,Physics,326,UPenn,31,Caltech,1,1,0
+Field,Physics,326,UPenn,73,Florida State,1,0,0
+Field,Physics,326,UPenn,251,UC Berkeley,3,3,0
+Field,Physics,326,UPenn,102,Johns Hopkins,1,0,0
+Field,Physics,326,UPenn,289,University of Maryland College Park,1,0,1
+Field,Physics,326,UPenn,261,University of Chicago,2,2,0
+Field,Physics,326,UPenn,258,UC Santa Barbara,1,1,0
+Field,Physics,326,UPenn,49,Columbia,3,3,0
+Field,Physics,326,UPenn,28,Brown,1,1,0
+Field,Physics,326,UPenn,205,SUNY Stony Brook,1,1,0
+Field,Physics,260,University of Central Florida,335,University of Southern California,1,1,0
+Field,Physics,73,Florida State,167,Princeton,2,2,0
+Field,Physics,73,Florida State,172,Rice,2,2,0
+Field,Physics,73,Florida State,280,University of Illinois Urbana-Champaign,2,1,1
+Field,Physics,73,Florida State,263,CU Boulder,1,1,0
+Field,Physics,73,Florida State,28,Brown,3,1,1
+Field,Physics,73,Florida State,51,Cornell,2,2,0
+Field,Physics,73,Florida State,325,University of Oregon,1,1,0
+Field,Physics,73,Florida State,96,Indiana University Bloomington,2,0,1
+Field,Physics,73,Florida State,326,UPenn,1,1,0
+Field,Physics,73,Florida State,198,Stanford,1,1,0
+Field,Physics,73,Florida State,153,Northwestern,2,2,0
+Field,Physics,73,Florida State,73,Florida State,3,2,0
+Field,Physics,73,Florida State,99,Iowa State,1,1,0
+Field,Physics,73,Florida State,212,Temple,1,1,0
+Field,Physics,73,Florida State,251,UC Berkeley,1,0,0
+Field,Physics,73,Florida State,102,Johns Hopkins,2,2,0
+Field,Physics,73,Florida State,237,Tufts,1,1,0
+Field,Physics,73,Florida State,256,UC San Diego,1,1,0
+Field,Physics,73,Florida State,345,University of Virginia,1,0,1
+Field,Physics,73,Florida State,132,Michigan State,1,1,0
+Field,Physics,73,Florida State,254,UCLA,1,1,0
+Field,Physics,73,Florida State,368,Yale,1,1,0
+Field,Physics,73,Florida State,323,University of Notre Dame,3,3,0
+Field,Physics,73,Florida State,329,University of Rochester,1,1,0
+Field,Physics,73,Florida State,247,University of Arizona,1,1,0
+Field,Physics,73,Florida State,255,UC Riverside,1,1,0
+Field,Physics,73,Florida State,293,UMass Amherst,1,1,0
+Field,Physics,73,Florida State,55,Dartmouth,1,1,0
+Field,Physics,28,Brown,368,Yale,1,0,0
+Field,Physics,28,Brown,123,MIT,1,1,0
+Field,Physics,28,Brown,167,Princeton,3,3,0
+Field,Physics,28,Brown,153,Northwestern,2,0,1
+Field,Physics,28,Brown,156,Ohio State University,1,1,0
+Field,Physics,28,Brown,251,UC Berkeley,3,3,0
+Field,Physics,28,Brown,102,Johns Hopkins,1,0,0
+Field,Physics,28,Brown,205,SUNY Stony Brook,4,3,1
+Field,Physics,28,Brown,87,Harvard,6,5,1
+Field,Physics,28,Brown,267,UConn,1,1,0
+Field,Physics,28,Brown,49,Columbia,1,1,0
+Field,Physics,28,Brown,28,Brown,2,1,1
+Field,Physics,28,Brown,293,UMass Amherst,1,1,0
+Field,Physics,28,Brown,26,Brandeis,1,1,0
+Field,Physics,92,Illinois Tech,280,University of Illinois Urbana-Champaign,4,4,0
+Field,Physics,133,Michigan Technological,312,"University of Nevada, Reno",1,1,0
+Field,Physics,133,Michigan Technological,156,Ohio State University,1,1,0
+Field,Physics,133,Michigan Technological,229,UT Austin,2,1,1
+Field,Physics,133,Michigan Technological,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,133,Michigan Technological,354,Virginia Tech,1,1,0
+Field,Physics,133,Michigan Technological,326,UPenn,1,1,0
+Field,Physics,133,Michigan Technological,163,Penn State,1,1,0
+Field,Physics,133,Michigan Technological,202,University at Albany (SUNY),1,1,0
+Field,Physics,133,Michigan Technological,329,University of Rochester,1,1,0
+Field,Physics,133,Michigan Technological,60,Duke,1,0,0
+Field,Physics,133,Michigan Technological,260,University of Central Florida,1,1,0
+Field,Physics,133,Michigan Technological,351,Vanderbilt,1,1,0
+Field,Physics,133,Michigan Technological,279,University of Illinois Chicago,1,1,0
+Field,Physics,133,Michigan Technological,105,Lehigh,1,1,0
+Field,Physics,133,Michigan Technological,246,University of Alaska Fairbanks,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,177,Rutgers - New Brunswick,3,3,0
+Field,Physics,141,New Jersey Institute of Technology,200,Stevens Institute of Technology,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,141,New Jersey Institute of Technology,4,2,0
+Field,Physics,141,New Jersey Institute of Technology,198,Stanford,2,2,0
+Field,Physics,141,New Jersey Institute of Technology,31,Caltech,2,1,0
+Field,Physics,141,New Jersey Institute of Technology,167,Princeton,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,102,Johns Hopkins,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,263,CU Boulder,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,345,University of Virginia,1,0,0
+Field,Physics,141,New Jersey Institute of Technology,163,Penn State,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,329,University of Rochester,1,1,0
+Field,Physics,141,New Jersey Institute of Technology,277,University of Houston,1,0,1
+Field,Physics,141,New Jersey Institute of Technology,313,University of New Hampshire,1,0,0
+Field,Physics,141,New Jersey Institute of Technology,87,Harvard,1,1,0
+Field,Physics,335,University of Southern California,153,Northwestern,1,1,0
+Field,Physics,335,University of Southern California,261,University of Chicago,1,1,0
+Field,Physics,335,University of Southern California,251,UC Berkeley,4,4,0
+Field,Physics,335,University of Southern California,87,Harvard,2,1,0
+Field,Physics,335,University of Southern California,273,University of Florida,1,1,0
+Field,Physics,335,University of Southern California,255,UC Riverside,1,0,0
+Field,Physics,335,University of Southern California,123,MIT,1,1,0
+Field,Physics,335,University of Southern California,73,Florida State,1,1,0
+Field,Physics,335,University of Southern California,51,Cornell,2,2,0
+Field,Physics,335,University of Southern California,205,SUNY Stony Brook,1,1,0
+Field,Physics,335,University of Southern California,258,UC Santa Barbara,1,1,0
+Field,Physics,335,University of Southern California,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,335,University of Southern California,254,UCLA,3,2,1
+Field,Physics,335,University of Southern California,368,Yale,1,1,0
+Field,Physics,335,University of Southern California,335,University of Southern California,3,2,0
+Field,Physics,156,Ohio State University,270,University of Delaware,1,0,0
+Field,Physics,156,Ohio State University,31,Caltech,1,1,0
+Field,Physics,156,Ohio State University,279,University of Illinois Chicago,1,1,0
+Field,Physics,156,Ohio State University,335,University of Southern California,1,0,1
+Field,Physics,156,Ohio State University,347,University of Wisconsin-Madison,3,3,0
+Field,Physics,156,Ohio State University,156,Ohio State University,1,1,0
+Field,Physics,156,Ohio State University,204,University at Buffalo (SUNY),1,1,0
+Field,Physics,156,Ohio State University,280,University of Illinois Urbana-Champaign,5,4,0
+Field,Physics,156,Ohio State University,168,Purdue,1,1,0
+Field,Physics,156,Ohio State University,326,UPenn,2,2,0
+Field,Physics,156,Ohio State University,252,UC Davis,3,2,0
+Field,Physics,156,Ohio State University,123,MIT,1,1,0
+Field,Physics,156,Ohio State University,346,UW,1,1,0
+Field,Physics,156,Ohio State University,198,Stanford,2,1,0
+Field,Physics,156,Ohio State University,251,UC Berkeley,5,4,1
+Field,Physics,156,Ohio State University,102,Johns Hopkins,2,1,1
+Field,Physics,156,Ohio State University,289,University of Maryland College Park,3,3,0
+Field,Physics,156,Ohio State University,261,University of Chicago,1,1,0
+Field,Physics,156,Ohio State University,51,Cornell,7,4,2
+Field,Physics,156,Ohio State University,258,UC Santa Barbara,3,3,0
+Field,Physics,156,Ohio State University,300,University of Michigan,2,2,0
+Field,Physics,156,Ohio State University,96,Indiana University Bloomington,1,1,0
+Field,Physics,156,Ohio State University,132,Michigan State,1,1,0
+Field,Physics,156,Ohio State University,87,Harvard,4,3,0
+Field,Physics,156,Ohio State University,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,156,Ohio State University,267,UConn,1,1,0
+Field,Physics,156,Ohio State University,368,Yale,1,1,0
+Field,Physics,156,Ohio State University,177,Rutgers - New Brunswick,1,0,0
+Field,Physics,156,Ohio State University,49,Columbia,1,1,0
+Field,Physics,156,Ohio State University,60,Duke,1,1,0
+Field,Physics,156,Ohio State University,327,University of Pittsburgh,1,1,0
+Field,Physics,156,Ohio State University,23,Boston College,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,24,Boston University,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,49,Columbia,2,1,1
+Field,Physics,347,University of Wisconsin-Madison,347,University of Wisconsin-Madison,20,18,0
+Field,Physics,347,University of Wisconsin-Madison,326,UPenn,2,1,1
+Field,Physics,347,University of Wisconsin-Madison,252,UC Davis,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,198,Stanford,3,3,0
+Field,Physics,347,University of Wisconsin-Madison,167,Princeton,6,6,0
+Field,Physics,347,University of Wisconsin-Madison,156,Ohio State University,1,0,1
+Field,Physics,347,University of Wisconsin-Madison,251,UC Berkeley,4,4,0
+Field,Physics,347,University of Wisconsin-Madison,289,University of Maryland College Park,2,2,0
+Field,Physics,347,University of Wisconsin-Madison,261,University of Chicago,2,2,0
+Field,Physics,347,University of Wisconsin-Madison,51,Cornell,3,2,1
+Field,Physics,347,University of Wisconsin-Madison,263,CU Boulder,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,300,University of Michigan,2,1,0
+Field,Physics,347,University of Wisconsin-Madison,229,UT Austin,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,96,Indiana University Bloomington,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,172,Rice,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,87,Harvard,5,3,1
+Field,Physics,347,University of Wisconsin-Madison,368,Yale,2,1,0
+Field,Physics,347,University of Wisconsin-Madison,163,Penn State,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,329,University of Rochester,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,102,Johns Hopkins,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,354,Virginia Tech,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,343,University of Utah,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,256,UC San Diego,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,247,University of Arizona,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,283,University of Kentucky,1,1,0
+Field,Physics,347,University of Wisconsin-Madison,28,Brown,1,1,0
+Field,Physics,341,University of Toledo,345,University of Virginia,1,1,0
+Field,Physics,341,University of Toledo,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,341,University of Toledo,31,Caltech,1,1,0
+Field,Physics,341,University of Toledo,212,Temple,1,1,0
+Field,Physics,341,University of Toledo,146,NYU,2,2,0
+Field,Physics,341,University of Toledo,251,UC Berkeley,1,1,0
+Field,Physics,341,University of Toledo,102,Johns Hopkins,1,0,1
+Field,Physics,341,University of Toledo,289,University of Maryland College Park,1,1,0
+Field,Physics,341,University of Toledo,261,University of Chicago,3,2,0
+Field,Physics,341,University of Toledo,51,Cornell,3,2,0
+Field,Physics,341,University of Toledo,263,CU Boulder,1,0,1
+Field,Physics,341,University of Toledo,300,University of Michigan,1,1,0
+Field,Physics,341,University of Toledo,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,341,University of Toledo,87,Harvard,2,2,0
+Field,Physics,341,University of Toledo,103,Kansas State,1,0,0
+Field,Physics,341,University of Toledo,276,University of Hawaii,2,1,1
+Field,Physics,341,University of Toledo,259,UC Santa Cruz,2,1,1
+Field,Physics,341,University of Toledo,306,Missouri S&T,1,1,0
+Field,Physics,341,University of Toledo,341,University of Toledo,2,2,0
+Field,Physics,51,Cornell,51,Cornell,5,5,0
+Field,Physics,51,Cornell,280,University of Illinois Urbana-Champaign,3,2,1
+Field,Physics,51,Cornell,326,UPenn,1,1,0
+Field,Physics,51,Cornell,123,MIT,4,3,0
+Field,Physics,51,Cornell,198,Stanford,5,3,0
+Field,Physics,51,Cornell,31,Caltech,2,2,0
+Field,Physics,51,Cornell,167,Princeton,4,4,0
+Field,Physics,51,Cornell,251,UC Berkeley,3,3,0
+Field,Physics,51,Cornell,261,University of Chicago,4,3,1
+Field,Physics,51,Cornell,258,UC Santa Barbara,1,1,0
+Field,Physics,51,Cornell,300,University of Michigan,1,1,0
+Field,Physics,51,Cornell,132,Michigan State,1,1,0
+Field,Physics,51,Cornell,87,Harvard,4,3,0
+Field,Physics,51,Cornell,368,Yale,1,1,0
+Field,Physics,51,Cornell,60,Duke,1,1,0
+Field,Physics,348,University of Wisconsin-Milwaukee,358,Washington University St. Louis,1,1,0
+Field,Physics,348,University of Wisconsin-Milwaukee,261,University of Chicago,1,1,0
+Field,Physics,348,University of Wisconsin-Milwaukee,251,UC Berkeley,2,1,1
+Field,Physics,348,University of Wisconsin-Milwaukee,12,Arizona State,1,0,1
+Field,Physics,348,University of Wisconsin-Milwaukee,326,UPenn,1,1,0
+Field,Physics,348,University of Wisconsin-Milwaukee,123,MIT,1,0,1
+Field,Physics,348,University of Wisconsin-Milwaukee,31,Caltech,2,1,1
+Field,Physics,348,University of Wisconsin-Milwaukee,153,Northwestern,2,2,0
+Field,Physics,348,University of Wisconsin-Milwaukee,99,Iowa State,1,0,0
+Field,Physics,161,Oregon State,237,Tufts,1,1,0
+Field,Physics,348,University of Wisconsin-Milwaukee,368,Yale,1,0,1
+Field,Physics,362,West Virginia,12,Arizona State,2,1,0
+Field,Physics,314,University of New Mexico,156,Ohio State University,1,1,0
+Field,Physics,260,University of Central Florida,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,260,University of Central Florida,345,University of Virginia,1,1,0
+Field,Physics,260,University of Central Florida,280,University of Illinois Urbana-Champaign,1,0,0
+Field,Physics,260,University of Central Florida,123,MIT,2,2,0
+Field,Physics,260,University of Central Florida,153,Northwestern,1,1,0
+Field,Physics,260,University of Central Florida,343,University of Utah,1,1,0
+Field,Physics,260,University of Central Florida,251,UC Berkeley,2,1,0
+Field,Physics,260,University of Central Florida,289,University of Maryland College Park,3,1,0
+Field,Physics,260,University of Central Florida,51,Cornell,2,2,0
+Field,Physics,260,University of Central Florida,263,CU Boulder,2,1,1
+Field,Physics,260,University of Central Florida,87,Harvard,1,1,0
+Field,Physics,260,University of Central Florida,254,UCLA,1,0,0
+Field,Physics,260,University of Central Florida,267,UConn,1,0,0
+Field,Physics,260,University of Central Florida,329,University of Rochester,1,1,0
+Field,Physics,260,University of Central Florida,247,University of Arizona,1,1,0
+Field,Physics,260,University of Central Florida,260,University of Central Florida,1,1,0
+Field,Physics,260,University of Central Florida,28,Brown,2,1,1
+Field,Physics,260,University of Central Florida,103,Kansas State,2,0,1
+Field,Physics,260,University of Central Florida,276,University of Hawaii,1,1,0
+Field,Physics,260,University of Central Florida,42,Clark,1,1,0
+Field,Physics,260,University of Central Florida,23,Boston College,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,123,MIT,5,4,1
+Field,Physics,259,UC Santa Cruz,123,MIT,2,1,0
+Field,Physics,177,Rutgers - New Brunswick,326,UPenn,3,3,0
+Field,Physics,177,Rutgers - New Brunswick,229,UT Austin,2,2,0
+Field,Physics,177,Rutgers - New Brunswick,51,Cornell,5,5,0
+Field,Physics,177,Rutgers - New Brunswick,87,Harvard,5,5,0
+Field,Physics,177,Rutgers - New Brunswick,177,Rutgers - New Brunswick,5,2,2
+Field,Physics,177,Rutgers - New Brunswick,251,UC Berkeley,4,4,0
+Field,Physics,177,Rutgers - New Brunswick,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,347,University of Wisconsin-Madison,1,0,0
+Field,Physics,177,Rutgers - New Brunswick,346,UW,2,1,1
+Field,Physics,177,Rutgers - New Brunswick,198,Stanford,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,31,Caltech,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,167,Princeton,8,6,0
+Field,Physics,177,Rutgers - New Brunswick,146,NYU,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,289,University of Maryland College Park,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,261,University of Chicago,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,263,CU Boulder,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,258,UC Santa Barbara,1,0,0
+Field,Physics,177,Rutgers - New Brunswick,172,Rice,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,254,UCLA,2,2,0
+Field,Physics,177,Rutgers - New Brunswick,368,Yale,1,0,1
+Field,Physics,177,Rutgers - New Brunswick,202,University at Albany (SUNY),1,0,1
+Field,Physics,177,Rutgers - New Brunswick,329,University of Rochester,1,1,0
+Field,Physics,177,Rutgers - New Brunswick,49,Columbia,2,2,0
+Field,Physics,177,Rutgers - New Brunswick,259,UC Santa Cruz,1,0,1
+Field,Physics,230,UT Dallas,282,University of Kansas,1,1,0
+Field,Physics,230,UT Dallas,230,UT Dallas,2,2,0
+Field,Physics,230,UT Dallas,198,Stanford,1,1,0
+Field,Physics,230,UT Dallas,31,Caltech,1,1,0
+Field,Physics,230,UT Dallas,167,Princeton,1,1,0
+Field,Physics,230,UT Dallas,73,Florida State,2,1,1
+Field,Physics,230,UT Dallas,251,UC Berkeley,1,1,0
+Field,Physics,230,UT Dallas,261,University of Chicago,1,1,0
+Field,Physics,230,UT Dallas,51,Cornell,2,2,0
+Field,Physics,230,UT Dallas,229,UT Austin,2,0,0
+Field,Physics,230,UT Dallas,87,Harvard,2,2,0
+Field,Physics,230,UT Dallas,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,230,UT Dallas,254,UCLA,1,0,0
+Field,Physics,230,UT Dallas,202,University at Albany (SUNY),1,0,0
+Field,Physics,230,UT Dallas,49,Columbia,1,0,0
+Field,Physics,230,UT Dallas,293,UMass Amherst,1,1,0
+Field,Physics,230,UT Dallas,324,University of Oklahoma,1,1,0
+Field,Physics,230,UT Dallas,277,University of Houston,1,1,0
+Field,Physics,230,UT Dallas,143,New Mexico State,1,1,0
+Field,Physics,323,University of Notre Dame,42,Clark,1,0,1
+Field,Physics,221,Texas State,198,Stanford,1,1,0
+Field,Physics,323,University of Notre Dame,323,University of Notre Dame,6,4,2
+Field,Physics,323,University of Notre Dame,167,Princeton,1,0,1
+Field,Physics,323,University of Notre Dame,132,Michigan State,3,2,0
+Field,Physics,323,University of Notre Dame,280,University of Illinois Urbana-Champaign,4,4,0
+Field,Physics,323,University of Notre Dame,354,Virginia Tech,1,1,0
+Field,Physics,323,University of Notre Dame,347,University of Wisconsin-Madison,2,1,0
+Field,Physics,323,University of Notre Dame,346,UW,3,2,1
+Field,Physics,323,University of Notre Dame,198,Stanford,4,4,0
+Field,Physics,323,University of Notre Dame,153,Northwestern,1,1,0
+Field,Physics,323,University of Notre Dame,73,Florida State,1,1,0
+Field,Physics,323,University of Notre Dame,251,UC Berkeley,1,0,1
+Field,Physics,323,University of Notre Dame,289,University of Maryland College Park,1,1,0
+Field,Physics,323,University of Notre Dame,51,Cornell,4,1,1
+Field,Physics,323,University of Notre Dame,205,SUNY Stony Brook,3,2,0
+Field,Physics,323,University of Notre Dame,215,Texas A&M,1,1,0
+Field,Physics,323,University of Notre Dame,300,University of Michigan,1,1,0
+Field,Physics,323,University of Notre Dame,96,Indiana University Bloomington,1,1,0
+Field,Physics,323,University of Notre Dame,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,323,University of Notre Dame,172,Rice,1,1,0
+Field,Physics,323,University of Notre Dame,273,University of Florida,2,2,0
+Field,Physics,323,University of Notre Dame,254,UCLA,2,2,0
+Field,Physics,323,University of Notre Dame,368,Yale,2,2,0
+Field,Physics,323,University of Notre Dame,24,Boston University,1,1,0
+Field,Physics,323,University of Notre Dame,316,UNC,1,0,1
+Field,Physics,323,University of Notre Dame,150,Northeastern,1,0,0
+Field,Physics,87,Harvard,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,87,Harvard,123,MIT,3,2,1
+Field,Physics,87,Harvard,198,Stanford,2,1,1
+Field,Physics,87,Harvard,251,UC Berkeley,4,3,1
+Field,Physics,87,Harvard,261,University of Chicago,1,0,1
+Field,Physics,153,Northwestern,261,University of Chicago,5,3,1
+Field,Physics,87,Harvard,51,Cornell,2,1,1
+Field,Physics,87,Harvard,215,Texas A&M,1,1,0
+Field,Physics,87,Harvard,300,University of Michigan,1,1,0
+Field,Physics,87,Harvard,368,Yale,1,1,0
+Field,Physics,87,Harvard,49,Columbia,1,1,0
+Field,Physics,24,Boston University,289,University of Maryland College Park,1,1,0
+Field,Physics,256,UC San Diego,172,Rice,1,1,0
+Field,Physics,153,Northwestern,28,Brown,1,1,0
+Field,Physics,24,Boston University,280,University of Illinois Urbana-Champaign,2,1,0
+Field,Physics,24,Boston University,123,MIT,4,4,0
+Field,Physics,24,Boston University,87,Harvard,8,7,0
+Field,Physics,24,Boston University,167,Princeton,3,2,0
+Field,Physics,24,Boston University,252,UC Davis,1,1,0
+Field,Physics,24,Boston University,198,Stanford,1,1,0
+Field,Physics,24,Boston University,31,Caltech,1,1,0
+Field,Physics,24,Boston University,212,Temple,1,1,0
+Field,Physics,24,Boston University,251,UC Berkeley,4,3,0
+Field,Physics,24,Boston University,102,Johns Hopkins,1,1,0
+Field,Physics,24,Boston University,51,Cornell,1,1,0
+Field,Physics,24,Boston University,205,SUNY Stony Brook,1,0,0
+Field,Physics,24,Boston University,258,UC Santa Barbara,1,1,0
+Field,Physics,24,Boston University,215,Texas A&M,1,0,0
+Field,Physics,24,Boston University,300,University of Michigan,1,1,0
+Field,Physics,24,Boston University,256,UC San Diego,1,1,0
+Field,Physics,24,Boston University,243,University of Alabama,1,1,0
+Field,Physics,24,Boston University,368,Yale,1,1,0
+Field,Physics,24,Boston University,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,24,Boston University,28,Brown,1,0,1
+Field,Physics,24,Boston University,34,Carnegie Mellon,2,2,0
+Field,Physics,24,Boston University,46,William & Mary,1,1,0
+Field,Physics,296,UMass Lowell,251,UC Berkeley,1,0,1
+Field,Physics,55,Dartmouth,289,University of Maryland College Park,3,2,0
+Field,Physics,345,University of Virginia,163,Penn State,3,2,1
+Field,Physics,345,University of Virginia,346,UW,1,1,0
+Field,Physics,345,University of Virginia,326,UPenn,1,0,0
+Field,Physics,345,University of Virginia,123,MIT,3,2,1
+Field,Physics,345,University of Virginia,198,Stanford,3,3,0
+Field,Physics,345,University of Virginia,31,Caltech,2,2,0
+Field,Physics,345,University of Virginia,153,Northwestern,1,1,0
+Field,Physics,345,University of Virginia,156,Ohio State University,1,1,0
+Field,Physics,345,University of Virginia,102,Johns Hopkins,2,1,1
+Field,Physics,345,University of Virginia,205,SUNY Stony Brook,1,0,1
+Field,Physics,345,University of Virginia,300,University of Michigan,1,1,0
+Field,Physics,345,University of Virginia,345,University of Virginia,3,3,0
+Field,Physics,345,University of Virginia,172,Rice,1,1,0
+Field,Physics,345,University of Virginia,87,Harvard,2,2,0
+Field,Physics,345,University of Virginia,273,University of Florida,1,1,0
+Field,Physics,345,University of Virginia,254,UCLA,2,1,0
+Field,Physics,345,University of Virginia,226,University of Tennessee,1,1,0
+Field,Physics,345,University of Virginia,368,Yale,1,1,0
+Field,Physics,345,University of Virginia,329,University of Rochester,1,1,0
+Field,Physics,345,University of Virginia,60,Duke,1,1,0
+Field,Physics,345,University of Virginia,157,Ohio University,1,1,0
+Field,Physics,345,University of Virginia,279,University of Illinois Chicago,1,1,0
+Field,Physics,345,University of Virginia,34,Carnegie Mellon,1,1,0
+Field,Physics,15,Auburn,329,University of Rochester,1,1,0
+Field,Physics,15,Auburn,15,Auburn,2,2,0
+Field,Physics,15,Auburn,148,North Carolina State,3,1,0
+Field,Physics,15,Auburn,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,15,Auburn,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,15,Auburn,123,MIT,1,1,0
+Field,Physics,15,Auburn,304,University of Missouri,1,1,0
+Field,Physics,15,Auburn,289,University of Maryland College Park,2,2,0
+Field,Physics,15,Auburn,51,Cornell,1,0,0
+Field,Physics,15,Auburn,345,University of Virginia,2,2,0
+Field,Physics,15,Auburn,49,Columbia,2,1,0
+Field,Physics,15,Auburn,157,Ohio University,1,1,0
+Field,Physics,15,Auburn,351,Vanderbilt,1,0,0
+Field,Physics,15,Auburn,103,Kansas State,1,1,0
+Field,Physics,15,Auburn,246,University of Alaska Fairbanks,1,0,0
+Field,Physics,150,Northeastern,159,Old Dominion,1,1,0
+Field,Physics,150,Northeastern,24,Boston University,3,3,0
+Field,Physics,150,Northeastern,31,Caltech,1,1,0
+Field,Physics,150,Northeastern,258,UC Santa Barbara,1,1,0
+Field,Physics,150,Northeastern,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,150,Northeastern,328,University of Rhode Island,1,1,0
+Field,Physics,150,Northeastern,280,University of Illinois Urbana-Champaign,5,4,0
+Field,Physics,150,Northeastern,326,UPenn,1,1,0
+Field,Physics,150,Northeastern,198,Stanford,1,0,0
+Field,Physics,150,Northeastern,251,UC Berkeley,6,4,2
+Field,Physics,150,Northeastern,256,UC San Diego,1,1,0
+Field,Physics,150,Northeastern,229,UT Austin,1,0,1
+Field,Physics,150,Northeastern,96,Indiana University Bloomington,1,1,0
+Field,Physics,150,Northeastern,172,Rice,1,0,1
+Field,Physics,150,Northeastern,323,University of Notre Dame,2,1,0
+Field,Physics,150,Northeastern,253,UC Irvine,1,1,0
+Field,Physics,150,Northeastern,293,UMass Amherst,1,1,0
+Field,Physics,150,Northeastern,26,Brandeis,1,1,0
+Field,Physics,150,Northeastern,259,UC Santa Cruz,1,0,1
+Field,Physics,150,Northeastern,123,MIT,2,2,0
+Field,Physics,150,Northeastern,51,Cornell,1,1,0
+Field,Physics,198,Stanford,87,Harvard,3,3,0
+Field,Physics,198,Stanford,251,UC Berkeley,5,2,2
+Field,Physics,198,Stanford,123,MIT,4,3,1
+Field,Physics,198,Stanford,198,Stanford,7,6,1
+Field,Physics,198,Stanford,167,Princeton,5,2,2
+Field,Physics,198,Stanford,261,University of Chicago,1,1,0
+Field,Physics,198,Stanford,51,Cornell,2,2,0
+Field,Physics,198,Stanford,205,SUNY Stony Brook,1,0,0
+Field,Physics,198,Stanford,263,CU Boulder,1,1,0
+Field,Physics,198,Stanford,254,UCLA,1,1,0
+Field,Physics,198,Stanford,259,UC Santa Cruz,1,0,1
+Field,Physics,256,UC San Diego,123,MIT,3,3,0
+Field,Physics,256,UC San Diego,256,UC San Diego,6,4,0
+Field,Physics,256,UC San Diego,198,Stanford,5,4,1
+Field,Physics,256,UC San Diego,167,Princeton,3,3,0
+Field,Physics,256,UC San Diego,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,256,UC San Diego,252,UC Davis,1,1,0
+Field,Physics,256,UC San Diego,153,Northwestern,1,1,0
+Field,Physics,256,UC San Diego,99,Iowa State,1,1,0
+Field,Physics,256,UC San Diego,156,Ohio State University,1,0,0
+Field,Physics,256,UC San Diego,261,University of Chicago,1,1,0
+Field,Physics,256,UC San Diego,51,Cornell,1,1,0
+Field,Physics,256,UC San Diego,263,CU Boulder,1,1,0
+Field,Physics,256,UC San Diego,258,UC Santa Barbara,1,1,0
+Field,Physics,256,UC San Diego,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,256,UC San Diego,254,UCLA,2,0,1
+Field,Physics,256,UC San Diego,210,Syracuse,1,1,0
+Field,Physics,256,UC San Diego,49,Columbia,2,1,0
+Field,Physics,256,UC San Diego,28,Brown,1,1,0
+Field,Physics,256,UC San Diego,221,Texas State,1,1,0
+Field,Physics,256,UC San Diego,293,UMass Amherst,1,1,0
+Field,Physics,256,UC San Diego,259,UC Santa Cruz,1,0,0
+Field,Physics,346,UW,247,University of Arizona,1,1,0
+Field,Physics,346,UW,31,Caltech,4,4,0
+Field,Physics,346,UW,229,UT Austin,1,1,0
+Field,Physics,346,UW,87,Harvard,2,1,1
+Field,Physics,346,UW,46,William & Mary,1,1,0
+Field,Physics,346,UW,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,346,UW,347,University of Wisconsin-Madison,2,1,1
+Field,Physics,346,UW,123,MIT,4,3,0
+Field,Physics,346,UW,346,UW,5,5,0
+Field,Physics,346,UW,198,Stanford,7,5,0
+Field,Physics,346,UW,167,Princeton,3,3,0
+Field,Physics,346,UW,251,UC Berkeley,3,2,1
+Field,Physics,346,UW,102,Johns Hopkins,1,0,1
+Field,Physics,346,UW,261,University of Chicago,1,1,0
+Field,Physics,346,UW,51,Cornell,1,1,0
+Field,Physics,346,UW,205,SUNY Stony Brook,1,1,0
+Field,Physics,346,UW,300,University of Michigan,1,1,0
+Field,Physics,346,UW,256,UC San Diego,1,1,0
+Field,Physics,346,UW,132,Michigan State,1,1,0
+Field,Physics,346,UW,254,UCLA,1,1,0
+Field,Physics,346,UW,368,Yale,1,1,0
+Field,Physics,346,UW,329,University of Rochester,1,1,0
+Field,Physics,346,UW,49,Columbia,3,1,1
+Field,Physics,346,UW,316,UNC,1,1,0
+Field,Physics,346,UW,259,UC Santa Cruz,1,1,0
+Field,Physics,346,UW,34,Carnegie Mellon,1,0,1
+Field,Physics,34,Carnegie Mellon,34,Carnegie Mellon,1,0,1
+Field,Physics,282,University of Kansas,254,UCLA,2,1,1
+Field,Physics,123,MIT,280,University of Illinois Urbana-Champaign,2,1,0
+Field,Physics,123,MIT,168,Purdue,1,1,0
+Field,Physics,123,MIT,326,UPenn,2,1,0
+Field,Physics,123,MIT,198,Stanford,6,6,0
+Field,Physics,153,Northwestern,198,Stanford,3,2,0
+Field,Physics,123,MIT,31,Caltech,11,10,1
+Field,Physics,228,UT Arlington,31,Caltech,1,1,0
+Field,Physics,123,MIT,167,Princeton,5,5,0
+Field,Physics,123,MIT,153,Northwestern,1,1,0
+Field,Physics,123,MIT,289,University of Maryland College Park,1,1,0
+Field,Physics,123,MIT,261,University of Chicago,4,4,0
+Field,Physics,123,MIT,51,Cornell,5,5,0
+Field,Physics,123,MIT,258,UC Santa Barbara,1,0,1
+Field,Physics,123,MIT,300,University of Michigan,1,1,0
+Field,Physics,123,MIT,172,Rice,1,0,0
+Field,Physics,123,MIT,87,Harvard,9,7,1
+Field,Physics,123,MIT,35,Case Western Reserve,1,1,0
+Field,Physics,123,MIT,49,Columbia,3,2,1
+Field,Physics,123,MIT,34,Carnegie Mellon,1,1,0
+Field,Physics,316,UNC,280,University of Illinois Urbana-Champaign,3,1,2
+Field,Physics,316,UNC,251,UC Berkeley,1,1,0
+Field,Physics,316,UNC,60,Duke,2,1,0
+Field,Physics,316,UNC,316,UNC,5,4,0
+Field,Physics,316,UNC,326,UPenn,1,1,0
+Field,Physics,316,UNC,123,MIT,3,1,1
+Field,Physics,316,UNC,346,UW,3,1,2
+Field,Physics,316,UNC,31,Caltech,1,0,1
+Field,Physics,316,UNC,261,University of Chicago,1,1,0
+Field,Physics,316,UNC,258,UC Santa Barbara,1,0,0
+Field,Physics,316,UNC,229,UT Austin,2,2,0
+Field,Physics,316,UNC,172,Rice,1,1,0
+Field,Physics,316,UNC,87,Harvard,3,1,1
+Field,Physics,316,UNC,267,UConn,1,1,0
+Field,Physics,316,UNC,368,Yale,2,2,0
+Field,Physics,316,UNC,323,University of Notre Dame,2,1,0
+Field,Physics,316,UNC,351,Vanderbilt,1,1,0
+Field,Physics,316,UNC,276,University of Hawaii,2,2,0
+Field,Physics,316,UNC,42,Clark,1,1,0
+Field,Physics,316,UNC,355,Wake Forest,1,1,0
+Field,Physics,316,UNC,348,University of Wisconsin-Milwaukee,1,0,1
+Field,Physics,343,University of Utah,280,University of Illinois Urbana-Champaign,4,4,0
+Field,Physics,343,University of Utah,168,Purdue,1,1,0
+Field,Physics,343,University of Utah,326,UPenn,1,1,0
+Field,Physics,343,University of Utah,123,MIT,1,1,0
+Field,Physics,343,University of Utah,346,UW,1,1,0
+Field,Physics,343,University of Utah,198,Stanford,2,2,0
+Field,Physics,343,University of Utah,31,Caltech,1,1,0
+Field,Physics,343,University of Utah,343,University of Utah,5,5,0
+Field,Physics,343,University of Utah,156,Ohio State University,1,0,0
+Field,Physics,343,University of Utah,212,Temple,1,1,0
+Field,Physics,343,University of Utah,289,University of Maryland College Park,1,1,0
+Field,Physics,343,University of Utah,358,Washington University St. Louis,2,0,1
+Field,Physics,343,University of Utah,51,Cornell,1,1,0
+Field,Physics,343,University of Utah,345,University of Virginia,2,1,1
+Field,Physics,343,University of Utah,229,UT Austin,1,0,1
+Field,Physics,343,University of Utah,172,Rice,1,1,0
+Field,Physics,343,University of Utah,87,Harvard,1,1,0
+Field,Physics,343,University of Utah,301,University of Minnesota Twin Cities,1,0,1
+Field,Physics,343,University of Utah,254,UCLA,1,1,0
+Field,Physics,343,University of Utah,368,Yale,1,1,0
+Field,Physics,343,University of Utah,177,Rutgers - New Brunswick,2,1,0
+Field,Physics,343,University of Utah,255,UC Riverside,1,1,0
+Field,Physics,343,University of Utah,55,Dartmouth,1,1,0
+Field,Physics,312,"University of Nevada, Reno",263,CU Boulder,2,1,1
+Field,Physics,136,Mississippi State,136,Mississippi State,3,3,0
+Field,Physics,103,Kansas State,103,Kansas State,3,1,0
+Field,Physics,136,Mississippi State,346,UW,1,1,0
+Field,Physics,136,Mississippi State,198,Stanford,1,1,0
+Field,Physics,136,Mississippi State,153,Northwestern,1,0,0
+Field,Physics,136,Mississippi State,99,Iowa State,1,1,0
+Field,Physics,136,Mississippi State,289,University of Maryland College Park,1,0,1
+Field,Physics,136,Mississippi State,215,Texas A&M,1,0,0
+Field,Physics,136,Mississippi State,172,Rice,1,1,0
+Field,Physics,136,Mississippi State,132,Michigan State,1,0,0
+Field,Physics,136,Mississippi State,254,UCLA,1,0,1
+Field,Physics,136,Mississippi State,368,Yale,2,1,0
+Field,Physics,136,Mississippi State,49,Columbia,1,1,0
+Field,Physics,136,Mississippi State,283,University of Kentucky,1,1,0
+Field,Physics,136,Mississippi State,351,Vanderbilt,1,0,0
+Field,Physics,136,Mississippi State,8,American,1,1,0
+Field,Physics,136,Mississippi State,315,University of New Orleans,1,0,0
+Field,Physics,324,University of Oklahoma,172,Rice,1,1,0
+Field,Physics,324,University of Oklahoma,168,Purdue,1,1,0
+Field,Physics,324,University of Oklahoma,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,324,University of Oklahoma,346,UW,1,1,0
+Field,Physics,324,University of Oklahoma,198,Stanford,1,1,0
+Field,Physics,362,West Virginia,31,Caltech,1,1,0
+Field,Physics,324,University of Oklahoma,167,Princeton,1,1,0
+Field,Physics,324,University of Oklahoma,153,Northwestern,1,1,0
+Field,Physics,324,University of Oklahoma,156,Ohio State University,1,1,0
+Field,Physics,324,University of Oklahoma,251,UC Berkeley,1,1,0
+Field,Physics,324,University of Oklahoma,289,University of Maryland College Park,2,2,0
+Field,Physics,362,West Virginia,51,Cornell,2,0,2
+Field,Physics,324,University of Oklahoma,205,SUNY Stony Brook,2,2,0
+Field,Physics,324,University of Oklahoma,300,University of Michigan,5,5,0
+Field,Physics,324,University of Oklahoma,229,UT Austin,2,1,0
+Field,Physics,324,University of Oklahoma,87,Harvard,2,1,1
+Field,Physics,324,University of Oklahoma,254,UCLA,1,1,0
+Field,Physics,324,University of Oklahoma,163,Penn State,1,0,1
+Field,Physics,324,University of Oklahoma,202,University at Albany (SUNY),1,1,0
+Field,Physics,324,University of Oklahoma,177,Rutgers - New Brunswick,1,0,0
+Field,Physics,324,University of Oklahoma,329,University of Rochester,2,2,0
+Field,Physics,324,University of Oklahoma,247,University of Arizona,1,1,0
+Field,Physics,324,University of Oklahoma,49,Columbia,1,1,0
+Field,Physics,324,University of Oklahoma,255,UC Riverside,1,1,0
+Field,Physics,324,University of Oklahoma,27,Brigham Young,1,1,0
+Field,Physics,324,University of Oklahoma,221,Texas State,1,0,0
+Field,Physics,42,Clark,293,UMass Amherst,1,0,1
+Field,Physics,324,University of Oklahoma,324,University of Oklahoma,1,1,0
+Field,Physics,324,University of Oklahoma,34,Carnegie Mellon,1,0,0
+Field,Physics,324,University of Oklahoma,341,University of Toledo,1,1,0
+Field,Physics,324,University of Oklahoma,137,Montana State,1,0,1
+Field,Physics,289,University of Maryland College Park,87,Harvard,4,4,0
+Field,Physics,289,University of Maryland College Park,167,Princeton,7,7,0
+Field,Physics,289,University of Maryland College Park,198,Stanford,6,4,1
+Field,Physics,289,University of Maryland College Park,99,Iowa State,1,1,0
+Field,Physics,289,University of Maryland College Park,109,LSU,2,1,1
+Field,Physics,289,University of Maryland College Park,368,Yale,3,3,0
+Field,Physics,289,University of Maryland College Park,289,University of Maryland College Park,8,6,0
+Field,Physics,289,University of Maryland College Park,345,University of Virginia,1,1,0
+Field,Physics,289,University of Maryland College Park,251,UC Berkeley,9,9,0
+Field,Physics,289,University of Maryland College Park,261,University of Chicago,2,2,0
+Field,Physics,289,University of Maryland College Park,123,MIT,7,5,1
+Field,Physics,289,University of Maryland College Park,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,289,University of Maryland College Park,168,Purdue,1,0,1
+Field,Physics,289,University of Maryland College Park,326,UPenn,2,2,0
+Field,Physics,26,Brandeis,123,MIT,1,1,0
+Field,Physics,261,University of Chicago,123,MIT,2,2,0
+Field,Physics,289,University of Maryland College Park,346,UW,3,1,2
+Field,Physics,289,University of Maryland College Park,31,Caltech,2,1,1
+Field,Physics,289,University of Maryland College Park,237,Tufts,1,1,0
+Field,Physics,289,University of Maryland College Park,51,Cornell,2,1,1
+Field,Physics,289,University of Maryland College Park,205,SUNY Stony Brook,1,1,0
+Field,Physics,289,University of Maryland College Park,263,CU Boulder,2,1,0
+Field,Physics,289,University of Maryland College Park,229,UT Austin,3,3,0
+Field,Physics,289,University of Maryland College Park,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,289,University of Maryland College Park,254,UCLA,2,2,0
+Field,Physics,289,University of Maryland College Park,323,University of Notre Dame,1,0,1
+Field,Physics,289,University of Maryland College Park,329,University of Rochester,5,3,1
+Field,Physics,289,University of Maryland College Park,49,Columbia,1,0,0
+Field,Physics,289,University of Maryland College Park,82,Georgia Tech,1,1,0
+Field,Physics,289,University of Maryland College Park,253,UC Irvine,1,1,0
+Field,Physics,325,University of Oregon,327,University of Pittsburgh,1,1,0
+Field,Physics,289,University of Maryland College Park,282,University of Kansas,1,0,1
+Field,Physics,289,University of Maryland College Park,28,Brown,1,1,0
+Field,Physics,289,University of Maryland College Park,59,Drexel,1,1,0
+Field,Physics,289,University of Maryland College Park,146,NYU,1,1,0
+Field,Physics,205,SUNY Stony Brook,329,University of Rochester,1,1,0
+Field,Physics,205,SUNY Stony Brook,123,MIT,7,7,0
+Field,Physics,205,SUNY Stony Brook,28,Brown,1,1,0
+Field,Physics,205,SUNY Stony Brook,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,205,SUNY Stony Brook,198,Stanford,1,1,0
+Field,Physics,205,SUNY Stony Brook,31,Caltech,1,1,0
+Field,Physics,205,SUNY Stony Brook,167,Princeton,4,4,0
+Field,Physics,205,SUNY Stony Brook,99,Iowa State,1,1,0
+Field,Physics,205,SUNY Stony Brook,251,UC Berkeley,5,5,0
+Field,Physics,205,SUNY Stony Brook,289,University of Maryland College Park,2,2,0
+Field,Physics,205,SUNY Stony Brook,51,Cornell,4,4,0
+Field,Physics,205,SUNY Stony Brook,205,SUNY Stony Brook,4,4,0
+Field,Physics,153,Northwestern,205,SUNY Stony Brook,2,1,0
+Field,Physics,205,SUNY Stony Brook,263,CU Boulder,1,1,0
+Field,Physics,205,SUNY Stony Brook,258,UC Santa Barbara,2,1,1
+Field,Physics,205,SUNY Stony Brook,300,University of Michigan,1,1,0
+Field,Physics,205,SUNY Stony Brook,256,UC San Diego,1,1,0
+Field,Physics,205,SUNY Stony Brook,229,UT Austin,1,1,0
+Field,Physics,205,SUNY Stony Brook,96,Indiana University Bloomington,1,1,0
+Field,Physics,205,SUNY Stony Brook,273,University of Florida,2,2,0
+Field,Physics,205,SUNY Stony Brook,254,UCLA,1,1,0
+Field,Physics,205,SUNY Stony Brook,368,Yale,2,2,0
+Field,Physics,205,SUNY Stony Brook,24,Boston University,1,0,0
+Field,Physics,205,SUNY Stony Brook,177,Rutgers - New Brunswick,2,1,1
+Field,Physics,205,SUNY Stony Brook,49,Columbia,2,0,2
+Field,Physics,205,SUNY Stony Brook,253,UC Irvine,1,1,0
+Field,Physics,205,SUNY Stony Brook,327,University of Pittsburgh,2,2,0
+Field,Physics,205,SUNY Stony Brook,351,Vanderbilt,1,1,0
+Field,Physics,210,Syracuse,51,Cornell,2,2,0
+Field,Physics,210,Syracuse,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,210,Syracuse,326,UPenn,1,0,1
+Field,Physics,210,Syracuse,123,MIT,3,2,0
+Field,Physics,210,Syracuse,31,Caltech,3,3,0
+Field,Physics,210,Syracuse,167,Princeton,5,5,0
+Field,Physics,210,Syracuse,153,Northwestern,1,0,1
+Field,Physics,210,Syracuse,289,University of Maryland College Park,2,2,0
+Field,Physics,210,Syracuse,261,University of Chicago,1,1,0
+Field,Physics,210,Syracuse,263,CU Boulder,1,1,0
+Field,Physics,210,Syracuse,300,University of Michigan,1,1,0
+Field,Physics,210,Syracuse,229,UT Austin,1,1,0
+Field,Physics,210,Syracuse,96,Indiana University Bloomington,1,1,0
+Field,Physics,210,Syracuse,87,Harvard,2,1,1
+Field,Physics,258,UC Santa Barbara,273,University of Florida,1,0,0
+Field,Physics,210,Syracuse,163,Penn State,1,1,0
+Field,Physics,210,Syracuse,323,University of Notre Dame,1,1,0
+Field,Physics,210,Syracuse,329,University of Rochester,2,2,0
+Field,Physics,210,Syracuse,327,University of Pittsburgh,1,1,0
+Field,Physics,210,Syracuse,28,Brown,1,1,0
+Field,Physics,210,Syracuse,348,University of Wisconsin-Milwaukee,1,1,0
+Field,Physics,270,University of Delaware,354,Virginia Tech,1,1,0
+Field,Physics,270,University of Delaware,346,UW,1,1,0
+Field,Physics,270,University of Delaware,31,Caltech,2,2,0
+Field,Physics,270,University of Delaware,167,Princeton,2,1,0
+Field,Physics,270,University of Delaware,251,UC Berkeley,1,1,0
+Field,Physics,270,University of Delaware,102,Johns Hopkins,3,2,0
+Field,Physics,270,University of Delaware,289,University of Maryland College Park,4,3,1
+Field,Physics,270,University of Delaware,261,University of Chicago,1,1,0
+Field,Physics,270,University of Delaware,205,SUNY Stony Brook,2,2,0
+Field,Physics,270,University of Delaware,263,CU Boulder,1,1,0
+Field,Physics,270,University of Delaware,300,University of Michigan,2,2,0
+Field,Physics,270,University of Delaware,87,Harvard,1,1,0
+Field,Physics,270,University of Delaware,301,University of Minnesota Twin Cities,3,2,0
+Field,Physics,270,University of Delaware,323,University of Notre Dame,1,0,1
+Field,Physics,270,University of Delaware,351,Vanderbilt,1,1,0
+Field,Physics,270,University of Delaware,28,Brown,1,1,0
+Field,Physics,270,University of Delaware,270,University of Delaware,2,2,0
+Field,Physics,270,University of Delaware,46,William & Mary,1,1,0
+Field,Physics,325,University of Oregon,198,Stanford,2,1,1
+Field,Physics,325,University of Oregon,34,Carnegie Mellon,1,0,0
+Field,Physics,325,University of Oregon,347,University of Wisconsin-Madison,2,1,0
+Field,Physics,325,University of Oregon,123,MIT,2,2,0
+Field,Physics,325,University of Oregon,346,UW,1,1,0
+Field,Physics,325,University of Oregon,31,Caltech,1,1,0
+Field,Physics,325,University of Oregon,167,Princeton,1,0,0
+Field,Physics,325,University of Oregon,153,Northwestern,1,1,0
+Field,Physics,325,University of Oregon,251,UC Berkeley,2,2,0
+Field,Physics,325,University of Oregon,102,Johns Hopkins,1,1,0
+Field,Physics,325,University of Oregon,261,University of Chicago,2,2,0
+Field,Physics,325,University of Oregon,263,CU Boulder,1,1,0
+Field,Physics,325,University of Oregon,300,University of Michigan,3,2,0
+Field,Physics,325,University of Oregon,229,UT Austin,1,1,0
+Field,Physics,325,University of Oregon,96,Indiana University Bloomington,1,1,0
+Field,Physics,325,University of Oregon,87,Harvard,4,3,1
+Field,Physics,325,University of Oregon,368,Yale,2,2,0
+Field,Physics,325,University of Oregon,247,University of Arizona,1,1,0
+Field,Physics,325,University of Oregon,255,UC Riverside,1,1,0
+Field,Physics,325,University of Oregon,325,University of Oregon,3,3,0
+Field,Physics,69,Florida A&M,300,University of Michigan,1,0,1
+Field,Physics,69,Florida A&M,198,Stanford,1,1,0
+Field,Physics,69,Florida A&M,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,69,Florida A&M,73,Florida State,1,1,0
+Field,Physics,69,Florida A&M,51,Cornell,1,1,0
+Field,Physics,69,Florida A&M,254,UCLA,1,1,0
+Field,Physics,69,Florida A&M,368,Yale,1,1,0
+Field,Physics,69,Florida A&M,255,UC Riverside,1,0,0
+Field,Physics,69,Florida A&M,60,Duke,1,1,0
+Field,Physics,69,Florida A&M,109,LSU,1,1,0
+Field,Physics,69,Florida A&M,270,University of Delaware,1,0,0
+Field,Physics,69,Florida A&M,143,New Mexico State,1,1,0
+Field,Physics,69,Florida A&M,69,Florida A&M,1,1,0
+Field,Physics,200,Stevens Institute of Technology,132,Michigan State,1,0,0
+Field,Physics,200,Stevens Institute of Technology,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,200,Stevens Institute of Technology,354,Virginia Tech,1,0,0
+Field,Physics,200,Stevens Institute of Technology,102,Johns Hopkins,1,0,0
+Field,Physics,200,Stevens Institute of Technology,263,CU Boulder,1,1,0
+Field,Physics,200,Stevens Institute of Technology,300,University of Michigan,1,1,0
+Field,Physics,200,Stevens Institute of Technology,87,Harvard,1,1,0
+Field,Physics,200,Stevens Institute of Technology,329,University of Rochester,1,0,0
+Field,Physics,200,Stevens Institute of Technology,49,Columbia,1,1,0
+Field,Physics,200,Stevens Institute of Technology,200,Stevens Institute of Technology,1,1,0
+Field,Physics,90,Howard,289,University of Maryland College Park,1,1,0
+Field,Physics,90,Howard,123,MIT,1,0,0
+Field,Physics,90,Howard,198,Stanford,1,1,0
+Field,Physics,90,Howard,156,Ohio State University,1,1,0
+Field,Physics,90,Howard,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,90,Howard,229,UT Austin,1,0,0
+Field,Physics,90,Howard,172,Rice,1,1,0
+Field,Physics,90,Howard,202,University at Albany (SUNY),1,1,0
+Field,Physics,90,Howard,82,Georgia Tech,1,1,0
+Field,Physics,90,Howard,204,University at Buffalo (SUNY),1,0,1
+Field,Physics,90,Howard,8,American,1,1,0
+Field,Physics,90,Howard,359,Wayne State,1,1,0
+Field,Physics,90,Howard,90,Howard,2,2,0
+Field,Physics,90,Howard,255,UC Riverside,1,0,1
+Field,Physics,92,Illinois Tech,252,UC Davis,1,0,0
+Field,Physics,92,Illinois Tech,163,Penn State,2,0,0
+Field,Physics,92,Illinois Tech,168,Purdue,1,1,0
+Field,Physics,92,Illinois Tech,326,UPenn,1,0,0
+Field,Physics,92,Illinois Tech,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,92,Illinois Tech,346,UW,1,1,0
+Field,Physics,92,Illinois Tech,198,Stanford,2,2,0
+Field,Physics,92,Illinois Tech,153,Northwestern,2,1,1
+Field,Physics,92,Illinois Tech,99,Iowa State,1,1,0
+Field,Physics,92,Illinois Tech,92,Illinois Tech,5,1,2
+Field,Physics,92,Illinois Tech,261,University of Chicago,2,2,0
+Field,Physics,92,Illinois Tech,205,SUNY Stony Brook,2,1,1
+Field,Physics,92,Illinois Tech,300,University of Michigan,1,1,0
+Field,Physics,92,Illinois Tech,256,UC San Diego,3,3,0
+Field,Physics,92,Illinois Tech,345,University of Virginia,1,1,0
+Field,Physics,92,Illinois Tech,96,Indiana University Bloomington,2,1,0
+Field,Physics,92,Illinois Tech,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,92,Illinois Tech,323,University of Notre Dame,1,0,0
+Field,Physics,92,Illinois Tech,49,Columbia,1,1,0
+Field,Physics,92,Illinois Tech,287,University of Maine,1,1,0
+Field,Physics,92,Illinois Tech,123,MIT,2,2,0
+Field,Physics,92,Illinois Tech,73,Florida State,1,1,0
+Field,Physics,92,Illinois Tech,146,NYU,1,1,0
+Field,Physics,92,Illinois Tech,229,UT Austin,1,0,1
+Field,Physics,92,Illinois Tech,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,92,Illinois Tech,247,University of Arizona,1,1,0
+Field,Physics,92,Illinois Tech,335,University of Southern California,1,1,0
+Field,Physics,92,Illinois Tech,26,Brandeis,1,1,0
+Field,Physics,92,Illinois Tech,244,University of Alabama at Birmingham,2,1,0
+Field,Physics,92,Illinois Tech,48,Colorado State,1,1,0
+Field,Physics,92,Illinois Tech,283,University of Kentucky,1,0,0
+Field,Physics,92,Illinois Tech,149,North Dakota State,1,1,0
+Field,Physics,92,Illinois Tech,251,UC Berkeley,1,1,0
+Field,Physics,92,Illinois Tech,279,University of Illinois Chicago,1,0,1
+Field,Physics,153,Northwestern,123,MIT,2,2,0
+Field,Physics,153,Northwestern,137,Montana State,1,1,0
+Field,Physics,161,Oregon State,251,UC Berkeley,3,2,1
+Field,Physics,153,Northwestern,289,University of Maryland College Park,1,1,0
+Field,Physics,153,Northwestern,251,UC Berkeley,2,2,0
+Field,Physics,153,Northwestern,280,University of Illinois Urbana-Champaign,1,0,1
+Field,Physics,153,Northwestern,168,Purdue,1,0,1
+Field,Physics,153,Northwestern,326,UPenn,1,1,0
+Field,Physics,153,Northwestern,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,153,Northwestern,31,Caltech,1,1,0
+Field,Physics,153,Northwestern,167,Princeton,1,1,0
+Field,Physics,153,Northwestern,153,Northwestern,2,1,1
+Field,Physics,153,Northwestern,51,Cornell,3,3,0
+Field,Physics,153,Northwestern,258,UC Santa Barbara,1,1,0
+Field,Physics,153,Northwestern,87,Harvard,5,4,0
+Field,Physics,153,Northwestern,254,UCLA,4,4,0
+Field,Physics,153,Northwestern,368,Yale,1,1,0
+Field,Physics,153,Northwestern,49,Columbia,2,2,0
+Field,Physics,153,Northwestern,327,University of Pittsburgh,1,1,0
+Field,Physics,153,Northwestern,34,Carnegie Mellon,1,1,0
+Field,Physics,253,UC Irvine,31,Caltech,4,3,1
+Field,Physics,253,UC Irvine,326,UPenn,2,2,0
+Field,Physics,253,UC Irvine,280,University of Illinois Urbana-Champaign,1,0,0
+Field,Physics,253,UC Irvine,168,Purdue,1,1,0
+Field,Physics,253,UC Irvine,123,MIT,2,2,0
+Field,Physics,253,UC Irvine,346,UW,1,0,0
+Field,Physics,253,UC Irvine,198,Stanford,4,4,0
+Field,Physics,253,UC Irvine,167,Princeton,5,3,1
+Field,Physics,253,UC Irvine,156,Ohio State University,1,1,0
+Field,Physics,253,UC Irvine,251,UC Berkeley,7,6,0
+Field,Physics,253,UC Irvine,102,Johns Hopkins,1,0,1
+Field,Physics,253,UC Irvine,261,University of Chicago,2,1,0
+Field,Physics,253,UC Irvine,51,Cornell,2,1,0
+Field,Physics,253,UC Irvine,263,CU Boulder,1,0,1
+Field,Physics,253,UC Irvine,258,UC Santa Barbara,2,2,0
+Field,Physics,253,UC Irvine,300,University of Michigan,2,2,0
+Field,Physics,253,UC Irvine,256,UC San Diego,2,2,0
+Field,Physics,253,UC Irvine,229,UT Austin,1,1,0
+Field,Physics,253,UC Irvine,132,Michigan State,2,1,1
+Field,Physics,253,UC Irvine,87,Harvard,1,0,1
+Field,Physics,253,UC Irvine,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,253,UC Irvine,35,Case Western Reserve,1,1,0
+Field,Physics,253,UC Irvine,368,Yale,2,2,0
+Field,Physics,253,UC Irvine,247,University of Arizona,1,0,1
+Field,Physics,253,UC Irvine,253,UC Irvine,2,1,0
+Field,Physics,253,UC Irvine,279,University of Illinois Chicago,1,1,0
+Field,Physics,253,UC Irvine,259,UC Santa Cruz,2,2,0
+Field,Physics,34,Carnegie Mellon,31,Caltech,2,2,0
+Field,Physics,34,Carnegie Mellon,274,University of Georgia,1,0,1
+Field,Physics,34,Carnegie Mellon,167,Princeton,5,2,2
+Field,Physics,34,Carnegie Mellon,326,UPenn,2,2,0
+Field,Physics,34,Carnegie Mellon,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,34,Carnegie Mellon,123,MIT,3,3,0
+Field,Physics,34,Carnegie Mellon,198,Stanford,2,1,1
+Field,Physics,34,Carnegie Mellon,153,Northwestern,1,1,0
+Field,Physics,34,Carnegie Mellon,251,UC Berkeley,2,1,1
+Field,Physics,34,Carnegie Mellon,102,Johns Hopkins,1,1,0
+Field,Physics,34,Carnegie Mellon,289,University of Maryland College Park,1,1,0
+Field,Physics,34,Carnegie Mellon,261,University of Chicago,2,2,0
+Field,Physics,34,Carnegie Mellon,51,Cornell,1,1,0
+Field,Physics,34,Carnegie Mellon,300,University of Michigan,1,1,0
+Field,Physics,34,Carnegie Mellon,229,UT Austin,1,0,0
+Field,Physics,34,Carnegie Mellon,96,Indiana University Bloomington,1,1,0
+Field,Physics,34,Carnegie Mellon,87,Harvard,1,1,0
+Field,Physics,34,Carnegie Mellon,254,UCLA,1,1,0
+Field,Physics,34,Carnegie Mellon,368,Yale,1,1,0
+Field,Physics,34,Carnegie Mellon,210,Syracuse,2,1,0
+Field,Physics,34,Carnegie Mellon,49,Columbia,1,1,0
+Field,Physics,34,Carnegie Mellon,260,University of Central Florida,2,0,0
+Field,Physics,34,Carnegie Mellon,42,Clark,1,1,0
+Field,Physics,296,UMass Lowell,296,UMass Lowell,6,5,0
+Field,Physics,296,UMass Lowell,123,MIT,3,3,0
+Field,Physics,296,UMass Lowell,73,Florida State,1,1,0
+Field,Physics,296,UMass Lowell,148,North Carolina State,1,0,1
+Field,Physics,296,UMass Lowell,289,University of Maryland College Park,3,2,0
+Field,Physics,296,UMass Lowell,51,Cornell,1,1,0
+Field,Physics,296,UMass Lowell,205,SUNY Stony Brook,1,1,0
+Field,Physics,296,UMass Lowell,263,CU Boulder,1,1,0
+Field,Physics,296,UMass Lowell,300,University of Michigan,1,1,0
+Field,Physics,296,UMass Lowell,132,Michigan State,1,1,0
+Field,Physics,296,UMass Lowell,254,UCLA,1,1,0
+Field,Physics,296,UMass Lowell,323,University of Notre Dame,1,1,0
+Field,Physics,296,UMass Lowell,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,296,UMass Lowell,283,University of Kentucky,2,2,0
+Field,Physics,296,UMass Lowell,28,Brown,1,0,0
+Field,Physics,296,UMass Lowell,143,New Mexico State,1,1,0
+Field,Physics,296,UMass Lowell,368,Yale,1,0,1
+Field,Physics,296,UMass Lowell,245,University of Alabama in Huntsville,1,0,0
+Field,Physics,296,UMass Lowell,49,Columbia,1,0,0
+Field,Physics,296,UMass Lowell,313,University of New Hampshire,1,1,0
+Field,Physics,222,Texas Tech,210,Syracuse,1,1,0
+Field,Physics,222,Texas Tech,204,University at Buffalo (SUNY),2,0,0
+Field,Physics,243,University of Alabama,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,243,University of Alabama,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,243,University of Alabama,123,MIT,1,1,0
+Field,Physics,243,University of Alabama,153,Northwestern,1,1,0
+Field,Physics,243,University of Alabama,73,Florida State,2,2,0
+Field,Physics,243,University of Alabama,156,Ohio State University,1,1,0
+Field,Physics,243,University of Alabama,289,University of Maryland College Park,2,2,0
+Field,Physics,243,University of Alabama,261,University of Chicago,1,1,0
+Field,Physics,243,University of Alabama,51,Cornell,1,1,0
+Field,Physics,243,University of Alabama,263,CU Boulder,1,1,0
+Field,Physics,243,University of Alabama,258,UC Santa Barbara,1,1,0
+Field,Physics,243,University of Alabama,243,University of Alabama,1,1,0
+Field,Physics,243,University of Alabama,345,University of Virginia,2,2,0
+Field,Physics,243,University of Alabama,229,UT Austin,1,1,0
+Field,Physics,243,University of Alabama,172,Rice,1,1,0
+Field,Physics,243,University of Alabama,254,UCLA,1,0,1
+Field,Physics,243,University of Alabama,163,Penn State,2,2,0
+Field,Physics,243,University of Alabama,210,Syracuse,1,1,0
+Field,Physics,243,University of Alabama,247,University of Arizona,1,1,0
+Field,Physics,243,University of Alabama,316,UNC,1,1,0
+Field,Physics,243,University of Alabama,259,UC Santa Cruz,1,1,0
+Field,Physics,355,Wake Forest,251,UC Berkeley,3,3,0
+Field,Physics,355,Wake Forest,163,Penn State,1,0,1
+Field,Physics,355,Wake Forest,256,UC San Diego,1,1,0
+Field,Physics,355,Wake Forest,51,Cornell,1,1,0
+Field,Physics,355,Wake Forest,87,Harvard,2,2,0
+Field,Physics,355,Wake Forest,280,University of Illinois Urbana-Champaign,1,0,1
+Field,Physics,355,Wake Forest,167,Princeton,1,1,0
+Field,Physics,355,Wake Forest,289,University of Maryland College Park,1,1,0
+Field,Physics,355,Wake Forest,261,University of Chicago,1,0,1
+Field,Physics,355,Wake Forest,258,UC Santa Barbara,1,1,0
+Field,Physics,355,Wake Forest,329,University of Rochester,1,0,0
+Field,Physics,355,Wake Forest,316,UNC,2,2,0
+Field,Physics,355,Wake Forest,325,University of Oregon,1,1,0
+Field,Physics,327,University of Pittsburgh,280,University of Illinois Urbana-Champaign,4,4,0
+Field,Physics,327,University of Pittsburgh,347,University of Wisconsin-Madison,3,2,0
+Field,Physics,327,University of Pittsburgh,252,UC Davis,1,1,0
+Field,Physics,327,University of Pittsburgh,123,MIT,1,0,0
+Field,Physics,327,University of Pittsburgh,198,Stanford,1,0,0
+Field,Physics,327,University of Pittsburgh,31,Caltech,1,1,0
+Field,Physics,327,University of Pittsburgh,167,Princeton,1,1,0
+Field,Physics,327,University of Pittsburgh,156,Ohio State University,3,3,0
+Field,Physics,327,University of Pittsburgh,251,UC Berkeley,6,5,0
+Field,Physics,327,University of Pittsburgh,289,University of Maryland College Park,1,0,1
+Field,Physics,327,University of Pittsburgh,261,University of Chicago,1,1,0
+Field,Physics,327,University of Pittsburgh,51,Cornell,3,2,0
+Field,Physics,327,University of Pittsburgh,258,UC Santa Barbara,4,2,0
+Field,Physics,327,University of Pittsburgh,300,University of Michigan,1,0,0
+Field,Physics,327,University of Pittsburgh,229,UT Austin,1,0,0
+Field,Physics,327,University of Pittsburgh,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,327,University of Pittsburgh,368,Yale,1,0,1
+Field,Physics,327,University of Pittsburgh,210,Syracuse,1,1,0
+Field,Physics,327,University of Pittsburgh,247,University of Arizona,2,2,0
+Field,Physics,327,University of Pittsburgh,327,University of Pittsburgh,3,1,1
+Field,Physics,327,University of Pittsburgh,351,Vanderbilt,1,0,0
+Field,Physics,327,University of Pittsburgh,34,Carnegie Mellon,1,1,0
+Field,Physics,314,University of New Mexico,198,Stanford,1,1,0
+Field,Physics,314,University of New Mexico,87,Harvard,3,2,1
+Field,Physics,314,University of New Mexico,346,UW,2,1,1
+Field,Physics,314,University of New Mexico,260,University of Central Florida,1,1,0
+Field,Physics,314,University of New Mexico,51,Cornell,4,4,0
+Field,Physics,314,University of New Mexico,314,University of New Mexico,4,4,0
+Field,Physics,314,University of New Mexico,55,Dartmouth,1,1,0
+Field,Physics,314,University of New Mexico,31,Caltech,3,3,0
+Field,Physics,314,University of New Mexico,251,UC Berkeley,6,5,0
+Field,Physics,314,University of New Mexico,123,MIT,1,0,1
+Field,Physics,314,University of New Mexico,289,University of Maryland College Park,1,0,1
+Field,Physics,314,University of New Mexico,205,SUNY Stony Brook,1,0,0
+Field,Physics,314,University of New Mexico,263,CU Boulder,1,0,1
+Field,Physics,314,University of New Mexico,300,University of Michigan,1,0,1
+Field,Physics,314,University of New Mexico,256,UC San Diego,1,0,0
+Field,Physics,314,University of New Mexico,229,UT Austin,1,1,0
+Field,Physics,314,University of New Mexico,96,Indiana University Bloomington,2,1,0
+Field,Physics,314,University of New Mexico,301,University of Minnesota Twin Cities,3,2,0
+Field,Physics,314,University of New Mexico,254,UCLA,2,2,0
+Field,Physics,314,University of New Mexico,24,Boston University,1,1,0
+Field,Physics,314,University of New Mexico,329,University of Rochester,1,1,0
+Field,Physics,314,University of New Mexico,204,University at Buffalo (SUNY),1,1,0
+Field,Physics,222,Texas Tech,280,University of Illinois Urbana-Champaign,3,3,0
+Field,Physics,222,Texas Tech,99,Iowa State,2,1,1
+Field,Physics,222,Texas Tech,102,Johns Hopkins,1,1,0
+Field,Physics,222,Texas Tech,304,University of Missouri,1,1,0
+Field,Physics,222,Texas Tech,222,Texas Tech,1,1,0
+Field,Physics,222,Texas Tech,358,Washington University St. Louis,1,1,0
+Field,Physics,222,Texas Tech,51,Cornell,1,0,1
+Field,Physics,222,Texas Tech,281,University of Iowa,1,0,0
+Field,Physics,222,Texas Tech,258,UC Santa Barbara,1,1,0
+Field,Physics,222,Texas Tech,368,Yale,1,1,0
+Field,Physics,222,Texas Tech,103,Kansas State,1,1,0
+Field,Physics,222,Texas Tech,324,University of Oklahoma,1,1,0
+Field,Physics,221,Texas State,354,Virginia Tech,1,1,0
+Field,Physics,222,Texas Tech,229,UT Austin,1,0,0
+Field,Physics,222,Texas Tech,83,Georgia State,1,1,0
+Field,Physics,359,Wayne State,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,359,Wayne State,326,UPenn,1,1,0
+Field,Physics,359,Wayne State,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,359,Wayne State,123,MIT,1,1,0
+Field,Physics,359,Wayne State,167,Princeton,1,0,1
+Field,Physics,359,Wayne State,153,Northwestern,1,1,0
+Field,Physics,359,Wayne State,73,Florida State,1,0,0
+Field,Physics,359,Wayne State,156,Ohio State University,1,0,0
+Field,Physics,359,Wayne State,146,NYU,1,0,0
+Field,Physics,359,Wayne State,251,UC Berkeley,1,1,0
+Field,Physics,359,Wayne State,102,Johns Hopkins,1,1,0
+Field,Physics,359,Wayne State,289,University of Maryland College Park,1,1,0
+Field,Physics,359,Wayne State,261,University of Chicago,1,0,1
+Field,Physics,359,Wayne State,51,Cornell,3,3,0
+Field,Physics,359,Wayne State,362,West Virginia,1,0,1
+Field,Physics,359,Wayne State,205,SUNY Stony Brook,3,2,0
+Field,Physics,359,Wayne State,300,University of Michigan,1,1,0
+Field,Physics,359,Wayne State,132,Michigan State,1,0,0
+Field,Physics,359,Wayne State,35,Case Western Reserve,1,1,0
+Field,Physics,359,Wayne State,255,UC Riverside,1,1,0
+Field,Physics,359,Wayne State,28,Brown,1,1,0
+Field,Physics,359,Wayne State,293,UMass Amherst,1,1,0
+Field,Physics,359,Wayne State,103,Kansas State,1,1,0
+Field,Physics,359,Wayne State,34,Carnegie Mellon,1,1,0
+Field,Physics,282,University of Kansas,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,282,University of Kansas,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,276,University of Hawaii,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,282,University of Kansas,31,Caltech,2,1,0
+Field,Physics,282,University of Kansas,99,Iowa State,1,0,0
+Field,Physics,282,University of Kansas,205,SUNY Stony Brook,1,1,0
+Field,Physics,282,University of Kansas,300,University of Michigan,1,1,0
+Field,Physics,282,University of Kansas,256,UC San Diego,1,1,0
+Field,Physics,282,University of Kansas,229,UT Austin,1,1,0
+Field,Physics,282,University of Kansas,96,Indiana University Bloomington,1,1,0
+Field,Physics,282,University of Kansas,87,Harvard,1,1,0
+Field,Physics,282,University of Kansas,273,University of Florida,1,1,0
+Field,Physics,282,University of Kansas,368,Yale,3,2,1
+Field,Physics,282,University of Kansas,247,University of Arizona,1,1,0
+Field,Physics,282,University of Kansas,287,University of Maine,1,1,0
+Field,Physics,282,University of Kansas,325,University of Oregon,1,1,0
+Field,Physics,282,University of Kansas,327,University of Pittsburgh,1,1,0
+Field,Physics,282,University of Kansas,28,Brown,1,1,0
+Field,Physics,282,University of Kansas,293,UMass Amherst,1,0,1
+Field,Physics,282,University of Kansas,34,Carnegie Mellon,1,0,1
+Field,Physics,282,University of Kansas,277,University of Houston,2,1,1
+Field,Physics,282,University of Kansas,259,UC Santa Cruz,1,1,0
+Field,Physics,277,University of Houston,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,20,Baylor,51,Cornell,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,105,Lehigh,1,0,1
+Field,Physics,244,University of Alabama at Birmingham,172,Rice,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,244,University of Alabama at Birmingham,215,Texas A&M,1,0,0
+Field,Physics,244,University of Alabama at Birmingham,168,Purdue,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,346,UW,1,0,0
+Field,Physics,244,University of Alabama at Birmingham,198,Stanford,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,31,Caltech,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,243,University of Alabama,1,0,1
+Field,Physics,244,University of Alabama at Birmingham,274,University of Georgia,1,1,0
+Field,Physics,244,University of Alabama at Birmingham,351,Vanderbilt,1,0,0
+Field,Physics,244,University of Alabama at Birmingham,244,University of Alabama at Birmingham,2,2,0
+Field,Physics,244,University of Alabama at Birmingham,158,Oklahoma State,1,1,0
+Field,Physics,281,University of Iowa,247,University of Arizona,2,2,0
+Field,Physics,281,University of Iowa,354,Virginia Tech,1,0,0
+Field,Physics,281,University of Iowa,347,University of Wisconsin-Madison,5,4,1
+Field,Physics,281,University of Iowa,198,Stanford,1,0,1
+Field,Physics,281,University of Iowa,167,Princeton,3,3,0
+Field,Physics,281,University of Iowa,343,University of Utah,1,1,0
+Field,Physics,281,University of Iowa,251,UC Berkeley,1,1,0
+Field,Physics,281,University of Iowa,289,University of Maryland College Park,3,3,0
+Field,Physics,281,University of Iowa,263,CU Boulder,2,2,0
+Field,Physics,281,University of Iowa,281,University of Iowa,2,2,0
+Field,Physics,281,University of Iowa,258,UC Santa Barbara,2,2,0
+Field,Physics,281,University of Iowa,256,UC San Diego,2,2,0
+Field,Physics,281,University of Iowa,229,UT Austin,1,1,0
+Field,Physics,281,University of Iowa,254,UCLA,3,1,1
+Field,Physics,281,University of Iowa,210,Syracuse,1,1,0
+Field,Physics,281,University of Iowa,276,University of Hawaii,1,0,0
+Field,Physics,281,University of Iowa,313,University of New Hampshire,1,0,1
+Field,Physics,313,University of New Hampshire,362,West Virginia,1,0,1
+Field,Physics,362,West Virginia,280,University of Illinois Urbana-Champaign,5,4,1
+Field,Physics,362,West Virginia,347,University of Wisconsin-Madison,2,1,0
+Field,Physics,362,West Virginia,251,UC Berkeley,1,1,0
+Field,Physics,362,West Virginia,289,University of Maryland College Park,4,4,0
+Field,Physics,362,West Virginia,263,CU Boulder,2,2,0
+Field,Physics,362,West Virginia,300,University of Michigan,1,0,0
+Field,Physics,362,West Virginia,256,UC San Diego,1,1,0
+Field,Physics,362,West Virginia,229,UT Austin,1,1,0
+Field,Physics,362,West Virginia,24,Boston University,1,1,0
+Field,Physics,362,West Virginia,327,University of Pittsburgh,2,1,0
+Field,Physics,362,West Virginia,279,University of Illinois Chicago,1,0,0
+Field,Physics,362,West Virginia,137,Montana State,2,1,1
+Field,Physics,362,West Virginia,123,MIT,1,0,0
+Field,Physics,362,West Virginia,304,University of Missouri,1,1,0
+Field,Physics,259,UC Santa Cruz,258,UC Santa Barbara,2,2,0
+Field,Physics,362,West Virginia,329,University of Rochester,1,0,0
+Field,Physics,362,West Virginia,362,West Virginia,1,1,0
+Field,Physics,349,University of Wyoming,346,UW,1,1,0
+Field,Physics,349,University of Wyoming,99,Iowa State,1,0,0
+Field,Physics,349,University of Wyoming,51,Cornell,1,1,0
+Field,Physics,349,University of Wyoming,229,UT Austin,2,2,0
+Field,Physics,349,University of Wyoming,172,Rice,1,1,0
+Field,Physics,349,University of Wyoming,87,Harvard,1,0,1
+Field,Physics,349,University of Wyoming,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,349,University of Wyoming,226,University of Tennessee,1,0,0
+Field,Physics,349,University of Wyoming,368,Yale,1,1,0
+Field,Physics,349,University of Wyoming,276,University of Hawaii,1,1,0
+Field,Physics,157,Ohio University,46,William & Mary,1,1,0
+Field,Physics,157,Ohio University,252,UC Davis,1,1,0
+Field,Physics,157,Ohio University,251,UC Berkeley,1,1,0
+Field,Physics,157,Ohio University,280,University of Illinois Urbana-Champaign,3,2,1
+Field,Physics,157,Ohio University,109,LSU,1,0,1
+Field,Physics,157,Ohio University,31,Caltech,1,1,0
+Field,Physics,157,Ohio University,167,Princeton,1,1,0
+Field,Physics,157,Ohio University,99,Iowa State,1,1,0
+Field,Physics,157,Ohio University,171,Rensselaer Polytechnic Institute,1,0,1
+Field,Physics,157,Ohio University,358,Washington University St. Louis,1,1,0
+Field,Physics,157,Ohio University,263,CU Boulder,1,1,0
+Field,Physics,157,Ohio University,229,UT Austin,1,1,0
+Field,Physics,157,Ohio University,132,Michigan State,1,1,0
+Field,Physics,157,Ohio University,35,Case Western Reserve,1,1,0
+Field,Physics,157,Ohio University,226,University of Tennessee,1,0,0
+Field,Physics,157,Ohio University,247,University of Arizona,1,0,0
+Field,Physics,157,Ohio University,49,Columbia,1,1,0
+Field,Physics,157,Ohio University,204,University at Buffalo (SUNY),1,1,0
+Field,Physics,157,Ohio University,276,University of Hawaii,1,1,0
+Field,Physics,157,Ohio University,105,Lehigh,1,0,0
+Field,Physics,277,University of Houston,31,Caltech,1,0,0
+Field,Physics,277,University of Houston,146,NYU,1,1,0
+Field,Physics,277,University of Houston,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,277,University of Houston,326,UPenn,1,0,0
+Field,Physics,277,University of Houston,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,277,University of Houston,123,MIT,1,1,0
+Field,Physics,277,University of Houston,346,UW,1,1,0
+Field,Physics,277,University of Houston,198,Stanford,2,1,0
+Field,Physics,277,University of Houston,251,UC Berkeley,2,2,0
+Field,Physics,277,University of Houston,237,Tufts,1,1,0
+Field,Physics,277,University of Houston,289,University of Maryland College Park,2,2,0
+Field,Physics,277,University of Houston,51,Cornell,3,1,1
+Field,Physics,277,University of Houston,205,SUNY Stony Brook,1,0,1
+Field,Physics,277,University of Houston,256,UC San Diego,3,2,1
+Field,Physics,277,University of Houston,229,UT Austin,4,3,0
+Field,Physics,277,University of Houston,172,Rice,1,1,0
+Field,Physics,277,University of Houston,87,Harvard,1,1,0
+Field,Physics,277,University of Houston,163,Penn State,1,1,0
+Field,Physics,277,University of Houston,329,University of Rochester,1,1,0
+Field,Physics,277,University of Houston,82,Georgia Tech,1,1,0
+Field,Physics,277,University of Houston,253,UC Irvine,1,1,0
+Field,Physics,277,University of Houston,34,Carnegie Mellon,1,1,0
+Field,Physics,277,University of Houston,277,University of Houston,8,3,1
+Field,Physics,277,University of Houston,23,Boston College,1,0,0
+Field,Physics,277,University of Houston,20,Baylor,1,0,0
+Field,Physics,329,University of Rochester,198,Stanford,1,1,0
+Field,Physics,329,University of Rochester,51,Cornell,3,2,1
+Field,Physics,329,University of Rochester,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,329,University of Rochester,168,Purdue,1,1,0
+Field,Physics,329,University of Rochester,123,MIT,2,2,0
+Field,Physics,329,University of Rochester,346,UW,1,1,0
+Field,Physics,329,University of Rochester,31,Caltech,1,0,1
+Field,Physics,329,University of Rochester,251,UC Berkeley,1,1,0
+Field,Physics,329,University of Rochester,261,University of Chicago,3,2,1
+Field,Physics,329,University of Rochester,205,SUNY Stony Brook,1,1,0
+Field,Physics,329,University of Rochester,258,UC Santa Barbara,2,2,0
+Field,Physics,329,University of Rochester,300,University of Michigan,1,1,0
+Field,Physics,329,University of Rochester,256,UC San Diego,1,1,0
+Field,Physics,329,University of Rochester,87,Harvard,2,2,0
+Field,Physics,329,University of Rochester,368,Yale,2,2,0
+Field,Physics,329,University of Rochester,163,Penn State,1,1,0
+Field,Physics,329,University of Rochester,210,Syracuse,1,0,1
+Field,Physics,329,University of Rochester,329,University of Rochester,2,2,0
+Field,Physics,329,University of Rochester,247,University of Arizona,1,1,0
+Field,Physics,329,University of Rochester,49,Columbia,2,1,0
+Field,Physics,329,University of Rochester,150,Northeastern,1,0,1
+Field,Physics,304,University of Missouri,280,University of Illinois Urbana-Champaign,4,3,0
+Field,Physics,304,University of Missouri,168,Purdue,1,0,0
+Field,Physics,304,University of Missouri,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,304,University of Missouri,346,UW,2,1,1
+Field,Physics,304,University of Missouri,198,Stanford,1,1,0
+Field,Physics,304,University of Missouri,167,Princeton,1,1,0
+Field,Physics,304,University of Missouri,153,Northwestern,1,1,0
+Field,Physics,304,University of Missouri,102,Johns Hopkins,1,0,0
+Field,Physics,304,University of Missouri,304,University of Missouri,2,1,1
+Field,Physics,304,University of Missouri,51,Cornell,1,1,0
+Field,Physics,304,University of Missouri,300,University of Michigan,1,0,1
+Field,Physics,304,University of Missouri,256,UC San Diego,2,1,1
+Field,Physics,304,University of Missouri,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,304,University of Missouri,87,Harvard,1,1,0
+Field,Physics,304,University of Missouri,12,Arizona State,2,1,1
+Field,Physics,304,University of Missouri,28,Brown,1,0,1
+Field,Physics,304,University of Missouri,293,UMass Amherst,2,1,0
+Field,Physics,80,George Washington,87,Harvard,2,1,0
+Field,Physics,238,Tulane,238,Tulane,3,1,1
+Field,Physics,212,Temple,212,Temple,5,2,1
+Field,Physics,212,Temple,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,212,Temple,252,UC Davis,1,1,0
+Field,Physics,212,Temple,123,MIT,1,1,0
+Field,Physics,212,Temple,251,UC Berkeley,1,0,0
+Field,Physics,212,Temple,51,Cornell,1,1,0
+Field,Physics,212,Temple,215,Texas A&M,1,1,0
+Field,Physics,212,Temple,345,University of Virginia,1,1,0
+Field,Physics,212,Temple,87,Harvard,1,1,0
+Field,Physics,212,Temple,24,Boston University,1,1,0
+Field,Physics,212,Temple,177,Rutgers - New Brunswick,2,1,0
+Field,Physics,212,Temple,49,Columbia,1,0,0
+Field,Physics,212,Temple,31,Caltech,1,0,1
+Field,Physics,212,Temple,258,UC Santa Barbara,1,0,0
+Field,Physics,204,University at Buffalo (SUNY),123,MIT,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),28,Brown,2,2,0
+Field,Physics,204,University at Buffalo (SUNY),168,Purdue,2,2,0
+Field,Physics,204,University at Buffalo (SUNY),198,Stanford,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),156,Ohio State University,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),263,CU Boulder,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),258,UC Santa Barbara,2,1,1
+Field,Physics,204,University at Buffalo (SUNY),300,University of Michigan,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),87,Harvard,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,204,University at Buffalo (SUNY),35,Case Western Reserve,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),163,Penn State,1,1,0
+Field,Physics,204,University at Buffalo (SUNY),202,University at Albany (SUNY),1,0,1
+Field,Physics,204,University at Buffalo (SUNY),49,Columbia,2,2,0
+Field,Physics,204,University at Buffalo (SUNY),274,University of Georgia,1,1,0
+Field,Physics,103,Kansas State,168,Purdue,1,1,0
+Field,Physics,103,Kansas State,300,University of Michigan,1,1,0
+Field,Physics,103,Kansas State,230,UT Dallas,1,1,0
+Field,Physics,103,Kansas State,123,MIT,1,1,0
+Field,Physics,103,Kansas State,198,Stanford,2,2,0
+Field,Physics,103,Kansas State,289,University of Maryland College Park,1,1,0
+Field,Physics,103,Kansas State,261,University of Chicago,3,2,0
+Field,Physics,103,Kansas State,51,Cornell,1,1,0
+Field,Physics,103,Kansas State,205,SUNY Stony Brook,1,1,0
+Field,Physics,103,Kansas State,263,CU Boulder,3,2,1
+Field,Physics,103,Kansas State,258,UC Santa Barbara,1,1,0
+Field,Physics,103,Kansas State,132,Michigan State,1,1,0
+Field,Physics,103,Kansas State,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,103,Kansas State,329,University of Rochester,1,1,0
+Field,Physics,103,Kansas State,82,Georgia Tech,1,1,0
+Field,Physics,103,Kansas State,287,University of Maine,1,0,1
+Field,Physics,103,Kansas State,60,Duke,1,0,0
+Field,Physics,35,Case Western Reserve,123,MIT,5,4,1
+Field,Physics,35,Case Western Reserve,326,UPenn,1,1,0
+Field,Physics,35,Case Western Reserve,198,Stanford,1,1,0
+Field,Physics,35,Case Western Reserve,167,Princeton,2,2,0
+Field,Physics,35,Case Western Reserve,251,UC Berkeley,1,1,0
+Field,Physics,35,Case Western Reserve,289,University of Maryland College Park,1,1,0
+Field,Physics,35,Case Western Reserve,258,UC Santa Barbara,1,1,0
+Field,Physics,35,Case Western Reserve,172,Rice,1,0,1
+Field,Physics,35,Case Western Reserve,87,Harvard,3,3,0
+Field,Physics,35,Case Western Reserve,35,Case Western Reserve,1,1,0
+Field,Physics,35,Case Western Reserve,368,Yale,1,1,0
+Field,Physics,35,Case Western Reserve,247,University of Arizona,1,0,0
+Field,Physics,35,Case Western Reserve,49,Columbia,2,2,0
+Field,Physics,35,Case Western Reserve,28,Brown,1,1,0
+Field,Physics,302,University of Mississippi,273,University of Florida,1,0,1
+Field,Physics,302,University of Mississippi,123,MIT,2,2,0
+Field,Physics,302,University of Mississippi,153,Northwestern,1,1,0
+Field,Physics,302,University of Mississippi,358,Washington University St. Louis,1,1,0
+Field,Physics,302,University of Mississippi,261,University of Chicago,1,1,0
+Field,Physics,302,University of Mississippi,258,UC Santa Barbara,1,1,0
+Field,Physics,302,University of Mississippi,96,Indiana University Bloomington,1,1,0
+Field,Physics,302,University of Mississippi,163,Penn State,1,1,0
+Field,Physics,302,University of Mississippi,210,Syracuse,1,1,0
+Field,Physics,302,University of Mississippi,329,University of Rochester,1,1,0
+Field,Physics,302,University of Mississippi,49,Columbia,1,1,0
+Field,Physics,302,University of Mississippi,302,University of Mississippi,2,1,1
+Field,Physics,302,University of Mississippi,327,University of Pittsburgh,1,1,0
+Field,Physics,302,University of Mississippi,293,UMass Amherst,1,1,0
+Field,Physics,302,University of Mississippi,276,University of Hawaii,1,0,0
+Field,Physics,302,University of Mississippi,324,University of Oklahoma,1,0,1
+Field,Physics,302,University of Mississippi,142,New Mexico Tech,1,1,0
+Field,Physics,36,Catholic University of America,156,Ohio State University,1,1,0
+Field,Physics,36,Catholic University of America,289,University of Maryland College Park,2,1,1
+Field,Physics,36,Catholic University of America,51,Cornell,1,1,0
+Field,Physics,8,American,229,UT Austin,2,2,0
+Field,Physics,36,Catholic University of America,267,UConn,1,1,0
+Field,Physics,36,Catholic University of America,255,UC Riverside,1,0,1
+Field,Physics,36,Catholic University of America,351,Vanderbilt,1,0,0
+Field,Physics,36,Catholic University of America,293,UMass Amherst,1,1,0
+Field,Physics,36,Catholic University of America,279,University of Illinois Chicago,1,1,0
+Field,Physics,351,Vanderbilt,96,Indiana University Bloomington,4,3,0
+Field,Physics,351,Vanderbilt,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,351,Vanderbilt,347,University of Wisconsin-Madison,3,3,0
+Field,Physics,351,Vanderbilt,198,Stanford,1,1,0
+Field,Physics,351,Vanderbilt,345,University of Virginia,1,1,0
+Field,Physics,351,Vanderbilt,205,SUNY Stony Brook,4,4,0
+Field,Physics,351,Vanderbilt,172,Rice,1,1,0
+Field,Physics,351,Vanderbilt,263,CU Boulder,2,2,0
+Field,Physics,351,Vanderbilt,351,Vanderbilt,4,1,1
+Field,Physics,351,Vanderbilt,300,University of Michigan,1,0,1
+Field,Physics,351,Vanderbilt,123,MIT,1,1,0
+Field,Physics,351,Vanderbilt,156,Ohio State University,2,2,0
+Field,Physics,351,Vanderbilt,251,UC Berkeley,2,1,0
+Field,Physics,351,Vanderbilt,261,University of Chicago,1,1,0
+Field,Physics,351,Vanderbilt,51,Cornell,1,1,0
+Field,Physics,351,Vanderbilt,215,Texas A&M,1,1,0
+Field,Physics,351,Vanderbilt,229,UT Austin,2,1,1
+Field,Physics,351,Vanderbilt,87,Harvard,1,1,0
+Field,Physics,351,Vanderbilt,254,UCLA,1,1,0
+Field,Physics,351,Vanderbilt,226,University of Tennessee,1,1,0
+Field,Physics,351,Vanderbilt,368,Yale,3,2,1
+Field,Physics,351,Vanderbilt,163,Penn State,1,0,0
+Field,Physics,351,Vanderbilt,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,351,Vanderbilt,49,Columbia,2,2,0
+Field,Physics,351,Vanderbilt,82,Georgia Tech,1,0,0
+Field,Physics,351,Vanderbilt,316,UNC,1,1,0
+Field,Physics,351,Vanderbilt,70,Florida Atlantic,1,1,0
+Field,Physics,351,Vanderbilt,349,University of Wyoming,1,0,0
+Field,Physics,351,Vanderbilt,355,Wake Forest,1,1,0
+Field,Physics,351,Vanderbilt,150,Northeastern,1,1,0
+Field,Physics,228,UT Arlington,354,Virginia Tech,1,1,0
+Field,Physics,228,UT Arlington,168,Purdue,1,1,0
+Field,Physics,228,UT Arlington,123,MIT,1,1,0
+Field,Physics,228,UT Arlington,346,UW,1,1,0
+Field,Physics,228,UT Arlington,73,Florida State,1,1,0
+Field,Physics,228,UT Arlington,92,Illinois Tech,1,0,0
+Field,Physics,228,UT Arlington,289,University of Maryland College Park,1,1,0
+Field,Physics,228,UT Arlington,222,Texas Tech,1,1,0
+Field,Physics,228,UT Arlington,205,SUNY Stony Brook,1,1,0
+Field,Physics,228,UT Arlington,215,Texas A&M,1,1,0
+Field,Physics,228,UT Arlington,300,University of Michigan,3,2,0
+Field,Physics,228,UT Arlington,256,UC San Diego,1,0,1
+Field,Physics,228,UT Arlington,229,UT Austin,1,1,0
+Field,Physics,228,UT Arlington,172,Rice,1,1,0
+Field,Physics,228,UT Arlington,254,UCLA,1,1,0
+Field,Physics,228,UT Arlington,28,Brown,1,1,0
+Field,Physics,228,UT Arlington,26,Brandeis,2,2,0
+Field,Physics,228,UT Arlington,228,UT Arlington,1,1,0
+Field,Physics,274,University of Georgia,326,UPenn,1,0,0
+Field,Physics,274,University of Georgia,347,University of Wisconsin-Madison,1,0,0
+Field,Physics,274,University of Georgia,153,Northwestern,1,1,0
+Field,Physics,274,University of Georgia,171,Rensselaer Polytechnic Institute,1,0,0
+Field,Physics,274,University of Georgia,251,UC Berkeley,1,1,0
+Field,Physics,274,University of Georgia,289,University of Maryland College Park,1,1,0
+Field,Physics,274,University of Georgia,261,University of Chicago,1,1,0
+Field,Physics,274,University of Georgia,51,Cornell,1,0,0
+Field,Physics,274,University of Georgia,258,UC Santa Barbara,1,1,0
+Field,Physics,274,University of Georgia,254,UCLA,1,1,0
+Field,Physics,274,University of Georgia,368,Yale,2,2,0
+Field,Physics,274,University of Georgia,49,Columbia,1,1,0
+Field,Physics,274,University of Georgia,274,University of Georgia,1,1,0
+Field,Physics,274,University of Georgia,159,Old Dominion,1,1,0
+Field,Physics,255,UC Riverside,280,University of Illinois Urbana-Champaign,2,1,0
+Field,Physics,255,UC Riverside,326,UPenn,1,1,0
+Field,Physics,255,UC Riverside,123,MIT,3,2,1
+Field,Physics,255,UC Riverside,198,Stanford,2,2,0
+Field,Physics,255,UC Riverside,251,UC Berkeley,3,2,0
+Field,Physics,255,UC Riverside,51,Cornell,3,2,0
+Field,Physics,255,UC Riverside,300,University of Michigan,1,0,0
+Field,Physics,255,UC Riverside,301,University of Minnesota Twin Cities,1,0,0
+Field,Physics,255,UC Riverside,254,UCLA,4,2,1
+Field,Physics,255,UC Riverside,368,Yale,2,2,0
+Field,Physics,255,UC Riverside,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,255,UC Riverside,49,Columbia,3,3,0
+Field,Physics,255,UC Riverside,253,UC Irvine,1,1,0
+Field,Physics,255,UC Riverside,255,UC Riverside,2,1,0
+Field,Physics,255,UC Riverside,28,Brown,1,0,0
+Field,Physics,255,UC Riverside,276,University of Hawaii,1,0,1
+Field,Physics,255,UC Riverside,26,Brandeis,1,1,0
+Field,Physics,255,UC Riverside,31,Caltech,1,1,0
+Field,Physics,104,Kent State,104,Kent State,4,4,0
+Field,Physics,104,Kent State,35,Case Western Reserve,1,1,0
+Field,Physics,104,Kent State,192,Southern Illinois University Carbondale,1,0,0
+Field,Physics,104,Kent State,163,Penn State,1,1,0
+Field,Physics,104,Kent State,280,University of Illinois Urbana-Champaign,4,4,0
+Field,Physics,104,Kent State,123,MIT,1,1,0
+Field,Physics,104,Kent State,73,Florida State,1,1,0
+Field,Physics,104,Kent State,289,University of Maryland College Park,1,1,0
+Field,Physics,104,Kent State,261,University of Chicago,1,1,0
+Field,Physics,104,Kent State,205,SUNY Stony Brook,1,0,0
+Field,Physics,104,Kent State,87,Harvard,2,1,0
+Field,Physics,104,Kent State,316,UNC,1,0,0
+Field,Physics,104,Kent State,60,Duke,1,1,0
+Field,Physics,104,Kent State,276,University of Hawaii,1,0,0
+Field,Physics,104,Kent State,8,American,2,1,0
+Field,Physics,104,Kent State,349,University of Wyoming,1,0,0
+Field,Physics,158,Oklahoma State,31,Caltech,1,1,0
+Field,Physics,158,Oklahoma State,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,158,Oklahoma State,168,Purdue,1,1,0
+Field,Physics,158,Oklahoma State,167,Princeton,1,1,0
+Field,Physics,158,Oklahoma State,289,University of Maryland College Park,1,1,0
+Field,Physics,158,Oklahoma State,261,University of Chicago,1,0,0
+Field,Physics,158,Oklahoma State,263,CU Boulder,2,1,0
+Field,Physics,158,Oklahoma State,215,Texas A&M,1,1,0
+Field,Physics,158,Oklahoma State,172,Rice,1,1,0
+Field,Physics,158,Oklahoma State,273,University of Florida,1,1,0
+Field,Physics,158,Oklahoma State,329,University of Rochester,2,1,0
+Field,Physics,158,Oklahoma State,327,University of Pittsburgh,1,0,1
+Field,Physics,158,Oklahoma State,276,University of Hawaii,1,0,0
+Field,Physics,158,Oklahoma State,59,Drexel,1,0,1
+Field,Physics,158,Oklahoma State,158,Oklahoma State,2,2,0
+Field,Physics,158,Oklahoma State,349,University of Wyoming,1,1,0
+Field,Physics,158,Oklahoma State,328,University of Rhode Island,1,1,0
+Field,Physics,158,Oklahoma State,250,University of Arkansas,1,1,0
+Field,Physics,158,Oklahoma State,46,William & Mary,1,0,0
+Field,Physics,279,University of Illinois Chicago,87,Harvard,1,1,0
+Field,Physics,279,University of Illinois Chicago,280,University of Illinois Urbana-Champaign,2,0,2
+Field,Physics,279,University of Illinois Chicago,347,University of Wisconsin-Madison,2,1,0
+Field,Physics,279,University of Illinois Chicago,167,Princeton,1,1,0
+Field,Physics,279,University of Illinois Chicago,73,Florida State,1,1,0
+Field,Physics,279,University of Illinois Chicago,251,UC Berkeley,1,1,0
+Field,Physics,279,University of Illinois Chicago,289,University of Maryland College Park,1,0,1
+Field,Physics,279,University of Illinois Chicago,51,Cornell,1,1,0
+Field,Physics,279,University of Illinois Chicago,205,SUNY Stony Brook,2,2,0
+Field,Physics,279,University of Illinois Chicago,258,UC Santa Barbara,1,0,1
+Field,Physics,279,University of Illinois Chicago,229,UT Austin,1,1,0
+Field,Physics,279,University of Illinois Chicago,132,Michigan State,1,1,0
+Field,Physics,279,University of Illinois Chicago,368,Yale,2,2,0
+Field,Physics,279,University of Illinois Chicago,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,279,University of Illinois Chicago,329,University of Rochester,1,1,0
+Field,Physics,279,University of Illinois Chicago,279,University of Illinois Chicago,3,2,0
+Field,Physics,279,University of Illinois Chicago,348,University of Wisconsin-Milwaukee,1,1,0
+Field,Physics,20,Baylor,60,Duke,3,2,1
+Field,Physics,20,Baylor,31,Caltech,1,1,0
+Field,Physics,20,Baylor,167,Princeton,1,1,0
+Field,Physics,20,Baylor,153,Northwestern,1,1,0
+Field,Physics,20,Baylor,254,UCLA,1,1,0
+Field,Physics,20,Baylor,323,University of Notre Dame,1,1,0
+Field,Physics,20,Baylor,329,University of Rochester,1,1,0
+Field,Physics,20,Baylor,351,Vanderbilt,1,1,0
+Field,Physics,20,Baylor,20,Baylor,3,2,1
+Field,Physics,259,UC Santa Cruz,368,Yale,2,2,0
+Field,Physics,259,UC Santa Cruz,259,UC Santa Cruz,1,1,0
+Field,Physics,259,UC Santa Cruz,326,UPenn,1,1,0
+Field,Physics,259,UC Santa Cruz,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,259,UC Santa Cruz,198,Stanford,2,2,0
+Field,Physics,259,UC Santa Cruz,167,Princeton,1,0,0
+Field,Physics,259,UC Santa Cruz,153,Northwestern,1,0,0
+Field,Physics,259,UC Santa Cruz,251,UC Berkeley,1,1,0
+Field,Physics,259,UC Santa Cruz,261,University of Chicago,2,1,1
+Field,Physics,259,UC Santa Cruz,51,Cornell,1,1,0
+Field,Physics,259,UC Santa Cruz,300,University of Michigan,2,1,0
+Field,Physics,259,UC Santa Cruz,87,Harvard,1,1,0
+Field,Physics,259,UC Santa Cruz,255,UC Riverside,1,1,0
+Field,Physics,259,UC Santa Cruz,327,University of Pittsburgh,1,1,0
+Field,Physics,46,William & Mary,256,UC San Diego,1,0,1
+Field,Physics,46,William & Mary,359,Wayne State,1,0,0
+Field,Physics,46,William & Mary,123,MIT,3,3,0
+Field,Physics,46,William & Mary,346,UW,1,1,0
+Field,Physics,46,William & Mary,198,Stanford,1,1,0
+Field,Physics,46,William & Mary,289,University of Maryland College Park,2,1,0
+Field,Physics,46,William & Mary,51,Cornell,1,0,0
+Field,Physics,46,William & Mary,205,SUNY Stony Brook,1,1,0
+Field,Physics,46,William & Mary,263,CU Boulder,1,1,0
+Field,Physics,46,William & Mary,281,University of Iowa,1,1,0
+Field,Physics,46,William & Mary,215,Texas A&M,2,1,1
+Field,Physics,46,William & Mary,300,University of Michigan,1,1,0
+Field,Physics,46,William & Mary,345,University of Virginia,1,1,0
+Field,Physics,46,William & Mary,229,UT Austin,3,2,1
+Field,Physics,46,William & Mary,96,Indiana University Bloomington,1,1,0
+Field,Physics,46,William & Mary,87,Harvard,1,1,0
+Field,Physics,46,William & Mary,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,46,William & Mary,28,Brown,1,1,0
+Field,Physics,46,William & Mary,26,Brandeis,1,1,0
+Field,Physics,46,William & Mary,143,New Mexico State,1,1,0
+Field,Physics,149,North Dakota State,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,149,North Dakota State,346,UW,2,1,1
+Field,Physics,149,North Dakota State,99,Iowa State,1,1,0
+Field,Physics,149,North Dakota State,261,University of Chicago,1,1,0
+Field,Physics,149,North Dakota State,51,Cornell,1,1,0
+Field,Physics,149,North Dakota State,273,University of Florida,1,1,0
+Field,Physics,149,North Dakota State,149,North Dakota State,1,1,0
+Field,Physics,350,Utah State,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,350,Utah State,48,Colorado State,1,1,0
+Field,Physics,350,Utah State,354,Virginia Tech,1,1,0
+Field,Physics,350,Utah State,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,350,Utah State,198,Stanford,1,1,0
+Field,Physics,350,Utah State,289,University of Maryland College Park,1,0,0
+Field,Physics,350,Utah State,261,University of Chicago,1,1,0
+Field,Physics,350,Utah State,51,Cornell,2,2,0
+Field,Physics,350,Utah State,263,CU Boulder,1,1,0
+Field,Physics,350,Utah State,300,University of Michigan,1,1,0
+Field,Physics,350,Utah State,172,Rice,1,1,0
+Field,Physics,350,Utah State,368,Yale,1,1,0
+Field,Physics,350,Utah State,202,University at Albany (SUNY),1,1,0
+Field,Physics,350,Utah State,316,UNC,1,1,0
+Field,Physics,350,Utah State,246,University of Alaska Fairbanks,2,1,0
+Field,Physics,350,Utah State,350,Utah State,4,3,0
+Field,Physics,350,Utah State,23,Boston College,1,0,1
+Field,Physics,271,University of Denver,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,271,University of Denver,347,University of Wisconsin-Madison,1,0,1
+Field,Physics,271,University of Denver,99,Iowa State,1,1,0
+Field,Physics,271,University of Denver,263,CU Boulder,1,1,0
+Field,Physics,271,University of Denver,300,University of Michigan,1,1,0
+Field,Physics,271,University of Denver,256,UC San Diego,1,1,0
+Field,Physics,271,University of Denver,87,Harvard,1,1,0
+Field,Physics,271,University of Denver,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,271,University of Denver,293,UMass Amherst,1,1,0
+Field,Physics,271,University of Denver,270,University of Delaware,1,0,0
+Field,Physics,271,University of Denver,271,University of Denver,1,1,0
+Field,Physics,250,University of Arkansas,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,250,University of Arkansas,326,UPenn,1,1,0
+Field,Physics,250,University of Arkansas,31,Caltech,2,1,1
+Field,Physics,250,University of Arkansas,289,University of Maryland College Park,1,0,0
+Field,Physics,250,University of Arkansas,263,CU Boulder,1,1,0
+Field,Physics,250,University of Arkansas,229,UT Austin,2,1,0
+Field,Physics,250,University of Arkansas,87,Harvard,1,1,0
+Field,Physics,250,University of Arkansas,254,UCLA,1,0,0
+Field,Physics,250,University of Arkansas,24,Boston University,1,1,0
+Field,Physics,250,University of Arkansas,163,Penn State,1,1,0
+Field,Physics,250,University of Arkansas,323,University of Notre Dame,1,1,0
+Field,Physics,250,University of Arkansas,329,University of Rochester,1,1,0
+Field,Physics,250,University of Arkansas,253,UC Irvine,1,1,0
+Field,Physics,250,University of Arkansas,15,Auburn,1,0,0
+Field,Physics,250,University of Arkansas,204,University at Buffalo (SUNY),1,0,1
+Field,Physics,250,University of Arkansas,238,Tulane,1,0,0
+Field,Physics,250,University of Arkansas,314,University of New Mexico,1,1,0
+Field,Physics,242,University of Akron,49,Columbia,1,1,0
+Field,Physics,242,University of Akron,289,University of Maryland College Park,1,0,1
+Field,Physics,242,University of Akron,51,Cornell,1,0,0
+Field,Physics,242,University of Akron,256,UC San Diego,1,0,0
+Field,Physics,242,University of Akron,28,Brown,1,1,0
+Field,Physics,242,University of Akron,242,University of Akron,1,1,0
+Field,Physics,221,Texas State,163,Penn State,1,1,0
+Field,Physics,221,Texas State,280,University of Illinois Urbana-Champaign,1,0,0
+Field,Physics,221,Texas State,346,UW,1,1,0
+Field,Physics,221,Texas State,148,North Carolina State,1,1,0
+Field,Physics,221,Texas State,251,UC Berkeley,2,1,1
+Field,Physics,221,Texas State,289,University of Maryland College Park,1,0,1
+Field,Physics,221,Texas State,222,Texas Tech,1,1,0
+Field,Physics,221,Texas State,258,UC Santa Barbara,1,1,0
+Field,Physics,221,Texas State,96,Indiana University Bloomington,1,0,0
+Field,Physics,221,Texas State,273,University of Florida,2,1,1
+Field,Physics,221,Texas State,341,University of Toledo,1,0,0
+Field,Physics,301,University of Minnesota Twin Cities,51,Cornell,4,4,0
+Field,Physics,301,University of Minnesota Twin Cities,327,University of Pittsburgh,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,326,UPenn,1,0,0
+Field,Physics,301,University of Minnesota Twin Cities,123,MIT,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,346,UW,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,198,Stanford,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,167,Princeton,4,2,1
+Field,Physics,301,University of Minnesota Twin Cities,343,University of Utah,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,251,UC Berkeley,9,7,1
+Field,Physics,301,University of Minnesota Twin Cities,289,University of Maryland College Park,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,358,Washington University St. Louis,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,261,University of Chicago,3,3,0
+Field,Physics,301,University of Minnesota Twin Cities,300,University of Michigan,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,256,UC San Diego,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,96,Indiana University Bloomington,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,172,Rice,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,254,UCLA,2,1,1
+Field,Physics,301,University of Minnesota Twin Cities,177,Rutgers - New Brunswick,1,0,1
+Field,Physics,301,University of Minnesota Twin Cities,329,University of Rochester,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,49,Columbia,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,60,Duke,1,1,0
+Field,Physics,301,University of Minnesota Twin Cities,28,Brown,1,1,0
+Field,Physics,312,"University of Nevada, Reno",312,"University of Nevada, Reno",6,5,1
+Field,Physics,312,"University of Nevada, Reno",252,UC Davis,1,1,0
+Field,Physics,312,"University of Nevada, Reno",346,UW,1,1,0
+Field,Physics,312,"University of Nevada, Reno",198,Stanford,1,1,0
+Field,Physics,312,"University of Nevada, Reno",31,Caltech,1,1,0
+Field,Physics,312,"University of Nevada, Reno",343,University of Utah,1,1,0
+Field,Physics,312,"University of Nevada, Reno",256,UC San Diego,1,1,0
+Field,Physics,312,"University of Nevada, Reno",229,UT Austin,1,0,0
+Field,Physics,312,"University of Nevada, Reno",87,Harvard,1,1,0
+Field,Physics,312,"University of Nevada, Reno",301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,312,"University of Nevada, Reno",254,UCLA,2,2,0
+Field,Physics,312,"University of Nevada, Reno",48,Colorado State,1,1,0
+Field,Physics,312,"University of Nevada, Reno",202,University at Albany (SUNY),1,1,0
+Field,Physics,312,"University of Nevada, Reno",329,University of Rochester,1,1,0
+Field,Physics,312,"University of Nevada, Reno",161,Oregon State,1,1,0
+Field,Physics,312,"University of Nevada, Reno",15,Auburn,2,2,0
+Field,Physics,312,"University of Nevada, Reno",293,UMass Amherst,1,0,1
+Field,Physics,312,"University of Nevada, Reno",324,University of Oklahoma,1,1,0
+Field,Physics,312,"University of Nevada, Reno",34,Carnegie Mellon,1,1,0
+Field,Physics,312,"University of Nevada, Reno",328,University of Rhode Island,1,1,0
+Field,Physics,312,"University of Nevada, Reno",226,University of Tennessee,1,1,0
+Field,Physics,283,University of Kentucky,123,MIT,3,2,1
+Field,Physics,283,University of Kentucky,198,Stanford,1,1,0
+Field,Physics,283,University of Kentucky,167,Princeton,1,1,0
+Field,Physics,283,University of Kentucky,153,Northwestern,1,1,0
+Field,Physics,283,University of Kentucky,99,Iowa State,1,0,0
+Field,Physics,283,University of Kentucky,156,Ohio State University,1,1,0
+Field,Physics,283,University of Kentucky,251,UC Berkeley,3,1,1
+Field,Physics,283,University of Kentucky,289,University of Maryland College Park,1,1,0
+Field,Physics,283,University of Kentucky,261,University of Chicago,2,2,0
+Field,Physics,283,University of Kentucky,51,Cornell,2,2,0
+Field,Physics,283,University of Kentucky,205,SUNY Stony Brook,1,0,0
+Field,Physics,283,University of Kentucky,258,UC Santa Barbara,1,1,0
+Field,Physics,283,University of Kentucky,256,UC San Diego,1,0,0
+Field,Physics,283,University of Kentucky,243,University of Alabama,1,1,0
+Field,Physics,283,University of Kentucky,345,University of Virginia,2,1,1
+Field,Physics,283,University of Kentucky,229,UT Austin,1,1,0
+Field,Physics,283,University of Kentucky,132,Michigan State,1,1,0
+Field,Physics,283,University of Kentucky,273,University of Florida,1,1,0
+Field,Physics,283,University of Kentucky,254,UCLA,1,1,0
+Field,Physics,283,University of Kentucky,368,Yale,1,0,0
+Field,Physics,283,University of Kentucky,60,Duke,1,0,0
+Field,Physics,283,University of Kentucky,276,University of Hawaii,1,1,0
+Field,Physics,70,Florida Atlantic,51,Cornell,1,1,0
+Field,Physics,70,Florida Atlantic,258,UC Santa Barbara,1,1,0
+Field,Physics,70,Florida Atlantic,229,UT Austin,1,1,0
+Field,Physics,70,Florida Atlantic,226,University of Tennessee,1,0,0
+Field,Physics,70,Florida Atlantic,163,Penn State,2,1,0
+Field,Physics,70,Florida Atlantic,323,University of Notre Dame,1,1,0
+Field,Physics,70,Florida Atlantic,49,Columbia,2,1,0
+Field,Physics,167,Princeton,198,Stanford,7,4,2
+Field,Physics,167,Princeton,167,Princeton,11,9,1
+Field,Physics,167,Princeton,251,UC Berkeley,4,3,0
+Field,Physics,167,Princeton,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,167,Princeton,347,University of Wisconsin-Madison,2,1,1
+Field,Physics,167,Princeton,123,MIT,2,2,0
+Field,Physics,167,Princeton,346,UW,1,0,0
+Field,Physics,167,Princeton,31,Caltech,2,2,0
+Field,Physics,167,Princeton,51,Cornell,2,2,0
+Field,Physics,167,Princeton,205,SUNY Stony Brook,1,0,1
+Field,Physics,167,Princeton,87,Harvard,2,2,0
+Field,Physics,167,Princeton,254,UCLA,1,1,0
+Field,Physics,167,Princeton,34,Carnegie Mellon,1,1,0
+Field,Physics,8,American,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,8,American,329,University of Rochester,1,1,0
+Field,Physics,8,American,289,University of Maryland College Park,2,2,0
+Field,Physics,8,American,103,Kansas State,1,0,1
+Field,Physics,8,American,143,New Mexico State,1,1,0
+Field,Physics,8,American,341,University of Toledo,1,0,0
+Field,Physics,8,American,137,Montana State,1,0,1
+Field,Physics,8,American,247,University of Arizona,1,0,1
+Field,Physics,161,Oregon State,346,UW,1,0,1
+Field,Physics,161,Oregon State,198,Stanford,3,2,1
+Field,Physics,161,Oregon State,31,Caltech,1,1,0
+Field,Physics,161,Oregon State,156,Ohio State University,2,0,2
+Field,Physics,161,Oregon State,146,NYU,1,1,0
+Field,Physics,161,Oregon State,51,Cornell,1,1,0
+Field,Physics,161,Oregon State,256,UC San Diego,1,0,1
+Field,Physics,161,Oregon State,229,UT Austin,2,0,1
+Field,Physics,161,Oregon State,35,Case Western Reserve,1,0,1
+Field,Physics,161,Oregon State,161,Oregon State,1,1,0
+Field,Physics,276,University of Hawaii,168,Purdue,1,1,0
+Field,Physics,276,University of Hawaii,346,UW,1,1,0
+Field,Physics,276,University of Hawaii,198,Stanford,3,3,0
+Field,Physics,276,University of Hawaii,167,Princeton,1,1,0
+Field,Physics,276,University of Hawaii,251,UC Berkeley,3,1,0
+Field,Physics,276,University of Hawaii,258,UC Santa Barbara,1,1,0
+Field,Physics,276,University of Hawaii,300,University of Michigan,1,1,0
+Field,Physics,276,University of Hawaii,229,UT Austin,1,1,0
+Field,Physics,276,University of Hawaii,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,276,University of Hawaii,259,UC Santa Cruz,1,0,1
+Field,Physics,313,University of New Hampshire,261,University of Chicago,2,2,0
+Field,Physics,313,University of New Hampshire,163,Penn State,1,0,0
+Field,Physics,27,Brigham Young,31,Caltech,1,1,0
+Field,Physics,64,Texas A&M University-Commerce,229,UT Austin,1,1,0
+Field,Physics,47,Colorado School of Mines,46,William & Mary,1,0,0
+Field,Physics,47,Colorado School of Mines,280,University of Illinois Urbana-Champaign,1,0,0
+Field,Physics,47,Colorado School of Mines,346,UW,1,0,0
+Field,Physics,47,Colorado School of Mines,198,Stanford,1,1,0
+Field,Physics,47,Colorado School of Mines,31,Caltech,1,1,0
+Field,Physics,47,Colorado School of Mines,99,Iowa State,1,1,0
+Field,Physics,47,Colorado School of Mines,47,Colorado School of Mines,3,2,0
+Field,Physics,47,Colorado School of Mines,289,University of Maryland College Park,2,2,0
+Field,Physics,47,Colorado School of Mines,51,Cornell,3,3,0
+Field,Physics,47,Colorado School of Mines,263,CU Boulder,2,1,1
+Field,Physics,47,Colorado School of Mines,258,UC Santa Barbara,2,1,0
+Field,Physics,47,Colorado School of Mines,300,University of Michigan,1,0,0
+Field,Physics,47,Colorado School of Mines,132,Michigan State,1,0,0
+Field,Physics,47,Colorado School of Mines,163,Penn State,2,0,0
+Field,Physics,47,Colorado School of Mines,329,University of Rochester,1,1,0
+Field,Physics,47,Colorado School of Mines,49,Columbia,1,1,0
+Field,Physics,47,Colorado School of Mines,60,Duke,1,0,1
+Field,Physics,47,Colorado School of Mines,325,University of Oregon,1,0,0
+Field,Physics,47,Colorado School of Mines,28,Brown,1,0,0
+Field,Physics,47,Colorado School of Mines,133,Michigan Technological,1,0,1
+Field,Physics,47,Colorado School of Mines,270,University of Delaware,1,1,0
+Field,Physics,74,Fordham,323,University of Notre Dame,1,1,0
+Field,Physics,80,George Washington,51,Cornell,2,1,0
+Field,Physics,80,George Washington,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,80,George Washington,123,MIT,1,1,0
+Field,Physics,80,George Washington,346,UW,1,1,0
+Field,Physics,80,George Washington,102,Johns Hopkins,1,0,0
+Field,Physics,80,George Washington,80,George Washington,2,1,1
+Field,Physics,80,George Washington,96,Indiana University Bloomington,2,1,1
+Field,Physics,80,George Washington,132,Michigan State,1,0,0
+Field,Physics,80,George Washington,368,Yale,1,0,1
+Field,Physics,80,George Washington,163,Penn State,1,1,0
+Field,Physics,80,George Washington,36,Catholic University of America,1,1,0
+Field,Physics,80,George Washington,157,Ohio University,1,1,0
+Field,Physics,80,George Washington,109,LSU,1,1,0
+Field,Physics,238,Tulane,43,Clarkson,1,1,0
+Field,Physics,238,Tulane,346,UW,1,1,0
+Field,Physics,238,Tulane,167,Princeton,1,1,0
+Field,Physics,238,Tulane,251,UC Berkeley,1,1,0
+Field,Physics,238,Tulane,51,Cornell,1,0,1
+Field,Physics,238,Tulane,205,SUNY Stony Brook,1,0,0
+Field,Physics,238,Tulane,215,Texas A&M,1,1,0
+Field,Physics,238,Tulane,87,Harvard,1,1,0
+Field,Physics,238,Tulane,109,LSU,1,1,0
+Field,Physics,238,Tulane,59,Drexel,1,1,0
+Field,Physics,238,Tulane,150,Northeastern,1,1,0
+Field,Physics,43,Clarkson,167,Princeton,1,1,0
+Field,Physics,43,Clarkson,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,43,Clarkson,329,University of Rochester,1,0,1
+Field,Physics,43,Clarkson,43,Clarkson,3,2,0
+Field,Physics,43,Clarkson,105,Lehigh,1,1,0
+Field,Physics,43,Clarkson,341,University of Toledo,1,1,0
+Field,Physics,143,New Mexico State,51,Cornell,1,1,0
+Field,Physics,143,New Mexico State,172,Rice,1,1,0
+Field,Physics,143,New Mexico State,346,UW,1,1,0
+Field,Physics,143,New Mexico State,300,University of Michigan,2,2,0
+Field,Physics,143,New Mexico State,326,UPenn,1,1,0
+Field,Physics,143,New Mexico State,31,Caltech,1,1,0
+Field,Physics,143,New Mexico State,156,Ohio State University,1,1,0
+Field,Physics,143,New Mexico State,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,143,New Mexico State,222,Texas Tech,1,1,0
+Field,Physics,143,New Mexico State,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,143,New Mexico State,368,Yale,1,1,0
+Field,Physics,143,New Mexico State,143,New Mexico State,3,3,0
+Field,Physics,306,Missouri S&T,304,University of Missouri,1,1,0
+Field,Physics,306,Missouri S&T,168,Purdue,2,1,1
+Field,Physics,306,Missouri S&T,73,Florida State,1,1,0
+Field,Physics,306,Missouri S&T,92,Illinois Tech,1,1,0
+Field,Physics,306,Missouri S&T,300,University of Michigan,1,1,0
+Field,Physics,306,Missouri S&T,96,Indiana University Bloomington,2,2,0
+Field,Physics,306,Missouri S&T,308,University of Nebraska-Lincoln,1,1,0
+Field,Physics,306,Missouri S&T,87,Harvard,1,1,0
+Field,Physics,306,Missouri S&T,368,Yale,1,1,0
+Field,Physics,306,Missouri S&T,177,Rutgers - New Brunswick,1,0,0
+Field,Physics,306,Missouri S&T,329,University of Rochester,1,1,0
+Field,Physics,306,Missouri S&T,335,University of Southern California,1,1,0
+Field,Physics,258,UC Santa Barbara,167,Princeton,7,5,1
+Field,Physics,258,UC Santa Barbara,251,UC Berkeley,9,8,0
+Field,Physics,258,UC Santa Barbara,87,Harvard,5,3,2
+Field,Physics,258,UC Santa Barbara,261,University of Chicago,2,2,0
+Field,Physics,258,UC Santa Barbara,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,258,UC Santa Barbara,252,UC Davis,1,1,0
+Field,Physics,258,UC Santa Barbara,123,MIT,2,2,0
+Field,Physics,258,UC Santa Barbara,198,Stanford,4,3,0
+Field,Physics,258,UC Santa Barbara,31,Caltech,3,2,0
+Field,Physics,258,UC Santa Barbara,51,Cornell,2,1,1
+Field,Physics,258,UC Santa Barbara,258,UC Santa Barbara,2,2,0
+Field,Physics,258,UC Santa Barbara,229,UT Austin,2,2,0
+Field,Physics,258,UC Santa Barbara,368,Yale,3,3,0
+Field,Physics,258,UC Santa Barbara,24,Boston University,1,0,0
+Field,Physics,258,UC Santa Barbara,247,University of Arizona,1,0,1
+Field,Physics,258,UC Santa Barbara,49,Columbia,1,0,1
+Field,Physics,258,UC Santa Barbara,26,Brandeis,1,1,0
+Field,Physics,258,UC Santa Barbara,259,UC Santa Cruz,1,1,0
+Field,Physics,237,Tufts,123,MIT,4,4,0
+Field,Physics,237,Tufts,326,UPenn,1,1,0
+Field,Physics,237,Tufts,198,Stanford,1,1,0
+Field,Physics,237,Tufts,167,Princeton,1,1,0
+Field,Physics,237,Tufts,251,UC Berkeley,2,2,0
+Field,Physics,237,Tufts,237,Tufts,1,1,0
+Field,Physics,237,Tufts,261,University of Chicago,1,1,0
+Field,Physics,237,Tufts,51,Cornell,1,0,1
+Field,Physics,237,Tufts,205,SUNY Stony Brook,1,1,0
+Field,Physics,237,Tufts,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,237,Tufts,60,Duke,1,0,0
+Field,Physics,237,Tufts,204,University at Buffalo (SUNY),1,1,0
+Field,Physics,237,Tufts,293,UMass Amherst,1,0,0
+Field,Physics,142,New Mexico Tech,280,University of Illinois Urbana-Champaign,2,1,1
+Field,Physics,261,University of Chicago,87,Harvard,7,4,3
+Field,Physics,261,University of Chicago,368,Yale,3,3,0
+Field,Physics,261,University of Chicago,198,Stanford,4,4,0
+Field,Physics,261,University of Chicago,31,Caltech,2,2,0
+Field,Physics,261,University of Chicago,167,Princeton,5,5,0
+Field,Physics,261,University of Chicago,261,University of Chicago,1,1,0
+Field,Physics,261,University of Chicago,51,Cornell,3,3,0
+Field,Physics,261,University of Chicago,258,UC Santa Barbara,1,1,0
+Field,Physics,261,University of Chicago,300,University of Michigan,1,1,0
+Field,Physics,261,University of Chicago,256,UC San Diego,1,1,0
+Field,Physics,261,University of Chicago,301,University of Minnesota Twin Cities,2,2,0
+Field,Physics,261,University of Chicago,254,UCLA,1,0,1
+Field,Physics,261,University of Chicago,329,University of Rochester,2,0,2
+Field,Physics,261,University of Chicago,49,Columbia,1,1,0
+Field,Physics,202,University at Albany (SUNY),31,Caltech,1,1,0
+Field,Physics,202,University at Albany (SUNY),156,Ohio State University,1,1,0
+Field,Physics,202,University at Albany (SUNY),261,University of Chicago,2,2,0
+Field,Physics,202,University at Albany (SUNY),51,Cornell,2,1,0
+Field,Physics,202,University at Albany (SUNY),96,Indiana University Bloomington,1,1,0
+Field,Physics,202,University at Albany (SUNY),87,Harvard,1,0,1
+Field,Physics,202,University at Albany (SUNY),329,University of Rochester,3,3,0
+Field,Physics,202,University at Albany (SUNY),276,University of Hawaii,1,1,0
+Field,Physics,202,University at Albany (SUNY),109,LSU,1,1,0
+Field,Physics,26,Brandeis,326,UPenn,1,1,0
+Field,Physics,26,Brandeis,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,26,Brandeis,198,Stanford,1,1,0
+Field,Physics,26,Brandeis,251,UC Berkeley,2,2,0
+Field,Physics,26,Brandeis,261,University of Chicago,1,1,0
+Field,Physics,26,Brandeis,51,Cornell,1,1,0
+Field,Physics,26,Brandeis,205,SUNY Stony Brook,1,0,1
+Field,Physics,26,Brandeis,229,UT Austin,1,1,0
+Field,Physics,26,Brandeis,87,Harvard,2,2,0
+Field,Physics,26,Brandeis,273,University of Florida,1,0,1
+Field,Physics,26,Brandeis,177,Rutgers - New Brunswick,1,1,0
+Field,Physics,26,Brandeis,329,University of Rochester,1,1,0
+Field,Physics,26,Brandeis,26,Brandeis,1,1,0
+Field,Physics,26,Brandeis,42,Clark,1,0,1
+Field,Physics,55,Dartmouth,123,MIT,2,2,0
+Field,Physics,55,Dartmouth,346,UW,1,1,0
+Field,Physics,55,Dartmouth,251,UC Berkeley,2,1,1
+Field,Physics,55,Dartmouth,51,Cornell,1,1,0
+Field,Physics,55,Dartmouth,300,University of Michigan,1,1,0
+Field,Physics,55,Dartmouth,87,Harvard,5,3,1
+Field,Physics,55,Dartmouth,254,UCLA,1,0,1
+Field,Physics,55,Dartmouth,368,Yale,2,1,1
+Field,Physics,55,Dartmouth,329,University of Rochester,1,1,0
+Field,Physics,55,Dartmouth,55,Dartmouth,1,1,0
+Field,Physics,55,Dartmouth,313,University of New Hampshire,1,0,1
+Field,Physics,55,Dartmouth,348,University of Wisconsin-Milwaukee,1,1,0
+Field,Physics,159,Old Dominion,198,Stanford,2,1,1
+Field,Physics,159,Old Dominion,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,159,Old Dominion,123,MIT,3,3,0
+Field,Physics,159,Old Dominion,346,UW,1,1,0
+Field,Physics,159,Old Dominion,31,Caltech,2,2,0
+Field,Physics,159,Old Dominion,153,Northwestern,1,1,0
+Field,Physics,159,Old Dominion,73,Florida State,1,0,0
+Field,Physics,159,Old Dominion,251,UC Berkeley,1,1,0
+Field,Physics,159,Old Dominion,368,Yale,1,1,0
+Field,Physics,159,Old Dominion,163,Penn State,1,1,0
+Field,Physics,159,Old Dominion,313,University of New Hampshire,2,2,0
+Field,Physics,159,Old Dominion,159,Old Dominion,1,1,0
+Field,Physics,159,Old Dominion,157,Ohio University,1,1,0
+Field,Physics,23,Boston College,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,23,Boston College,123,MIT,2,1,0
+Field,Physics,23,Boston College,198,Stanford,1,0,0
+Field,Physics,23,Boston College,167,Princeton,2,2,0
+Field,Physics,23,Boston College,205,SUNY Stony Brook,1,1,0
+Field,Physics,23,Boston College,256,UC San Diego,2,2,0
+Field,Physics,23,Boston College,87,Harvard,2,2,0
+Field,Physics,23,Boston College,24,Boston University,1,1,0
+Field,Physics,23,Boston College,49,Columbia,1,1,0
+Field,Physics,23,Boston College,28,Brown,1,1,0
+Field,Physics,23,Boston College,105,Lehigh,1,1,0
+Field,Physics,23,Boston College,23,Boston College,1,1,0
+Field,Physics,313,University of New Hampshire,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,313,University of New Hampshire,326,UPenn,1,1,0
+Field,Physics,313,University of New Hampshire,123,MIT,2,0,0
+Field,Physics,313,University of New Hampshire,346,UW,1,1,0
+Field,Physics,313,University of New Hampshire,31,Caltech,1,0,1
+Field,Physics,313,University of New Hampshire,167,Princeton,1,1,0
+Field,Physics,313,University of New Hampshire,212,Temple,2,1,1
+Field,Physics,313,University of New Hampshire,251,UC Berkeley,1,1,0
+Field,Physics,313,University of New Hampshire,289,University of Maryland College Park,2,1,0
+Field,Physics,313,University of New Hampshire,358,Washington University St. Louis,1,1,0
+Field,Physics,313,University of New Hampshire,51,Cornell,1,1,0
+Field,Physics,313,University of New Hampshire,300,University of Michigan,1,1,0
+Field,Physics,313,University of New Hampshire,229,UT Austin,1,1,0
+Field,Physics,313,University of New Hampshire,87,Harvard,1,1,0
+Field,Physics,313,University of New Hampshire,255,UC Riverside,1,1,0
+Field,Physics,313,University of New Hampshire,28,Brown,1,0,1
+Field,Physics,313,University of New Hampshire,55,Dartmouth,1,1,0
+Field,Physics,313,University of New Hampshire,313,University of New Hampshire,1,1,0
+Field,Physics,313,University of New Hampshire,104,Kent State,1,0,1
+Field,Physics,42,Clark,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,42,Clark,123,MIT,2,2,0
+Field,Physics,42,Clark,198,Stanford,1,0,0
+Field,Physics,42,Clark,31,Caltech,1,1,0
+Field,Physics,42,Clark,251,UC Berkeley,1,1,0
+Field,Physics,42,Clark,300,University of Michigan,1,1,0
+Field,Physics,42,Clark,60,Duke,1,1,0
+Field,Physics,42,Clark,150,Northeastern,1,1,0
+Field,Physics,27,Brigham Young,289,University of Maryland College Park,2,2,0
+Field,Physics,27,Brigham Young,27,Brigham Young,5,5,0
+Field,Physics,27,Brigham Young,343,University of Utah,2,2,0
+Field,Physics,27,Brigham Young,163,Penn State,4,4,0
+Field,Physics,27,Brigham Young,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,27,Brigham Young,326,UPenn,1,1,0
+Field,Physics,27,Brigham Young,347,University of Wisconsin-Madison,2,2,0
+Field,Physics,27,Brigham Young,252,UC Davis,1,1,0
+Field,Physics,27,Brigham Young,123,MIT,2,2,0
+Field,Physics,27,Brigham Young,167,Princeton,1,1,0
+Field,Physics,27,Brigham Young,99,Iowa State,1,1,0
+Field,Physics,27,Brigham Young,251,UC Berkeley,1,1,0
+Field,Physics,27,Brigham Young,51,Cornell,1,1,0
+Field,Physics,27,Brigham Young,263,CU Boulder,1,1,0
+Field,Physics,27,Brigham Young,258,UC Santa Barbara,2,1,0
+Field,Physics,27,Brigham Young,300,University of Michigan,1,0,0
+Field,Physics,27,Brigham Young,229,UT Austin,2,1,1
+Field,Physics,27,Brigham Young,329,University of Rochester,1,1,0
+Field,Physics,27,Brigham Young,49,Columbia,1,1,0
+Field,Physics,27,Brigham Young,253,UC Irvine,1,1,0
+Field,Physics,27,Brigham Young,143,New Mexico State,1,0,1
+Field,Physics,81,Georgetown,300,University of Michigan,1,0,1
+Field,Physics,81,Georgetown,280,University of Illinois Urbana-Champaign,2,2,0
+Field,Physics,81,Georgetown,198,Stanford,1,1,0
+Field,Physics,81,Georgetown,251,UC Berkeley,2,1,1
+Field,Physics,81,Georgetown,51,Cornell,2,2,0
+Field,Physics,81,Georgetown,255,UC Riverside,1,0,0
+Field,Physics,81,Georgetown,60,Duke,1,1,0
+Field,Physics,81,Georgetown,34,Carnegie Mellon,1,1,0
+Field,Physics,81,Georgetown,42,Clark,1,1,0
+Field,Physics,81,Georgetown,81,Georgetown,1,1,0
+Field,Physics,64,Texas A&M University-Commerce,12,Arizona State,1,1,0
+Field,Physics,64,Texas A&M University-Commerce,24,Boston University,1,1,0
+Field,Physics,64,Texas A&M University-Commerce,263,CU Boulder,1,0,1
+Field,Physics,64,Texas A&M University-Commerce,132,Michigan State,1,0,0
+Field,Physics,64,Texas A&M University-Commerce,351,Vanderbilt,1,0,0
+Field,Physics,64,Texas A&M University-Commerce,103,Kansas State,1,0,1
+Field,Physics,64,Texas A&M University-Commerce,259,UC Santa Cruz,1,1,0
+Field,Physics,64,Texas A&M University-Commerce,250,University of Arkansas,2,2,0
+Field,Physics,64,Texas A&M University-Commerce,64,Texas A&M University-Commerce,1,0,1
+Field,Physics,74,Fordham,51,Cornell,1,1,0
+Field,Physics,74,Fordham,358,Washington University St. Louis,1,1,0
+Field,Physics,74,Fordham,96,Indiana University Bloomington,1,0,0
+Field,Physics,74,Fordham,368,Yale,1,1,0
+Field,Physics,74,Fordham,200,Stevens Institute of Technology,2,2,0
+Field,Physics,74,Fordham,177,Rutgers - New Brunswick,2,1,0
+Field,Physics,74,Fordham,74,Fordham,1,0,1
+Field,Physics,74,Fordham,146,NYU,1,1,0
+Field,Physics,74,Fordham,87,Harvard,1,1,0
+Field,Physics,74,Fordham,253,UC Irvine,1,1,0
+Field,Physics,328,University of Rhode Island,256,UC San Diego,1,1,0
+Field,Physics,328,University of Rhode Island,301,University of Minnesota Twin Cities,1,1,0
+Field,Physics,328,University of Rhode Island,163,Penn State,2,2,0
+Field,Physics,328,University of Rhode Island,327,University of Pittsburgh,1,0,1
+Field,Physics,328,University of Rhode Island,28,Brown,2,2,0
+Field,Physics,192,Southern Illinois University Carbondale,229,UT Austin,1,1,0
+Field,Physics,192,Southern Illinois University Carbondale,324,University of Oklahoma,2,0,0
+Field,Physics,192,Southern Illinois University Carbondale,280,University of Illinois Urbana-Champaign,1,1,0
+Field,Physics,192,Southern Illinois University Carbondale,168,Purdue,1,1,0
+Field,Physics,192,Southern Illinois University Carbondale,215,Texas A&M,1,0,0
+Field,Physics,192,Southern Illinois University Carbondale,192,Southern Illinois University Carbondale,1,1,0
+Field,Physics,192,Southern Illinois University Carbondale,163,Penn State,1,1,0
+Field,Physics,192,Southern Illinois University Carbondale,177,Rutgers - New Brunswick,1,0,0
+Field,Physics,192,Southern Illinois University Carbondale,28,Brown,1,1,0
+Field,Physics,246,University of Alaska Fairbanks,246,University of Alaska Fairbanks,3,3,0
+Field,Physics,246,University of Alaska Fairbanks,254,UCLA,1,1,0
+Field,Physics,246,University of Alaska Fairbanks,15,Auburn,1,0,0
+Field,Physics,246,University of Alaska Fairbanks,24,Boston University,1,0,0
+Field,Physics,246,University of Alaska Fairbanks,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,246,University of Alaska Fairbanks,258,UC Santa Barbara,1,0,0
+Field,Physics,246,University of Alaska Fairbanks,313,University of New Hampshire,1,0,1
+Field,Physics,246,University of Alaska Fairbanks,42,Clark,1,0,0
+Field,Physics,315,University of New Orleans,73,Florida State,1,0,1
+Field,Physics,315,University of New Orleans,171,Rensselaer Polytechnic Institute,1,1,0
+Field,Physics,315,University of New Orleans,51,Cornell,1,1,0
+Field,Physics,315,University of New Orleans,263,CU Boulder,1,0,0
+Field,Physics,315,University of New Orleans,273,University of Florida,1,1,0
+Field,Physics,315,University of New Orleans,267,UConn,1,0,1
+Field,Physics,142,New Mexico Tech,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,142,New Mexico Tech,198,Stanford,1,1,0
+Field,Physics,142,New Mexico Tech,251,UC Berkeley,1,1,0
+Field,Physics,142,New Mexico Tech,258,UC Santa Barbara,1,1,0
+Field,Physics,142,New Mexico Tech,256,UC San Diego,1,1,0
+Field,Physics,142,New Mexico Tech,87,Harvard,1,1,0
+Field,Physics,142,New Mexico Tech,254,UCLA,1,1,0
+Field,Physics,142,New Mexico Tech,163,Penn State,1,0,0
+Field,Physics,142,New Mexico Tech,83,Georgia State,1,0,0
+Field,Physics,142,New Mexico Tech,325,University of Oregon,1,0,1
+Field,Physics,142,New Mexico Tech,324,University of Oklahoma,1,1,0
+Field,Physics,142,New Mexico Tech,142,New Mexico Tech,4,2,0
+Field,Physics,142,New Mexico Tech,137,Montana State,1,1,0
+Field,Physics,142,New Mexico Tech,271,University of Denver,1,0,1
+Field,Physics,287,University of Maine,51,Cornell,2,2,0
+Field,Physics,287,University of Maine,345,University of Virginia,1,1,0
+Field,Physics,287,University of Maine,326,UPenn,1,0,0
+Field,Physics,287,University of Maine,347,University of Wisconsin-Madison,1,1,0
+Field,Physics,287,University of Maine,123,MIT,1,0,1
+Field,Physics,287,University of Maine,148,North Carolina State,1,1,0
+Field,Physics,287,University of Maine,289,University of Maryland College Park,1,1,0
+Field,Physics,287,University of Maine,258,UC Santa Barbara,1,1,0
+Field,Physics,287,University of Maine,229,UT Austin,1,1,0
+Field,Physics,287,University of Maine,287,University of Maine,1,1,0
+Field,Physics,287,University of Maine,157,Ohio University,1,1,0
+Field,Physics,287,University of Maine,28,Brown,1,1,0
+Field,Physics,287,University of Maine,270,University of Delaware,1,1,0
+Field,Physics,287,University of Maine,314,University of New Mexico,1,1,0
+Field,Physics,86,Hampton,198,Stanford,1,1,0
+Field,Physics,86,Hampton,99,Iowa State,1,1,0
+Field,Physics,86,Hampton,345,University of Virginia,1,1,0
+Field,Physics,86,Hampton,229,UT Austin,1,1,0
+Field,Physics,86,Hampton,283,University of Kentucky,1,1,0
+Field,Physics,86,Hampton,277,University of Houston,1,1,0
+Field,Physics,86,Hampton,8,American,1,0,1
+Field,Physics,86,Hampton,159,Old Dominion,1,1,0
+Field,Physics,86,Hampton,86,Hampton,4,0,2
+Field,Physics,245,University of Alabama in Huntsville,280,University of Illinois Urbana-Champaign,1,0,1
+Field,Physics,245,University of Alabama in Huntsville,289,University of Maryland College Park,3,2,0
+Field,Physics,245,University of Alabama in Huntsville,256,UC San Diego,1,1,0
+Field,Physics,245,University of Alabama in Huntsville,96,Indiana University Bloomington,1,0,0
+Field,Physics,245,University of Alabama in Huntsville,87,Harvard,1,0,0
+Field,Physics,245,University of Alabama in Huntsville,247,University of Arizona,1,1,0
+Field,Physics,245,University of Alabama in Huntsville,313,University of New Hampshire,1,1,0
+Field,Physics,245,University of Alabama in Huntsville,133,Michigan Technological,1,1,0
+Field,Physics,245,University of Alabama in Huntsville,245,University of Alabama in Huntsville,3,3,0
+Field,Physics,3,Alabama A&M,245,University of Alabama in Huntsville,5,4,0
+Field,Physics,3,Alabama A&M,293,UMass Amherst,1,0,0
+Field,Physics,3,Alabama A&M,49,Columbia,1,1,0
+Field,Physics,3,Alabama A&M,90,Howard,1,1,0
+Field,Physics,3,Alabama A&M,296,UMass Lowell,1,0,0
+Field,Physics,3,Alabama A&M,3,Alabama A&M,5,3,2
+Field,Physics,3,Alabama A&M,123,MIT,1,1,0

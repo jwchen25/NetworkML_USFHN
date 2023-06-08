@@ -1,0 +1,173 @@
+InstitutionId,InstitutionName,TaxonomyLevel,TaxonomyValue,NonAttritionEvents,AttritionEvents,ProductionRank,PrestigeRank,OrdinalPrestigeRank
+8,American,Field,Chemistry,4,1,153,0.4068689436999064,93
+12,Arizona State,Field,Chemistry,19,9,63,0.3636378446962813,114
+15,Auburn,Field,Chemistry,4,2,136,0.238340354292471,167
+20,Baylor,Field,Chemistry,2,1,174,0.2267776933298408,173
+23,Boston College,Field,Chemistry,10,1,104,0.5389126169759393,61
+24,Boston University,Field,Chemistry,17,4,73,0.5761779875501751,48
+26,Brandeis,Field,Chemistry,19,11,66,0.7007666638789849,21
+27,Brigham Young,Field,Chemistry,7,3,109,0.3617870758568518,116
+28,Brown,Field,Chemistry,23,10,64,0.6031166255385372,39
+29,Bryn Mawr,Field,Chemistry,2,1,183,0.4055912715792006,94
+263,CU Boulder,Field,Chemistry,40,14,36,0.5770300011437374,46
+31,Caltech,Field,Chemistry,194,42,3,0.9354591783183176,3
+34,Carnegie Mellon,Field,Chemistry,31,6,49,0.6390812773942054,31
+35,Case Western Reserve,Field,Chemistry,29,9,52,0.6063535269846511,38
+42,Clark,Field,Chemistry,2,2,188,0.3454035044149077,122
+43,Clarkson,Field,Chemistry,6,3,131,0.3999378382968883,97
+44,Clemson,Field,Chemistry,11,3,89,0.364872645173297,113
+45,Cleveland State,Field,Chemistry,6,5,128,0.3004349784400611,130
+47,Colorado School of Mines,Field,Chemistry,3,1,160,0.225641304088306,174
+48,Colorado State,Field,Chemistry,29,5,54,0.6306611733000621,32
+49,Columbia,Field,Chemistry,129,32,7,0.90486503906267,5
+51,Cornell,Field,Chemistry,127,34,8,0.8199590909826656,8
+55,Dartmouth,Field,Chemistry,10,1,101,0.5700222539781029,52
+59,Drexel,Field,Chemistry,3,1,156,0.2386640727713962,166
+60,Duke,Field,Chemistry,33,11,45,0.6166136941639333,37
+61,Duquesne,Field,Chemistry,2,1,181,0.2582308125560792,157
+66,Emory,Field,Chemistry,19,1,71,0.5981531727685433,42
+73,Florida State,Field,Chemistry,35,9,43,0.5438834871422119,60
+74,Fordham,Field,Chemistry,6,3,123,0.2718503624110573,148
+79,George Mason,Field,Chemistry,1,1,199,0.1114829502451774,217
+80,George Washington,Field,Chemistry,11,7,91,0.4501138716800482,77
+81,Georgetown,Field,Chemistry,10,4,103,0.4728191189642097,72
+82,Georgia Tech,Field,Chemistry,43,8,33,0.5740755811186321,50
+87,Harvard,Field,Chemistry,237,74,1,1.0,0
+90,Howard,Field,Chemistry,3,1,159,0.2553788816640222,159
+97,IUPUI,Field,Chemistry,1,1,216,0.1821088497756629,196
+92,Illinois Tech,Field,Chemistry,9,3,108,0.2630032363863738,152
+96,Indiana University Bloomington,Field,Chemistry,61,22,25,0.6240306364343791,33
+99,Iowa State,Field,Chemistry,70,19,20,0.6668949184806242,28
+100,Jackson State,Field,Chemistry,2,1,168,0.1516730865561675,204
+102,Johns Hopkins,Field,Chemistry,59,10,29,0.7425224973276098,14
+103,Kansas State,Field,Chemistry,10,2,93,0.4912434638352458,68
+109,LSU,Field,Chemistry,14,6,82,0.3765913152262278,108
+105,Lehigh,Field,Chemistry,8,3,110,0.4343890773180051,83
+114,Loyola University Chicago,Field,Chemistry,4,1,143,0.2821217236636691,141
+123,MIT,Field,Chemistry,234,54,2,0.9263795485608434,4
+119,Marquette,Field,Chemistry,5,2,139,0.3661722488827473,112
+131,Miami University,Field,Chemistry,11,2,92,0.2903807131800128,137
+132,Michigan State,Field,Chemistry,58,16,24,0.6181272270726068,36
+136,Mississippi State,Field,Chemistry,6,3,117,0.2727963402920098,147
+306,Missouri S&T,Field,Chemistry,4,1,150,0.1595745279302597,203
+137,Montana State,Field,Chemistry,10,3,100,0.4420281311975537,79
+146,NYU,Field,Chemistry,24,6,60,0.56284040702791,55
+143,New Mexico State,Field,Chemistry,16,5,80,0.3980010710856992,99
+142,New Mexico Tech,Field,Chemistry,2,1,175,0.2152755483072823,183
+148,North Carolina State,Field,Chemistry,41,12,35,0.3946037811615823,100
+149,North Dakota State,Field,Chemistry,3,1,163,0.2900792332984197,138
+150,Northeastern,Field,Chemistry,4,1,132,0.2924407688261747,135
+153,Northwestern,Field,Chemistry,110,32,11,0.7709102229700867,13
+156,Ohio State University,Field,Chemistry,67,28,21,0.5662209027458601,53
+157,Ohio University,Field,Chemistry,6,2,118,0.1632502070679206,201
+158,Oklahoma State,Field,Chemistry,8,5,97,0.3847058400988423,103
+161,Oregon State,Field,Chemistry,7,3,112,0.4344566930573306,82
+163,Penn State,Field,Chemistry,71,23,19,0.6603780697048661,29
+167,Princeton,Field,Chemistry,78,19,18,0.8156474500526084,9
+168,Purdue,Field,Chemistry,120,38,9,0.6742478109026526,26
+171,Rensselaer Polytechnic Institute,Field,Chemistry,6,2,129,0.3764923991740995,109
+172,Rice,Field,Chemistry,34,6,44,0.5945689668547768,44
+177,Rutgers - New Brunswick,Field,Chemistry,24,12,62,0.432472892184583,84
+369,Rutgers - Newark,Field,Chemistry,1,1,212,0.2791674247906266,144
+203,SUNY Binghamton,Field,Chemistry,4,2,140,0.3237593206364011,125
+206,SUNY College of Environmental Science and Forestry,Field,Chemistry,2,1,179,0.224070824156983,177
+205,SUNY Stony Brook,Field,Chemistry,27,6,53,0.5476718369577375,59
+178,Saint Louis University,Field,Chemistry,1,1,195,0.1767844148944116,199
+184,Scripps Research (California),Field,Chemistry,39,6,37,0.7309088170479247,16
+410,Scripps Research (Florida),Field,Chemistry,4,1,142,0.7876213777614871,11
+192,Southern Illinois University Carbondale,Field,Chemistry,10,4,96,0.4529886877341232,76
+198,Stanford,Field,Chemistry,150,32,5,0.9428742017735688,2
+200,Stevens Institute of Technology,Field,Chemistry,4,3,151,0.2311961732532188,171
+210,Syracuse,Field,Chemistry,9,3,98,0.4282391107016747,87
+212,Temple,Field,Chemistry,2,1,173,0.347966556176868,119
+215,Texas A&M,Field,Chemistry,82,18,15,0.6223510127542372,34
+222,Texas Tech,Field,Chemistry,17,6,74,0.3877466119706165,101
+237,Tufts,Field,Chemistry,9,2,107,0.4816534985031732,70
+238,Tulane,Field,Chemistry,4,1,144,0.4660093682014231,73
+251,UC Berkeley,Field,Chemistry,356,71,0,0.9552731393906728,1
+252,UC Davis,Field,Chemistry,36,8,40,0.5759973302164079,49
+253,UC Irvine,Field,Chemistry,41,7,32,0.643041123198012,30
+255,UC Riverside,Field,Chemistry,17,6,78,0.5117654747086156,65
+256,UC San Diego,Field,Chemistry,61,18,27,0.6784114190402346,24
+258,UC Santa Barbara,Field,Chemistry,37,12,38,0.6891152270714428,22
+259,UC Santa Cruz,Field,Chemistry,9,3,111,0.4999341702836988,66
+254,UCLA,Field,Chemistry,102,30,13,0.7284005857423991,17
+267,UConn,Field,Chemistry,17,6,79,0.3780539169133426,107
+293,UMass Amherst,Field,Chemistry,31,9,47,0.5610746214162796,56
+316,UNC,Field,Chemistry,81,24,17,0.6708913453159847,27
+326,UPenn,Field,Chemistry,70,12,22,0.7314473481283054,15
+229,UT Austin,Field,Chemistry,102,22,14,0.7106514130390155,19
+230,UT Dallas,Field,Chemistry,3,1,152,0.3203642819489887,126
+346,UW,Field,Chemistry,57,22,28,0.676108252699294,25
+202,University at Albany (SUNY),Field,Chemistry,5,1,133,0.2505053696262415,162
+204,University at Buffalo (SUNY),Field,Chemistry,20,6,67,0.4869300104265776,69
+242,University of Akron,Field,Chemistry,12,6,87,0.3835342236294561,104
+243,University of Alabama,Field,Chemistry,9,4,102,0.4199578393412085,89
+244,University of Alabama at Birmingham,Field,Chemistry,5,3,141,0.2130506554299855,185
+246,University of Alaska Fairbanks,Field,Chemistry,4,1,146,0.2361242705998997,169
+247,University of Arizona,Field,Chemistry,42,10,34,0.5802636106527516,45
+250,University of Arkansas,Field,Chemistry,6,2,120,0.296973587507935,131
+260,University of Central Florida,Field,Chemistry,6,1,130,0.1909416638665217,193
+261,University of Chicago,Field,Chemistry,108,27,12,0.8601134769411055,6
+262,University of Cincinnati,Field,Chemistry,18,8,68,0.4054948848104178,95
+270,University of Delaware,Field,Chemistry,14,1,86,0.4571401259553771,74
+271,University of Denver,Field,Chemistry,1,1,190,0.2353254327329571,170
+273,University of Florida,Field,Chemistry,60,10,26,0.6025883846341853,40
+274,University of Georgia,Field,Chemistry,25,9,57,0.5336719800167421,62
+276,University of Hawaii,Field,Chemistry,4,1,145,0.3795841323410288,106
+277,University of Houston,Field,Chemistry,13,3,84,0.432091176601689,85
+278,University of Idaho,Field,Chemistry,3,2,155,0.2249793666083638,175
+279,University of Illinois Chicago,Field,Chemistry,27,8,56,0.4274408553507883,88
+280,University of Illinois Urbana-Champaign,Field,Chemistry,137,33,6,0.7849428016243202,12
+281,University of Iowa,Field,Chemistry,30,8,50,0.5516109341705419,58
+282,University of Kansas,Field,Chemistry,30,10,51,0.576917287761426,47
+283,University of Kentucky,Field,Chemistry,18,5,70,0.3677087560560264,111
+286,University of Louisville,Field,Chemistry,10,2,94,0.2797782196562374,143
+288,University of Maryland Baltimore County,Field,Chemistry,3,1,162,0.2768325599529108,146
+289,University of Maryland College Park,Field,Chemistry,25,7,59,0.5702438673433694,51
+298,University of Memphis,Field,Chemistry,3,1,157,0.1976446901598572,191
+299,University of Miami,Field,Chemistry,10,2,95,0.363036015957441,115
+300,University of Michigan,Field,Chemistry,85,23,16,0.7075596155609822,20
+301,University of Minnesota Twin Cities,Field,Chemistry,67,15,23,0.6808684426840474,23
+302,University of Mississippi,Field,Chemistry,9,5,106,0.2280116098834397,172
+304,University of Missouri,Field,Chemistry,17,7,69,0.4033051165225901,96
+305,University of Missouri - Kansas City,Field,Chemistry,3,1,166,0.2810341687738512,142
+225,University of Montana,Field,Chemistry,2,1,158,0.2447256939333382,163
+308,University of Nebraska-Lincoln,Field,Chemistry,23,8,61,0.4543022145019031,75
+311,"University of Nevada, Las Vegas",Field,Chemistry,2,1,182,0.2227717926905361,180
+312,"University of Nevada, Reno",Field,Chemistry,6,2,113,0.3803865409439109,105
+313,University of New Hampshire,Field,Chemistry,5,3,138,0.3476782664252475,120
+314,University of New Mexico,Field,Chemistry,15,5,85,0.4459093015496201,78
+315,University of New Orleans,Field,Chemistry,6,3,127,0.351513334231786,118
+319,University of North Dakota,Field,Chemistry,2,1,164,0.2372079367167146,168
+320,University of North Texas,Field,Chemistry,9,4,105,0.2893001864188607,139
+323,University of Notre Dame,Field,Chemistry,32,14,48,0.491452809788041,67
+324,University of Oklahoma,Field,Chemistry,16,5,76,0.3190716907951735,127
+325,University of Oregon,Field,Chemistry,16,1,81,0.5659805855857338,54
+327,University of Pittsburgh,Field,Chemistry,50,16,30,0.6186884101207547,35
+328,University of Rhode Island,Field,Chemistry,3,3,161,0.3985246394933382,98
+329,University of Rochester,Field,Chemistry,36,10,39,0.7126729557275593,18
+332,University of South Carolina,Field,Chemistry,17,4,75,0.4372214601664185,81
+334,University of South Florida,Field,Chemistry,12,2,88,0.2652175964691161,150
+335,University of Southern California,Field,Chemistry,23,8,65,0.5586766676817378,57
+336,University of Southern Mississippi,Field,Chemistry,6,2,121,0.2696738734103899,149
+226,University of Tennessee,Field,Chemistry,14,7,83,0.416096199168352,90
+341,University of Toledo,Field,Chemistry,2,2,171,0.2236236634757098,178
+343,University of Utah,Field,Chemistry,47,16,31,0.6017775995736386,41
+344,University of Vermont,Field,Chemistry,7,3,119,0.4286057619848309,86
+345,University of Virginia,Field,Chemistry,32,7,46,0.5245205350504841,63
+347,University of Wisconsin-Madison,Field,Chemistry,177,49,4,0.7946451876301448,10
+348,University of Wisconsin-Milwaukee,Field,Chemistry,10,2,99,0.3724958107910942,110
+349,University of Wyoming,Field,Chemistry,6,2,122,0.3614316110644448,117
+350,Utah State,Field,Chemistry,6,3,124,0.2966863348846554,132
+351,Vanderbilt,Field,Chemistry,36,9,41,0.4732331082309553,71
+353,Virginia Commonwealth,Field,Chemistry,11,2,90,0.2101679905313215,186
+354,Virginia Tech,Field,Chemistry,25,9,58,0.4384141606291362,80
+355,Wake Forest,Field,Chemistry,2,1,187,0.296444622634378,133
+357,Washington State,Field,Chemistry,17,5,77,0.412778675731483,92
+358,Washington University St. Louis,Field,Chemistry,27,3,55,0.5978049971585007,43
+359,Wayne State,Field,Chemistry,33,11,42,0.5159108325028547,64
+361,Wesleyan,Field,Chemistry,7,1,114,0.4138009855838588,91
+362,West Virginia,Field,Chemistry,3,2,167,0.2620669604387531,154
+363,Western Michigan,Field,Chemistry,7,6,116,0.2933539501462845,134
+368,Yale,Field,Chemistry,116,37,10,0.8545536563198108,7

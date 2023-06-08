@@ -1,0 +1,157 @@
+InstitutionId,InstitutionName,TaxonomyLevel,TaxonomyValue,NonAttritionEvents,AttritionEvents,ProductionRank,PrestigeRank,OrdinalPrestigeRank
+3,Alabama A&M,Field,Physics,8,3,95,0.1819570671307366,200
+8,American,Field,Physics,6,2,126,0.3698108127784741,134
+12,Arizona State,Field,Physics,20,4,50,0.4939264422958823,73
+15,Auburn,Field,Physics,7,1,103,0.3209650571016612,149
+20,Baylor,Field,Physics,5,1,127,0.3836615332783546,123
+23,Boston College,Field,Physics,6,1,117,0.5042708447523423,66
+24,Boston University,Field,Physics,29,2,42,0.6193357634470549,36
+26,Brandeis,Field,Physics,13,4,78,0.5994311621185016,41
+27,Brigham Young,Field,Physics,8,3,90,0.3599658118904721,135
+28,Brown,Field,Physics,45,13,33,0.7333797613172591,20
+263,CU Boulder,Field,Physics,82,19,18,0.6856459745356344,27
+31,Caltech,Field,Physics,159,32,8,0.913720692148931,4
+34,Carnegie Mellon,Field,Physics,22,5,52,0.5997105435730372,40
+35,Case Western Reserve,Field,Physics,16,5,59,0.6345723683745789,32
+36,Catholic University of America,Field,Physics,9,6,93,0.4568813367408578,86
+42,Clark,Field,Physics,9,5,92,0.6028267559856897,38
+43,Clarkson,Field,Physics,7,2,110,0.4115596199071762,111
+44,Clemson,Field,Physics,8,6,97,0.329220765182318,147
+47,Colorado School of Mines,Field,Physics,1,1,144,0.2980594419942633,158
+48,Colorado State,Field,Physics,7,2,111,0.4650814621140782,82
+49,Columbia,Field,Physics,108,37,13,0.8893160214527301,8
+51,Cornell,Field,Physics,220,57,5,0.89939108055661,6
+55,Dartmouth,Field,Physics,6,1,124,0.5183650638603041,60
+59,Drexel,Field,Physics,4,1,137,0.4499418371705151,88
+60,Duke,Field,Physics,32,13,39,0.6769807796874249,28
+69,Florida A&M,Field,Physics,1,1,187,0.2354553946018294,184
+70,Florida Atlantic,Field,Physics,1,1,157,0.3592754078231429,136
+73,Florida State,Field,Physics,29,14,41,0.4943297412347175,71
+74,Fordham,Field,Physics,2,1,153,0.2485533239835162,180
+79,George Mason,Field,Physics,7,2,108,0.2818130910733368,166
+80,George Washington,Field,Physics,3,2,146,0.3337170576683708,144
+81,Georgetown,Field,Physics,2,1,154,0.3955671201704876,117
+83,Georgia State,Field,Physics,6,1,114,0.3328498939575985,145
+82,Georgia Tech,Field,Physics,18,7,60,0.5395645183354569,54
+86,Hampton,Field,Physics,5,2,130,0.1940650972693063,197
+87,Harvard,Field,Physics,295,76,1,1.0,0
+90,Howard,Field,Physics,3,1,149,0.2158397031457612,191
+92,Illinois Tech,Field,Physics,9,6,83,0.2888687524805141,162
+96,Indiana University Bloomington,Field,Physics,49,19,30,0.6335704940257434,33
+99,Iowa State,Field,Physics,27,7,44,0.559272148908264,50
+102,Johns Hopkins,Field,Physics,53,13,27,0.7491310185616985,16
+103,Kansas State,Field,Physics,13,2,64,0.4399128556574964,96
+104,Kent State,Field,Physics,11,1,81,0.3830520784119791,124
+109,LSU,Field,Physics,14,3,71,0.3846860024704459,122
+105,Lehigh,Field,Physics,7,4,112,0.4387655568980333,97
+123,MIT,Field,Physics,281,82,2,0.9000207242099852,5
+132,Michigan State,Field,Physics,40,8,34,0.516335712012944,61
+133,Michigan Technological,Field,Physics,1,1,156,0.2344948951387202,185
+136,Mississippi State,Field,Physics,3,3,150,0.2298167889250222,187
+306,Missouri S&T,Field,Physics,4,2,136,0.2846248418469307,164
+137,Montana State,Field,Physics,8,4,89,0.4407632166590918,94
+146,NYU,Field,Physics,24,8,46,0.6004478452414412,39
+141,New Jersey Institute of Technology,Field,Physics,6,2,115,0.3468600642042097,139
+143,New Mexico State,Field,Physics,12,4,77,0.4722715128946386,80
+142,New Mexico Tech,Field,Physics,5,1,128,0.2964500979932779,159
+148,North Carolina State,Field,Physics,15,9,70,0.372188644717373,130
+149,North Dakota State,Field,Physics,2,1,163,0.3706229320042183,133
+150,Northeastern,Field,Physics,6,1,121,0.4431185122717448,91
+153,Northwestern,Field,Physics,55,11,26,0.6924936683230387,26
+156,Ohio State University,Field,Physics,48,7,28,0.5973571845859142,42
+157,Ohio University,Field,Physics,15,3,66,0.4266767062730164,103
+158,Oklahoma State,Field,Physics,7,4,107,0.3171213904384874,151
+159,Old Dominion,Field,Physics,7,2,106,0.4767720415672274,78
+161,Oregon State,Field,Physics,5,1,133,0.4339701414871302,98
+163,Penn State,Field,Physics,61,21,24,0.6335023403928637,34
+167,Princeton,Field,Physics,245,52,3,0.9874316188980824,1
+168,Purdue,Field,Physics,48,22,31,0.5967543581240472,43
+171,Rensselaer Polytechnic Institute,Field,Physics,16,7,67,0.5504498617865744,53
+172,Rice,Field,Physics,50,21,29,0.6485763479366814,30
+177,Rutgers - New Brunswick,Field,Physics,46,16,32,0.6283342800292567,35
+205,SUNY Stony Brook,Field,Physics,96,20,15,0.7276295157437062,21
+192,Southern Illinois University Carbondale,Field,Physics,6,2,118,0.4026207689553292,113
+198,Stanford,Field,Physics,231,58,4,0.9618195298830156,2
+200,Stevens Institute of Technology,Field,Physics,6,2,109,0.4983603799918057,68
+210,Syracuse,Field,Physics,17,4,62,0.5775712592947044,47
+212,Temple,Field,Physics,15,5,69,0.5739315292110003,48
+215,Texas A&M,Field,Physics,35,9,37,0.5011944028655523,67
+64,Texas A&M University-Commerce,Field,Physics,1,1,180,0.1205537060841804,213
+221,Texas State,Field,Physics,2,1,164,0.3266139359339253,148
+222,Texas Tech,Field,Physics,5,2,131,0.2812672590654364,168
+237,Tufts,Field,Physics,10,3,86,0.6074691178930473,37
+238,Tulane,Field,Physics,8,2,100,0.4185918885088019,107
+251,UC Berkeley,Field,Physics,305,81,0,0.9577222578031014,3
+252,UC Davis,Field,Physics,21,5,53,0.5814804787243408,46
+253,UC Irvine,Field,Physics,18,6,61,0.5131217674823843,62
+255,UC Riverside,Field,Physics,17,6,65,0.5186291380944155,59
+256,UC San Diego,Field,Physics,76,19,22,0.7043621791924789,24
+258,UC Santa Barbara,Field,Physics,73,10,20,0.7818476011873631,11
+259,UC Santa Cruz,Field,Physics,34,11,38,0.7199862821345784,22
+254,UCLA,Field,Physics,91,18,16,0.7486202844570532,17
+267,UConn,Field,Physics,8,2,101,0.4630347904698843,83
+293,UMass Amherst,Field,Physics,26,9,45,0.6510681361187609,29
+296,UMass Lowell,Field,Physics,8,3,96,0.2891965636179235,161
+316,UNC,Field,Physics,25,10,47,0.4939490752807582,72
+326,UPenn,Field,Physics,77,19,21,0.7927331659649899,10
+228,UT Arlington,Field,Physics,2,1,152,0.2505280730832314,179
+229,UT Austin,Field,Physics,118,24,12,0.7155124122396563,23
+230,UT Dallas,Field,Physics,6,1,105,0.3998476851233017,114
+346,UW,Field,Physics,81,25,17,0.7420976585558516,18
+202,University at Albany (SUNY),Field,Physics,9,2,94,0.5119919119925727,63
+204,University at Buffalo (SUNY),Field,Physics,19,4,55,0.5095088894314329,64
+242,University of Akron,Field,Physics,1,1,190,0.3748207844475512,129
+243,University of Alabama,Field,Physics,6,1,122,0.3525353688179486,137
+244,University of Alabama at Birmingham,Field,Physics,4,2,143,0.2661545438273353,171
+245,University of Alabama in Huntsville,Field,Physics,10,5,82,0.3830006778677087,125
+246,University of Alaska Fairbanks,Field,Physics,7,3,104,0.3862626440447461,121
+247,University of Arizona,Field,Physics,66,18,23,0.5587305854954225,51
+250,University of Arkansas,Field,Physics,6,4,125,0.3321798204176162,146
+260,University of Central Florida,Field,Physics,7,1,99,0.3943543442416919,119
+261,University of Chicago,Field,Physics,167,37,6,0.8963510916252856,7
+270,University of Delaware,Field,Physics,9,4,85,0.442788516772672,92
+271,University of Denver,Field,Physics,3,1,145,0.3992775239277062,116
+273,University of Florida,Field,Physics,24,8,48,0.5527663199640215,52
+274,University of Georgia,Field,Physics,8,4,88,0.4962358692671466,70
+276,University of Hawaii,Field,Physics,23,4,49,0.6441536381061622,31
+277,University of Houston,Field,Physics,16,7,63,0.4135934700243689,110
+279,University of Illinois Chicago,Field,Physics,14,2,75,0.5220635327225792,58
+280,University of Illinois Urbana-Champaign,Field,Physics,162,44,7,0.7712939868559768,14
+281,University of Iowa,Field,Physics,12,4,74,0.4502373802335839,87
+282,University of Kansas,Field,Physics,6,3,116,0.3790137843617097,127
+283,University of Kentucky,Field,Physics,7,1,102,0.4313454963585513,101
+287,University of Maine,Field,Physics,6,2,120,0.3952661512289527,118
+289,University of Maryland College Park,Field,Physics,136,41,9,0.6955187757129249,25
+300,University of Michigan,Field,Physics,101,31,14,0.7742745070473777,12
+301,University of Minnesota Twin Cities,Field,Physics,58,17,25,0.7415518022811756,19
+302,University of Mississippi,Field,Physics,3,1,147,0.2600473213660858,174
+304,University of Missouri,Field,Physics,15,9,68,0.4673031853455771,81
+308,University of Nebraska-Lincoln,Field,Physics,19,7,57,0.4781926659123515,77
+311,"University of Nevada, Las Vegas",Field,Physics,2,1,159,0.3387384431743106,143
+312,"University of Nevada, Reno",Field,Physics,10,5,87,0.2826565956361288,165
+313,University of New Hampshire,Field,Physics,11,5,80,0.474197552854617,79
+314,University of New Mexico,Field,Physics,13,4,76,0.4580551176807278,85
+315,University of New Orleans,Field,Physics,2,1,171,0.2510495550570217,177
+323,University of Notre Dame,Field,Physics,29,9,40,0.4973383480557355,69
+324,University of Oklahoma,Field,Physics,14,4,73,0.4110378824440223,112
+325,University of Oregon,Field,Physics,17,6,58,0.5394239937403067,55
+327,University of Pittsburgh,Field,Physics,26,3,43,0.5655752767543457,49
+328,University of Rhode Island,Field,Physics,4,1,141,0.4410943650221298,93
+329,University of Rochester,Field,Physics,81,20,19,0.7720885337627158,13
+335,University of Southern California,Field,Physics,12,7,79,0.523290424397791,57
+226,University of Tennessee,Field,Physics,21,10,54,0.4587623635640039,84
+341,University of Toledo,Field,Physics,6,1,119,0.3780182886384037,128
+343,University of Utah,Field,Physics,20,6,56,0.4817660368228611,76
+345,University of Virginia,Field,Physics,36,11,35,0.5937951043810678,45
+347,University of Wisconsin-Madison,Field,Physics,133,38,10,0.7631611096185217,15
+348,University of Wisconsin-Milwaukee,Field,Physics,6,1,123,0.5361988638726187,56
+349,University of Wyoming,Field,Physics,3,1,140,0.430406174918189,102
+350,Utah State,Field,Physics,5,3,132,0.3056184499175041,155
+351,Vanderbilt,Field,Physics,22,6,51,0.4461402014660158,89
+354,Virginia Tech,Field,Physics,13,2,72,0.489205721712194,74
+355,Wake Forest,Field,Physics,2,2,170,0.4186419087048674,106
+358,Washington University St. Louis,Field,Physics,35,19,36,0.5967211637802113,44
+359,Wayne State,Field,Physics,9,5,91,0.3997924441135174,115
+362,West Virginia,Field,Physics,5,3,134,0.3498195646113602,138
+46,William & Mary,Field,Physics,9,2,84,0.440543523387957,95
+368,Yale,Field,Physics,118,35,11,0.8882006903066733,9

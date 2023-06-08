@@ -1,0 +1,167 @@
+InstitutionId,InstitutionName,TaxonomyLevel,TaxonomyValue,NonAttritionEvents,AttritionEvents,ProductionRank,PrestigeRank,OrdinalPrestigeRank
+8,American,Field,Computer Science,1,1,200,0.2237914277447243,165
+12,Arizona State,Field,Computer Science,44,11,40,0.4674324989332459,65
+15,Auburn,Field,Computer Science,18,9,79,0.3627764552680175,105
+23,Boston College,Field,Computer Science,1,1,211,0.4839808628885872,59
+24,Boston University,Field,Computer Science,14,3,82,0.5805729010198104,41
+27,Brigham Young,Field,Computer Science,14,2,93,0.3342654885720653,119
+28,Brown,Field,Computer Science,56,13,31,0.7232398749325771,18
+263,CU Boulder,Field,Computer Science,43,11,41,0.5532389152974839,47
+266,CU Denver,Field,Computer Science,3,1,160,0.2474833852733525,153
+31,Caltech,Field,Computer Science,43,10,46,0.8534887670131792,5
+34,Carnegie Mellon,Field,Computer Science,242,47,4,0.8753341518316807,3
+35,Case Western Reserve,Field,Computer Science,29,12,61,0.4641728059888846,67
+44,Clemson,Field,Computer Science,14,3,96,0.2855520418132921,142
+47,Colorado School of Mines,Field,Computer Science,2,1,168,0.2002684352835357,174
+48,Colorado State,Field,Computer Science,20,7,72,0.3681129802126695,104
+49,Columbia,Field,Computer Science,68,13,24,0.7150716090344066,19
+51,Cornell,Field,Computer Science,150,32,8,0.8519697930684128,6
+55,Dartmouth,Field,Computer Science,9,3,108,0.551048716702029,49
+59,Drexel,Field,Computer Science,4,1,156,0.2714652430586102,147
+60,Duke,Field,Computer Science,36,11,55,0.6509489050042163,29
+66,Emory,Field,Computer Science,3,1,159,0.3273189456440236,124
+70,Florida Atlantic,Field,Computer Science,12,2,98,0.2314497209492412,161
+71,Florida Institute of Technology,Field,Computer Science,8,3,128,0.1211654063851431,199
+73,Florida State,Field,Computer Science,15,2,76,0.4031356052236899,90
+79,George Mason,Field,Computer Science,24,7,69,0.4189281156395847,82
+80,George Washington,Field,Computer Science,21,8,75,0.4821586121845804,60
+81,Georgetown,Field,Computer Science,1,1,212,0.3436643543585693,113
+83,Georgia State,Field,Computer Science,9,4,112,0.245046149531724,154
+82,Georgia Tech,Field,Computer Science,151,18,5,0.742818550500213,16
+87,Harvard,Field,Computer Science,100,27,17,0.8662023350651088,4
+92,Illinois Tech,Field,Computer Science,14,4,88,0.4043751726422028,87
+96,Indiana University Bloomington,Field,Computer Science,48,16,39,0.4597046091796105,69
+99,Iowa State,Field,Computer Science,43,9,45,0.5341364499528494,50
+102,Johns Hopkins,Field,Computer Science,40,5,50,0.6407934683891957,34
+103,Kansas State,Field,Computer Science,14,4,90,0.4033830473521948,89
+104,Kent State,Field,Computer Science,14,6,94,0.3189476833513559,126
+109,LSU,Field,Computer Science,18,5,71,0.4815843238398212,61
+105,Lehigh,Field,Computer Science,6,2,142,0.3859983907815988,97
+123,MIT,Field,Computer Science,412,112,0,0.931161140657279,1
+119,Marquette,Field,Computer Science,2,2,179,0.1465627159344577,192
+132,Michigan State,Field,Computer Science,43,11,43,0.5168698544981042,52
+136,Mississippi State,Field,Computer Science,31,11,58,0.4091789413413835,85
+306,Missouri S&T,Field,Computer Science,9,4,122,0.3305957592492643,121
+137,Montana State,Field,Computer Science,7,2,116,0.3396629535628019,116
+146,NYU,Field,Computer Science,59,15,29,0.6334722492687032,35
+386,Naval Postgraduate School,Field,Computer Science,3,1,163,0.2495271442015734,152
+141,New Jersey Institute of Technology,Field,Computer Science,7,1,124,0.3281196081808828,123
+143,New Mexico State,Field,Computer Science,10,2,97,0.2888761566897629,139
+148,North Carolina State,Field,Computer Science,60,13,28,0.5109290856764012,53
+149,North Dakota State,Field,Computer Science,7,2,118,0.2763400082134413,145
+150,Northeastern,Field,Computer Science,18,2,77,0.4330970046937931,79
+152,Northern Illinois,Field,Computer Science,1,1,192,0.1728839812617532,181
+153,Northwestern,Field,Computer Science,54,17,32,0.560339842897526,46
+154,Nova Southeastern,Field,Computer Science,11,4,100,0.1479595015584245,190
+156,Ohio State University,Field,Computer Science,98,23,18,0.6421229916261376,32
+157,Ohio University,Field,Computer Science,9,3,117,0.233294933434924,160
+158,Oklahoma State,Field,Computer Science,7,1,111,0.3050525134596955,130
+159,Old Dominion,Field,Computer Science,7,2,127,0.3046864598632476,131
+161,Oregon State,Field,Computer Science,14,3,95,0.4213497279845242,81
+163,Penn State,Field,Computer Science,79,23,21,0.6410149769682343,33
+165,Portland State,Field,Computer Science,4,2,148,0.3899718454352178,92
+167,Princeton,Field,Computer Science,130,26,9,0.8327230457737763,7
+168,Purdue,Field,Computer Science,156,34,7,0.6134050178539048,37
+388,RIT,Field,Computer Science,2,2,161,0.2056783532494134,173
+171,Rensselaer Polytechnic Institute,Field,Computer Science,22,4,73,0.5843304686510187,40
+172,Rice,Field,Computer Science,51,10,36,0.7453168131276496,14
+177,Rutgers - New Brunswick,Field,Computer Science,51,10,38,0.6065093836058723,38
+203,SUNY Binghamton,Field,Computer Science,10,2,106,0.3162066301502494,127
+205,SUNY Stony Brook,Field,Computer Science,58,13,30,0.6501396463436093,31
+192,Southern Illinois University Carbondale,Field,Computer Science,7,1,134,0.2423174477552908,155
+193,Southern Methodist,Field,Computer Science,14,4,91,0.4675523813288818,64
+198,Stanford,Field,Computer Science,258,47,3,1.0,0
+200,Stevens Institute of Technology,Field,Computer Science,10,4,107,0.4560833152916518,70
+210,Syracuse,Field,Computer Science,40,13,49,0.5055994599662732,56
+212,Temple,Field,Computer Science,5,3,145,0.2225838206182809,166
+215,Texas A&M,Field,Computer Science,65,16,25,0.5286902033204489,51
+222,Texas Tech,Field,Computer Science,14,6,92,0.3837348568782505,98
+237,Tufts,Field,Computer Science,13,3,89,0.4728018210059134,63
+238,Tulane,Field,Computer Science,8,1,132,0.3871481672935855,94
+251,UC Berkeley,Field,Computer Science,281,65,1,0.9099186292792608,2
+252,UC Davis,Field,Computer Science,29,6,62,0.5516614173847161,48
+253,UC Irvine,Field,Computer Science,61,14,26,0.6536643618537508,28
+256,UC San Diego,Field,Computer Science,59,16,27,0.6829661868329271,24
+258,UC Santa Barbara,Field,Computer Science,66,17,23,0.6750364155794074,26
+259,UC Santa Cruz,Field,Computer Science,17,2,84,0.4775552049915541,62
+254,UCLA,Field,Computer Science,111,27,16,0.798904411846055,8
+267,UConn,Field,Computer Science,20,9,80,0.4555801641734588,71
+293,UMass Amherst,Field,Computer Science,109,24,15,0.6878665331558592,23
+316,UNC,Field,Computer Science,69,16,22,0.6800793406966803,25
+317,UNC Charlotte,Field,Computer Science,18,4,83,0.292041970142597,136
+326,UPenn,Field,Computer Science,119,33,11,0.7703023405073223,12
+228,UT Arlington,Field,Computer Science,25,4,65,0.3872172738540265,93
+229,UT Austin,Field,Computer Science,155,29,6,0.7863003255438603,9
+230,UT Dallas,Field,Computer Science,27,3,56,0.4270332829101957,80
+231,UT El Paso,Field,Computer Science,5,1,141,0.2809587926428484,144
+232,UT San Antonio,Field,Computer Science,7,1,125,0.3214120600928214,125
+346,UW,Field,Computer Science,116,20,14,0.7424014392484505,17
+202,University at Albany (SUNY),Field,Computer Science,5,1,138,0.3955863734668692,91
+204,University at Buffalo (SUNY),Field,Computer Science,37,10,48,0.4540526444930017,73
+243,University of Alabama,Field,Computer Science,4,1,155,0.2172227704616902,170
+244,University of Alabama at Birmingham,Field,Computer Science,5,4,144,0.3040501945087515,132
+245,University of Alabama in Huntsville,Field,Computer Science,8,2,130,0.209002760043318,172
+247,University of Arizona,Field,Computer Science,27,4,59,0.5730087304518862,42
+250,University of Arkansas,Field,Computer Science,5,1,147,0.2380949549384367,157
+260,University of Central Florida,Field,Computer Science,39,5,51,0.3866458213813265,96
+261,University of Chicago,Field,Computer Science,36,11,54,0.6502900842596512,30
+262,University of Cincinnati,Field,Computer Science,18,5,78,0.6901259952207415,22
+270,University of Delaware,Field,Computer Science,10,4,103,0.351433424495035,110
+271,University of Denver,Field,Computer Science,2,1,172,0.3157668977941189,128
+273,University of Florida,Field,Computer Science,46,10,42,0.5092223508526116,54
+274,University of Georgia,Field,Computer Science,9,4,114,0.3793236911281806,101
+276,University of Hawaii,Field,Computer Science,11,3,102,0.3396373055987232,117
+277,University of Houston,Field,Computer Science,15,6,86,0.4068781718880921,86
+279,University of Illinois Chicago,Field,Computer Science,28,5,60,0.4043734875696966,88
+280,University of Illinois Urbana-Champaign,Field,Computer Science,271,75,2,0.7778325173852294,11
+281,University of Iowa,Field,Computer Science,26,12,67,0.4915324757819555,57
+282,University of Kansas,Field,Computer Science,25,6,70,0.3545704727197982,109
+283,University of Kentucky,Field,Computer Science,10,3,105,0.3774149385800362,102
+284,University of Louisiana at Lafayette,Field,Computer Science,15,5,87,0.3559234242351173,108
+286,University of Louisville,Field,Computer Science,5,2,146,0.1342510898123874,197
+287,University of Maine,Field,Computer Science,7,4,120,0.4335346766199126,78
+288,University of Maryland Baltimore County,Field,Computer Science,10,5,104,0.3309316160380654,120
+289,University of Maryland College Park,Field,Computer Science,122,23,10,0.6989801380968255,21
+300,University of Michigan,Field,Computer Science,117,23,12,0.7088570660335161,20
+301,University of Minnesota Twin Cities,Field,Computer Science,99,25,19,0.6551330425136488,27
+302,University of Mississippi,Field,Computer Science,4,3,139,0.2725350364193266,146
+304,University of Missouri,Field,Computer Science,28,8,66,0.3691297439518097,103
+305,University of Missouri - Kansas City,Field,Computer Science,4,1,153,0.179524626329236,180
+308,University of Nebraska-Lincoln,Field,Computer Science,24,9,63,0.4183955380804146,83
+312,"University of Nevada, Reno",Field,Computer Science,6,1,140,0.1847262545506772,178
+314,University of New Mexico,Field,Computer Science,17,6,81,0.4494825750908246,76
+315,University of New Orleans,Field,Computer Science,2,1,182,0.2366684104921461,158
+320,University of North Texas,Field,Computer Science,9,3,121,0.2187495676894304,168
+323,University of Notre Dame,Field,Computer Science,27,7,64,0.4392692199198085,77
+324,University of Oklahoma,Field,Computer Science,7,2,129,0.2940845094292297,135
+325,University of Oregon,Field,Computer Science,9,2,109,0.4509442609654217,74
+327,University of Pittsburgh,Field,Computer Science,52,11,37,0.6242163063347023,36
+328,University of Rhode Island,Field,Computer Science,10,3,113,0.3393502069221197,118
+329,University of Rochester,Field,Computer Science,36,11,53,0.7526573472011013,13
+332,University of South Carolina,Field,Computer Science,10,7,115,0.3422189325520063,114
+333,University of South Dakota,Field,Computer Science,2,2,169,0.0890408851900042,206
+334,University of South Florida,Field,Computer Science,15,2,85,0.3604247868885783,106
+335,University of Southern California,Field,Computer Science,84,19,20,0.6064392291308649,39
+226,University of Tennessee,Field,Computer Science,29,8,57,0.3401358962526207,115
+341,University of Toledo,Field,Computer Science,7,4,131,0.268615305836642,148
+342,University of Tulsa,Field,Computer Science,8,2,126,0.2238085783689089,164
+343,University of Utah,Field,Computer Science,43,14,44,0.5623442269720094,45
+344,University of Vermont,Field,Computer Science,2,1,175,0.3815841336918105,99
+345,University of Virginia,Field,Computer Science,54,11,34,0.5661684560662303,44
+347,University of Wisconsin-Madison,Field,Computer Science,114,35,13,0.7849933625119652,10
+348,University of Wisconsin-Milwaukee,Field,Computer Science,6,4,135,0.4660316148720119,66
+349,University of Wyoming,Field,Computer Science,6,3,123,0.3805768177044342,100
+351,Vanderbilt,Field,Computer Science,41,9,47,0.4101715788327807,84
+353,Virginia Commonwealth,Field,Computer Science,3,2,167,0.1510291868341552,188
+354,Virginia Tech,Field,Computer Science,51,10,33,0.5063923269378512,55
+357,Washington State,Field,Computer Science,12,7,101,0.3283462315854274,122
+358,Washington University St. Louis,Field,Computer Science,36,9,52,0.5680532017146626,43
+359,Wayne State,Field,Computer Science,27,4,68,0.4638282217166962,68
+361,Wesleyan,Field,Computer Science,2,1,164,0.3868226651755885,95
+362,West Virginia,Field,Computer Science,10,4,110,0.2858290103044523,141
+363,Western Michigan,Field,Computer Science,6,5,143,0.2998609445827752,133
+365,Wichita State,Field,Computer Science,5,2,149,0.2119168158180422,171
+46,William & Mary,Field,Computer Science,21,2,74,0.4907905114550187,58
+366,Worcester Polytechnic Institute,Field,Computer Science,3,2,162,0.2920352932003384,137
+367,Wright State,Field,Computer Science,8,1,133,0.2541729512221252,151
+368,Yale,Field,Computer Science,52,19,35,0.743151521915385,15

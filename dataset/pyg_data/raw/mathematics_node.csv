@@ -1,0 +1,162 @@
+InstitutionId,InstitutionName,TaxonomyLevel,TaxonomyValue,NonAttritionEvents,AttritionEvents,ProductionRank,PrestigeRank,OrdinalPrestigeRank
+2,Air Force Institute of Technology,Field,Mathematics,14,6,91,0.1180147470823121,202
+12,Arizona State,Field,Mathematics,38,12,44,0.3227085431961471,119
+15,Auburn,Field,Mathematics,15,3,85,0.2712149091065997,140
+20,Baylor,Field,Mathematics,8,3,116,0.2954717978449524,128
+23,Boston College,Field,Mathematics,4,2,130,0.5101886668015102,59
+24,Boston University,Field,Mathematics,24,5,71,0.5432479798528731,50
+25,Bowling Green State,Field,Mathematics,6,1,128,0.2628548115383072,146
+26,Brandeis,Field,Mathematics,35,10,57,0.789783445732558,11
+28,Brown,Field,Mathematics,122,26,14,0.8118857773922662,10
+263,CU Boulder,Field,Mathematics,35,9,50,0.5010557132967332,63
+266,CU Denver,Field,Mathematics,6,1,129,0.2205126675528563,169
+31,Caltech,Field,Mathematics,76,15,26,0.8265891621207265,8
+34,Carnegie Mellon,Field,Mathematics,42,11,46,0.6325474617295231,32
+35,Case Western Reserve,Field,Mathematics,21,7,77,0.5401061596612473,52
+37,Central Michigan,Field,Mathematics,2,1,178,0.1562970756161877,196
+43,Clarkson,Field,Mathematics,5,1,135,0.2069689095472317,176
+44,Clemson,Field,Mathematics,15,11,88,0.2393462603321513,160
+48,Colorado State,Field,Mathematics,36,12,41,0.4864134078501901,68
+49,Columbia,Field,Mathematics,119,38,16,0.8269728865592804,7
+51,Cornell,Field,Mathematics,165,54,9,0.7557726105580814,15
+55,Dartmouth,Field,Mathematics,13,3,84,0.4955355629534395,64
+60,Duke,Field,Mathematics,40,11,49,0.5282424033882929,54
+66,Emory,Field,Mathematics,26,6,66,0.4699584851747851,72
+73,Florida State,Field,Mathematics,40,13,38,0.4910271841778412,65
+80,George Washington,Field,Mathematics,10,3,103,0.4756075814170267,71
+83,Georgia State,Field,Mathematics,6,3,132,0.2559175336186541,151
+82,Georgia Tech,Field,Mathematics,46,11,39,0.5695601294495718,47
+87,Harvard,Field,Mathematics,214,56,3,1.0,0
+90,Howard,Field,Mathematics,5,2,139,0.2689904221034879,141
+93,Illinois State,Field,Mathematics,9,3,112,0.1967524337947604,182
+96,Indiana University Bloomington,Field,Mathematics,91,30,24,0.6657400708720929,25
+99,Iowa State,Field,Mathematics,29,10,60,0.4452169341691894,89
+102,Johns Hopkins,Field,Mathematics,33,7,59,0.7423651431140555,16
+103,Kansas State,Field,Mathematics,13,1,94,0.4465915648108259,87
+104,Kent State,Field,Mathematics,29,6,63,0.3424111245635146,113
+109,LSU,Field,Mathematics,35,15,48,0.5168547662898091,57
+105,Lehigh,Field,Mathematics,4,4,147,0.4667509350750752,75
+112,Louisiana Tech,Field,Mathematics,1,1,165,0.1644305077733928,192
+114,Loyola University Chicago,Field,Mathematics,1,1,191,0.2868271459278095,131
+123,MIT,Field,Mathematics,280,73,2,0.9149856680841628,3
+119,Marquette,Field,Mathematics,1,1,210,0.1194006102003841,201
+132,Michigan State,Field,Mathematics,89,24,23,0.5787228748828638,45
+136,Mississippi State,Field,Mathematics,2,1,180,0.0914618867140085,207
+306,Missouri S&T,Field,Mathematics,6,3,119,0.2727120346338833,138
+137,Montana State,Field,Mathematics,9,3,100,0.2561831964656653,149
+146,NYU,Field,Mathematics,169,39,7,0.8244358892068917,9
+143,New Mexico State,Field,Mathematics,12,5,95,0.3505918765275411,112
+148,North Carolina State,Field,Mathematics,44,12,36,0.4138701219120648,98
+150,Northeastern,Field,Mathematics,12,3,99,0.5413092900429284,51
+152,Northern Illinois,Field,Mathematics,6,3,126,0.2670236038179457,143
+153,Northwestern,Field,Mathematics,68,20,28,0.6612201812334454,26
+156,Ohio State University,Field,Mathematics,101,33,19,0.5801778694929681,44
+157,Ohio University,Field,Mathematics,4,3,144,0.1822558745118777,189
+158,Oklahoma State,Field,Mathematics,18,2,80,0.3754491846578983,104
+159,Old Dominion,Field,Mathematics,8,3,113,0.1967009542810989,183
+161,Oregon State,Field,Mathematics,13,8,89,0.4321679384706207,95
+163,Penn State,Field,Mathematics,92,33,22,0.6459840715922266,27
+165,Portland State,Field,Mathematics,8,2,114,0.2786987398135634,135
+167,Princeton,Field,Mathematics,301,85,1,0.9975864579075788,1
+168,Purdue,Field,Mathematics,134,49,11,0.6124149694568581,38
+171,Rensselaer Polytechnic Institute,Field,Mathematics,24,10,68,0.573012557549676,46
+172,Rice,Field,Mathematics,47,19,34,0.7253620101091713,18
+177,Rutgers - New Brunswick,Field,Mathematics,94,16,21,0.674173081640155,23
+369,Rutgers - Newark,Field,Mathematics,1,1,200,0.4585893503058936,80
+203,SUNY Binghamton,Field,Mathematics,18,7,81,0.4669031809495411,74
+205,SUNY Stony Brook,Field,Mathematics,75,15,27,0.7170105687026214,19
+178,Saint Louis University,Field,Mathematics,1,1,179,0.2593003020673258,148
+193,Southern Methodist,Field,Mathematics,4,1,141,0.3197712081499244,122
+198,Stanford,Field,Mathematics,172,39,8,0.886619746097594,5
+200,Stevens Institute of Technology,Field,Mathematics,5,3,140,0.4207782357514754,97
+210,Syracuse,Field,Mathematics,13,7,86,0.4355525244609824,92
+211,Teachers College Columbia,Field,Mathematics,3,2,154,0.3344958851179243,116
+212,Temple,Field,Mathematics,9,2,107,0.4059366649771495,99
+215,Texas A&M,Field,Mathematics,63,13,29,0.505006589276828,62
+64,Texas A&M University-Commerce,Field,Mathematics,2,2,171,0.0239643745008517,221
+221,Texas State,Field,Mathematics,1,1,175,0.1867162850634247,187
+222,Texas Tech,Field,Mathematics,7,1,106,0.2210873365366965,168
+237,Tufts,Field,Mathematics,7,1,125,0.4462315750029327,88
+238,Tulane,Field,Mathematics,17,10,82,0.4893181603497504,66
+251,UC Berkeley,Field,Mathematics,381,106,0,0.901592001977458,4
+252,UC Davis,Field,Mathematics,37,10,52,0.5905515321480458,40
+253,UC Irvine,Field,Mathematics,35,10,56,0.6187429003170484,35
+255,UC Riverside,Field,Mathematics,11,4,98,0.4619500310841089,79
+256,UC San Diego,Field,Mathematics,77,20,25,0.6436267701902044,28
+258,UC Santa Barbara,Field,Mathematics,29,8,62,0.6207460793365696,34
+259,UC Santa Cruz,Field,Mathematics,10,1,102,0.5860076075389624,41
+254,UCLA,Field,Mathematics,139,34,10,0.7883628647105909,12
+267,UConn,Field,Mathematics,38,8,51,0.4851122172273006,69
+293,UMass Amherst,Field,Mathematics,21,5,76,0.486415380754179,67
+316,UNC,Field,Mathematics,59,18,31,0.641724649363425,29
+326,UPenn,Field,Mathematics,65,10,30,0.7795718676519063,13
+228,UT Arlington,Field,Mathematics,11,2,101,0.3217051563248665,121
+229,UT Austin,Field,Mathematics,120,21,15,0.7042876472771012,20
+539121,UT Permian Basin,Field,Mathematics,1,1,204,0.1787500173628469,190
+346,UW,Field,Mathematics,95,28,20,0.6758373833008123,21
+202,University at Albany (SUNY),Field,Mathematics,7,4,124,0.3912711858904297,101
+204,University at Buffalo (SUNY),Field,Mathematics,10,2,97,0.447124007562522,86
+242,University of Akron,Field,Mathematics,1,1,213,0.1564015973885483,195
+243,University of Alabama,Field,Mathematics,7,3,123,0.3128648998107191,124
+244,University of Alabama at Birmingham,Field,Mathematics,3,1,156,0.251291780655739,153
+245,University of Alabama in Huntsville,Field,Mathematics,1,1,203,0.1981413322654269,181
+247,University of Arizona,Field,Mathematics,51,12,35,0.617208141304881,36
+250,University of Arkansas,Field,Mathematics,2,1,150,0.2364376634087137,161
+260,University of Central Florida,Field,Mathematics,5,1,134,0.2411300401904147,157
+261,University of Chicago,Field,Mathematics,211,54,4,0.91543881551975,2
+262,University of Cincinnati,Field,Mathematics,10,3,90,0.3360330775650063,115
+270,University of Delaware,Field,Mathematics,24,5,69,0.4542878246883092,81
+273,University of Florida,Field,Mathematics,37,9,42,0.5079367954224164,61
+274,University of Georgia,Field,Mathematics,47,16,40,0.5662483037677449,48
+276,University of Hawaii,Field,Mathematics,2,1,174,0.3167337037448276,123
+277,University of Houston,Field,Mathematics,20,6,75,0.3758453574529831,103
+278,University of Idaho,Field,Mathematics,4,1,137,0.2674625499011387,142
+279,University of Illinois Chicago,Field,Mathematics,37,14,53,0.5336669568813861,53
+280,University of Illinois Urbana-Champaign,Field,Mathematics,128,43,13,0.6381682749383757,31
+281,University of Iowa,Field,Mathematics,46,19,33,0.5185942507969011,56
+282,University of Kansas,Field,Mathematics,20,7,72,0.4675276291989485,73
+283,University of Kentucky,Field,Mathematics,26,9,67,0.4526190593745275,84
+284,University of Louisiana at Lafayette,Field,Mathematics,8,4,109,0.2225785319297035,167
+289,University of Maryland College Park,Field,Mathematics,103,25,18,0.6750949765460618,22
+298,University of Memphis,Field,Mathematics,4,1,138,0.2521419194880032,152
+299,University of Miami,Field,Mathematics,7,1,110,0.4283645922240983,96
+300,University of Michigan,Field,Mathematics,190,48,5,0.7731830981635878,14
+301,University of Minnesota Twin Cities,Field,Mathematics,131,32,12,0.6666006434605821,24
+302,University of Mississippi,Field,Mathematics,3,2,155,0.2405035500690835,158
+304,University of Missouri,Field,Mathematics,47,18,37,0.6147354875459591,37
+308,University of Nebraska-Lincoln,Field,Mathematics,40,13,43,0.4625100060119888,78
+311,"University of Nevada, Las Vegas",Field,Mathematics,2,2,172,0.159588374230392,194
+312,"University of Nevada, Reno",Field,Mathematics,3,2,161,0.3267930643748349,118
+313,University of New Hampshire,Field,Mathematics,12,3,96,0.4380727656032413,91
+314,University of New Mexico,Field,Mathematics,19,10,78,0.4348141052011338,93
+319,University of North Dakota,Field,Mathematics,2,1,167,0.0798713038710562,212
+320,University of North Texas,Field,Mathematics,3,2,142,0.3625825633155867,106
+322,University of Northern Colorado,Field,Mathematics,7,5,117,0.2064012504366416,177
+323,University of Notre Dame,Field,Mathematics,37,12,55,0.6038102718760826,39
+324,University of Oklahoma,Field,Mathematics,14,4,93,0.3540446876547896,109
+325,University of Oregon,Field,Mathematics,17,4,83,0.5164890110748716,58
+327,University of Pittsburgh,Field,Mathematics,42,10,47,0.5841480800012859,42
+328,University of Rhode Island,Field,Mathematics,5,2,133,0.273025381995912,137
+329,University of Rochester,Field,Mathematics,26,8,70,0.6406430802512401,30
+332,University of South Carolina,Field,Mathematics,28,6,64,0.4661757957463202,76
+334,University of South Florida,Field,Mathematics,12,5,87,0.286180743083928,132
+335,University of Southern California,Field,Mathematics,23,7,73,0.5086040058522922,60
+336,University of Southern Mississippi,Field,Mathematics,2,1,168,0.1009690601453873,205
+226,University of Tennessee,Field,Mathematics,30,15,58,0.4499748643906925,85
+342,University of Tulsa,Field,Mathematics,4,1,149,0.0871669595159633,209
+343,University of Utah,Field,Mathematics,51,17,32,0.5547652323424054,49
+344,University of Vermont,Field,Mathematics,2,1,163,0.2430057253811164,156
+345,University of Virginia,Field,Mathematics,32,9,61,0.5809670425160298,43
+347,University of Wisconsin-Madison,Field,Mathematics,175,68,6,0.7316476667615714,17
+348,University of Wisconsin-Milwaukee,Field,Mathematics,10,2,105,0.288637561297857,130
+349,University of Wyoming,Field,Mathematics,19,9,79,0.4531299596257657,83
+350,Utah State,Field,Mathematics,4,1,143,0.2197671537045065,170
+351,Vanderbilt,Field,Mathematics,27,12,65,0.4805481111627817,70
+354,Virginia Tech,Field,Mathematics,33,7,54,0.4431523934992254,90
+357,Washington State,Field,Mathematics,11,5,104,0.2402048014451287,159
+358,Washington University St. Louis,Field,Mathematics,41,11,45,0.6260496876278434,33
+359,Wayne State,Field,Mathematics,22,5,74,0.4533198264381965,82
+361,Wesleyan,Field,Mathematics,6,3,120,0.4339788938105963,94
+363,Western Michigan,Field,Mathematics,14,4,92,0.3506486522280471,111
+366,Worcester Polytechnic Institute,Field,Mathematics,5,2,136,0.2833373510079811,133
+368,Yale,Field,Mathematics,112,33,17,0.8500087455604517,6

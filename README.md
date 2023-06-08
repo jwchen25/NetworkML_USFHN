@@ -1,2 +1,1 @@
-# NetworkML_USFHN
-NetworkML Course Project
+# NetworkML Course Project
