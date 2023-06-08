@@ -52,7 +52,7 @@ def main():
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--subset', type=str, default='chemistry')
     parser.add_argument('--log_steps', type=int, default=1)
-    parser.add_argument('--method', type=str, default='trans')
+    parser.add_argument('--method', type=str, default='gcn')
     parser.add_argument('--conv_layers', type=int, default=3)
     parser.add_argument('--mlp_layers', type=int, default=2)
     parser.add_argument('--hidden_dim', type=int, default=300)
@@ -82,7 +82,7 @@ def main():
     for run in range(args.runs):
 
         # set global seed for this run
-        seed_everything(seed=run)
+        seed_everything(seed=run, workers=True)
         # split data for each run
         split_idx = dataset.get_idx_split(seed=run)
         for _idx in split_idx.keys():
