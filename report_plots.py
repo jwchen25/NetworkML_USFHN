@@ -3,10 +3,12 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
-from dataset import USFHNDataset
+from dataset import USFHNDataset, feature2csv, fit_r2
 
 
 def plot_fig1():
+    """ the function to plot Fig. 1 of the report 
+    """
     fig = plt.figure(figsize=(5, 5), layout='constrained')
     subsets = ['chemistry', 'mathematics', 'physics', 'computer_science']
 
@@ -47,9 +49,56 @@ def plot_fig1():
     plt.show()
 
 
+def plot_fig2():
+    """ the function to plot Fig. 2 of the report 
+    """
+
+    # get node features and ranking of 4 subsets
+    subsets = ['chemistry', 'mathematics', 'physics', 'computer_science']
+    fea_rank = []
+    for subset in subsets:
+        # load graph (nx.DiGraph)
+        dataset = USFHNDataset(name=subset, root='dataset/pyg_data')
+        G = dataset.G
+        # get node features and ranking and create CSV files 
+        fpath = 'dataset/plot_data/' + subset + '_node_features.csv'
+        _data = feature2csv(G, fpath)
+        fea_rank.append(_data)
+
+    # plot figures
+    fig = plt.figure(figsize=(9, 6), layout='constrained')
+    col_name = [
+        'degree_centrality', 'eigenvector_centrality',
+        'harmonic_centrality', 'closeness_centrality',
+        'betweenness_centrality', 'clustering_coefficients',
+    ]
+    col_idx = [1, 2, 3, 4, 5, 6]
+    for i, col in enumerate(col_idx):
+        ax = fig.add_subplot(2, 3 , i + 1)
+        title = col_name[i].replace('_', ' ').capitalize()
+        ax.set_title(title, fontsize=15)
+
+        # r2_list = np.zeros(len(fea_rank))
+        for j, data in enumerate(fea_rank):
+            ax.plot(data[:, -1], data[:, col], 'o',
+                    label=subsets[j].replace('_', ' '))
+        #     r2_list[j] = fit_r2(data[:, -1], data[:, col])
+        # print(r2_list.mean())
+
+        ax.set_xlim((0.0, 1.0))
+        ax.set_xlabel('Prestige rank', fontsize=13, fontweight='bold')
+        ax.set_ylabel(title, fontsize=13, fontweight='bold')
+        plt.tick_params(labelsize=12)
+        # ax.legend()
+
+    plt.savefig('figures/fig2.pdf')
+    plt.savefig('figures/fig2.png')
+    plt.show()
+
+
 if __name__ == "__main__":
 
     from matplotlib import rcParams
     rcParams['font.family'] = 'Times New Roman'
 
-    plot_fig1()
+    plot_fig2()
