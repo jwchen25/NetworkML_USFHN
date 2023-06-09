@@ -7,6 +7,7 @@
 \usepackage{graphicx}
 \usepackage{textcomp}
 \usepackage{xcolor}
+\usepackage[colorlinks,linkcolor=blue]{hyperref}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
@@ -29,7 +30,7 @@ junwu.chen@epfl.ch}
 \maketitle
 
 \begin{abstract}
-In this project,, the USFHN dataset was divided according to different fields, and constructed chemistry, mathematics, physics and computer science subsets. Predicting the prestige ranking of institutions is set as the task of 4 subsets, which is a node regression task. 7 kinds of node features were calculated, while each individual node feature is not directly related to prestige ranking. Among them, the degree centrality feature has a certain linear correlation with the ranking. Then, the graph convolutional layers of 7 reported GNNs were selected to build the models for ranking prediction. These models are trained on all subsets under the same hyperparameters and training conditions. The results show that GCN has the best ranking prediction performance on all 4 subsets and surpasses new models such as GATv2.
+In this project, the USFHN dataset was divided according to different fields, and constructed chemistry, mathematics, physics and computer science subsets. Predicting the prestige ranking of institutions is set as the task of 4 subsets, which is a node regression task. 7 kinds of node features were calculated, while each individual node feature is not directly related to prestige ranking. Among them, the degree centrality feature has a certain linear correlation with the ranking. Then, the graph convolutional layers of 7 reported GNNs were selected to build the models for ranking prediction. These models are trained on all subsets under the same hyperparameters and training conditions. The results show that GCN has the best ranking prediction performance on all 4 subsets and surpasses new models such as GATv2. The implementation is available at \href{https://github.com/jwchen25/NetworkML_USFHN}{https://github.com/jwchen25/NetworkML\_USFHN}.
 \end{abstract}
 
 \section{Exploration}
