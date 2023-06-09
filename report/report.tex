@@ -95,7 +95,7 @@ As shown in Fig.~\ref{fig2}, there is no direct correlation between individual n
 
 \begin{figure}[htbp]
 \centerline{\includegraphics[width=0.48\textwidth]{figures/fig2.pdf}}
-\caption{Distribution of various node features and prestige ranks, on the chemistry (blue), mathematics (orange), physics (green) and computer science (red) subsets}
+\caption{Distribution of various node features and prestige ranks, on the chemistry (blue), mathematics (orange), physics (green) and computer science (red) subsets.}
 \label{fig2}
 \end{figure}
 
@@ -143,7 +143,13 @@ Average & \textbf{0.94} & 0.93 & 0.92 & 0.90 & 0.91 & 0.91 & 0.91 \\
 \end{center}
 \end{table*}
 
-Graph Neural Networks (GNNs) have achieved state-of-the-art performance on almost all tasks among various graph representation learning methods. According to the summary of the models used for node property prediction in OGB and other benchmarks, the representative GNN models between 2017-2022 are selected to predict the university rankings on the 4 subsets. The selected GNN models are listed in Table~\ref{t2}. Only the graph convolutional layers of these models are used to build the GNN models and predict the prestige rankings of  nodes on the 4 subsets. Thus, our architecture has 2 major components: graph convolutional layers and fully connected layers. Among them, the graph convolution layers of GCN and GIN are modified to use edge features in the message passing process. The edge features used in model training are edge weight and edge betweenness centrality.
+Graph Neural Networks (GNNs) have achieved state-of-the-art performance on almost all tasks among various graph representation learning methods. According to the summary of the models used for node property prediction in OGB and other benchmarks, the representative GNN models between 2017-2022 are selected to predict the university rankings on the 4 subsets. The selected GNN models are listed in Table~\ref{t2}. Only the graph convolutional layers of these models are used to build the GNN models and predict the prestige rankings of  nodes on the 4 subsets. As shown in Fig.~\ref{fig3}, our architecture has 2 major components: graph convolutional layers and MLP. The sigmoid activation function is used to make the final output of the models between 0-1, because the value of the predicted target (prestige ranking) is between 0-1. The graph convolution layers of GCN and GIN are modified to enable the models to use edge features during message passing. The edge features used in model training are edge weight and edge betweenness centrality.
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[width=0.3\textwidth]{figures/fig3.pdf}}
+\caption{GNN model architecture used in this work.}
+\label{fig3}
+\end{figure}
 
 
 \subsection{Experimental results}
