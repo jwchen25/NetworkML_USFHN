@@ -29,8 +29,8 @@ def plot_fig1():
         cutoff = int(len(nodes) * 0.10)
         top_node, oth_node = nodes[ind[:cutoff]], nodes[ind[cutoff:]]
         top_rank, oth_rank = ranks[ind[:cutoff]], ranks[ind[cutoff:]]
-        top_size = top_rank * 70 + 10
-        oth_size = oth_rank * 70 + 10
+        top_size = top_rank * 100 + 20
+        oth_size = oth_rank * 100 + 20
         # plot graphs via networkx
         nx.draw_networkx_edges(G, pos, ax=ax, arrows=False, width=1.0,
                                alpha=0.6, edge_color="tab:gray")
