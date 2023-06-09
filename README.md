@@ -1,5 +1,11 @@
 # NetworkML Course Project
 
+## Note
+- Title: Predicting University Rankings on the US Faculty Hiring Networks via GNNs
+- Author: Junwu Chen
+- Group 25
+### All experiment results shown in the report are in `exp_results` folder
+
 
 ## create python env for this project
 ```
