@@ -66,7 +66,7 @@ def plot_fig2():
         fea_rank.append(_data)
 
     # plot figures
-    fig = plt.figure(figsize=(9, 6), layout='constrained')
+    fig = plt.figure(figsize=(6, 9), layout='constrained')
     col_name = [
         'degree_centrality', 'eigenvector_centrality',
         'harmonic_centrality', 'closeness_centrality',
@@ -74,7 +74,7 @@ def plot_fig2():
     ]
     col_idx = [1, 2, 3, 4, 5, 6]
     for i, col in enumerate(col_idx):
-        ax = fig.add_subplot(2, 3 , i + 1)
+        ax = fig.add_subplot(3, 2, i + 1)
         title = col_name[i].replace('_', ' ').capitalize()
         ax.set_title(title, fontsize=15)
 
