@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import networkx as nx
 import torch
 from torch_geometric.data import Data, InMemoryDataset
 
@@ -55,6 +56,7 @@ class USFHNDataset(InMemoryDataset):
         self.name = name
         super().__init__(root, transform, pre_transform)
         self.data, self.slices = torch.load(self.processed_paths[0])
+        self.G = nx.read_gpickle(self.processed_paths[1])
 
     @property
     def raw_file_names(self):
@@ -65,7 +67,8 @@ class USFHNDataset(InMemoryDataset):
     @property
     def processed_file_names(self):
         fname = self.name + '.pt'
-        return [fname]
+        gname = self.name + '.gpickle'
+        return [fname, gname]
 
     def get_idx_split(self, seed=None, train_ratio=0.7,
                       valid_ratio=0.1, test_ratio=0.2):
@@ -94,3 +97,4 @@ class USFHNDataset(InMemoryDataset):
 
         # save data
         torch.save(self.collate([data]), self.processed_paths[0])
+        nx.write_gpickle(G, self.processed_paths[1])
