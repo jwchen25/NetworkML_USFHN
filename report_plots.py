@@ -101,4 +101,5 @@ if __name__ == "__main__":
     from matplotlib import rcParams
     rcParams['font.family'] = 'Times New Roman'
 
+    plot_fig1()
     plot_fig2()
