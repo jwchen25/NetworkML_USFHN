@@ -86,8 +86,8 @@ def plot_fig2():
         # print(r2_list.mean())
 
         ax.set_xlim((0.0, 1.0))
-        ax.set_xlabel('Prestige rank', fontsize=13, fontweight='bold')
-        ax.set_ylabel(title, fontsize=13, fontweight='bold')
+        ax.set_xlabel('Prestige rank', fontsize=14, fontweight='bold')
+        ax.set_ylabel(title, fontsize=14, fontweight='bold')
         plt.tick_params(labelsize=12)
         # ax.legend()
 
