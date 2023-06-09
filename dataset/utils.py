@@ -130,3 +130,65 @@ def graph2data(G, normalization=True):
         data.edge_attr = (data.edge_attr - mean) / std
 
     return data
+
+
+def feature2csv(G, fpath):
+    """ write node features of a graph into a CSV file
+
+    Args:
+        G (nx.Graph): input graph
+        fpath (str): path of output CSV file
+
+    Returns:
+        np.array: node features and ranking
+    """
+    G = G.copy()
+    data = from_networkx(G)
+    degree_ratio = data.AttritionEvents / (data.AttritionEvents + data.NonAttritionEvents)
+
+    # node features and ranking
+    node_fea = torch.stack([
+        degree_ratio,
+        data.degree_centrality,
+        data.eigenvector_centrality,
+        data.harmonic_centrality,
+        data.closeness_centrality,
+        data.betweenness_centrality,
+        data.clustering_coefficients,
+        data.PrestigeRank
+    ]).t().numpy()
+
+    header = ('degree_ratio,'
+              'degree_centrality,'
+              'eigenvector_centrality,'
+              'harmonic_centrality,'
+              'closeness_centrality,'
+              'betweenness_centrality,'
+              'clustering_coefficients,'
+              'PrestigeRank')
+    np.savetxt(fpath, node_fea, delimiter=',', header=header, comments='')
+
+    return node_fea
+
+
+def fit_r2(x, y):
+    """ get the R2 value of the linear fit of two numpy arrays
+
+    Args:
+        x (np.array): x array
+        y (np.array): y array
+
+    Returns:
+        float: R2 score
+    """
+    # Fit a first-degree polynomial (linear fit)
+    coefficients = np.polyfit(x, y, 1)
+    polynomial = np.poly1d(coefficients)
+    
+    # Calculate predicted values
+    y_pred = polynomial(x)
+    
+    # Calculate the R2 value
+    r2 = np.corrcoef(y, y_pred)[0, 1] ** 2
+    
+    return r2
